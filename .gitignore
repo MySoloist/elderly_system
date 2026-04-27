@@ -1,0 +1,100 @@
+# ===================
+# Python
+# ===================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# ===================
+# Backend
+# ===================
+backend/.env
+backend/.env.local
+backend/.env.*.local
+
+# User uploads (avatars, images, audio, voices)
+backend/static/uploads/
+backend/static/voices/
+
+# ONNX models (large binary files)
+backend/models/piper/*.onnx
+backend/models/piper/*.onnx.json
+
+# Database backup files
+*.sql.bak
+*.db.bak
+
+# ===================
+# Frontend Admin (Vite)
+# ===================
+frontend/admin/node_modules/
+frontend/admin/dist/
+frontend/admin/dist-ssr/
+*.local
+
+# ===================
+# Frontend User (uni-app)
+# ===================
+frontend/user/*/node_modules/
+frontend/user/*/unpackage/
+frontend/user/*/.hbuilderx/
+frontend/user/*/project.private.config.json
+
+# ===================
+# IDE
+# ===================
+.vscode/
+.idea/
+*.sw?
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+
+# ===================
+# Large Files
+# ===================
+*.mp4
+*.zip
+*.rar
+*.7z
+*.pdf
+*.tar
+*.tar.gz
+
+# ===================
+# Backup
+# ===================
+backup/
+
+# ===================
+# Build outputs
+# ===================
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ===================
+# Logs
+# ===================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*

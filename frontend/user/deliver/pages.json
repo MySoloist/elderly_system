@@ -1,0 +1,130 @@
+{
+	"pages": [
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/login/register",
+			"style": {
+				"navigationBarTitleText": "注册",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/order/order",
+			"style": {
+				"navigationBarTitleText": "订单列表"
+			}
+		},
+		{
+			"path": "pages/navigation/navigation",
+			"style": {
+				"navigationBarTitleText": "配送导航",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/income/income",
+			"style": {
+				"navigationBarTitleText": "收入明细"
+			}
+		},
+		{
+			"path": "pages/profile/profile",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+			}
+		},
+		{
+			"path": "pages/personal-info/personal-info",
+			"style": {
+				"navigationBarTitleText": "个人信息"
+			}
+		},
+		{
+			"path": "pages/schedule/schedule",
+			"style": {
+				"navigationBarTitleText": "排班管理"
+			}
+		},
+		{
+			"path": "pages/settings/settings",
+			"style": {
+				"navigationBarTitleText": "设置"
+			}
+		},
+		{
+			"path": "pages/help/help",
+			"style": {
+				"navigationBarTitleText": "帮助中心"
+			}
+		},
+		{
+			"path": "pages/about/about",
+			"style": {
+				"navigationBarTitleText": "关于我们"
+			}
+		},
+		{
+			"path": "pages/order-detail/order-detail",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		},
+		{
+			"path": "pages/exception/exception",
+			"style": {
+				"navigationBarTitleText": "异常处理"
+			}
+		},
+		{
+			"path": "pages/message/message",
+			"style": {
+				"navigationBarTitleText": "消息中心"
+			}
+		},
+		{
+			"path": "pages/reviews/reviews",
+			"style": {
+				"navigationBarTitleText": "我的评价"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "颐养膳食",
+		"navigationBarBackgroundColor": "#10b981",
+		"backgroundColor": "#f8fafc"
+	},
+	"tabBar": {
+		"color": "#64748b",
+		"selectedColor": "#10b981",
+		"backgroundColor": "#ffffff",
+		"borderStyle": "black",
+		"list": [
+			{
+				"pagePath": "pages/order/order",
+				"text": "订单",
+				"iconPath": "static/tabbar/order.png",
+				"selectedIconPath": "static/tabbar/order-active.png"
+			},
+			{
+				"pagePath": "pages/navigation/navigation",
+				"text": "导航",
+				"iconPath": "static/tabbar/navigation.png",
+				"selectedIconPath": "static/tabbar/navigation-active.png"
+			},
+			{
+				"pagePath": "pages/profile/profile",
+				"text": "我的",
+				"iconPath": "static/tabbar/profile.png",
+				"selectedIconPath": "static/tabbar/profile-active.png"
+			}
+		]
+	},
+	"uniIdRouter": {}
+}

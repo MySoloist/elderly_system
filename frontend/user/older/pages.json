@@ -1,0 +1,205 @@
+{
+	"pages": [ 
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/login/register",
+			"style": {
+				"navigationBarTitleText": "注册",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "餐品浏览"
+			}
+		},
+		{
+			"path": "pages/order/order",
+			"style": {
+				"navigationBarTitleText": "我的订单"
+			}
+		},
+		{
+			"path": "pages/profile/profile",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+		{
+			"path": "pages/profile/info",
+			"style": {
+				"navigationBarTitleText": "个人信息",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/profile/edit",
+			"style": {
+				"navigationBarTitleText": "编辑个人信息",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/profile/health",
+			"style": {
+				"navigationBarTitleText": "健康档案",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/profile/add-health-record",
+			"style": {
+				"navigationBarTitleText": "添加健康记录",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/profile/preference",
+			"style": {
+				"navigationBarTitleText": "饮食偏好",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/food/detail",
+			"style": {
+				"navigationBarTitleText": "餐品详情",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/favorite/favorite",
+			"style": {
+				"navigationBarTitleText": "我的收藏",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/order/review",
+			"style": {
+				"navigationBarTitleText": "订单评价",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/order/detail",
+			"style": {
+				"navigationBarTitleText": "订单详情",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/profile/reviews",
+			"style": {
+				"navigationBarTitleText": "我的评价",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/profile/announcements",
+			"style": {
+				"navigationBarTitleText": "我的公告",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/profile/announcement-detail",
+			"style": {
+				"navigationBarTitleText": "公告详情",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/profile/health-reminders",
+			"style": {
+				"navigationBarTitleText": "健康提醒",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/profile/emergency-contacts",
+			"style": {
+				"navigationBarTitleText": "紧急联系人",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/help/help",
+			"style": {
+				"navigationBarTitleText": "工作人员求助",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/help/category",
+			"style": {
+				"navigationBarTitleText": "紧急求助",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/help/emergency-help",
+			"style": {
+				"navigationBarTitleText": "紧急求助",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/call/family",
+			"style": {
+				"navigationBarTitleText": "呼叫家属",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/profile/settings",
+			"style": {
+				"navigationBarTitleText": "设置",
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "颐养膳食",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#F5F5F5",
+		"navigationBarShadow": "0 1px 6px rgba(0, 0, 0, 0.05)"
+	},
+	"uniIdRouter": {},
+	"tabBar": {
+		"color": "#999999",
+		"selectedColor": "#FF7A45",
+		"backgroundColor": "#FFFFFF",
+		"borderStyle": "black",
+		"height": "56px",
+		"fontSize": "12px",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath": "static/tabbar/home.png",
+				"selectedIconPath": "static/tabbar/home-active.png"
+			},
+			{
+				"pagePath": "pages/order/order",
+				"text": "订单",
+				"iconPath": "static/tabbar/order.png",
+				"selectedIconPath": "static/tabbar/order-active.png"
+			},
+			{
+				"pagePath": "pages/profile/profile",
+				"text": "我的",
+				"iconPath": "static/tabbar/person.png",
+				"selectedIconPath": "static/tabbar/person-active.png"
+			}
+		]
+	}
+}

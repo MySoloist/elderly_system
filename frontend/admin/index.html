@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>admin</title>
+    <!-- 百度地图JavaScript API -->
+    <script type="text/javascript">
+      function loadBaiduMap() {
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = 'https://api.map.baidu.com/getscript?v=3.0&ak=oxbT7PAoCFKdvrp6NndzWLwXU2fDo9cM&services=&t=' + new Date().getTime();
+        script.onerror = function() {
+          console.error('百度地图API加载失败');
+        };
+        document.head.appendChild(script);
+      }
+      // 页面加载完成后加载百度地图
+      window.addEventListener('load', loadBaiduMap);
+    </script>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

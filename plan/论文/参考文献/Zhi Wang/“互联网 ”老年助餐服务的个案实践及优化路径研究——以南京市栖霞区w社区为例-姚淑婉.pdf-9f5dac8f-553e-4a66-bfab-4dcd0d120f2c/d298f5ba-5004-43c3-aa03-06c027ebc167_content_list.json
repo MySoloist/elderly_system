@@ -1,0 +1,6605 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/bb1787bf85456fe8b0721ee1111800d73071199535f7a7c0a41e2b0e3f5eca3a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            129,
+            119,
+            324,
+            258
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号： C916 密级： 公开",
+        "bbox": [
+            436,
+            110,
+            821,
+            131
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "UDC: 学校代码：10127",
+        "bbox": [
+            436,
+            141,
+            826,
+            160
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "内蒙古科技大学",
+        "text_level": 1,
+        "bbox": [
+            326,
+            290,
+            613,
+            325
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "硕士学位论文",
+        "text_level": 1,
+        "bbox": [
+            268,
+            344,
+            700,
+            397
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "论文题目：“互联网+”老年助餐服务的个案实践及优化路径研究——以南京市栖霞区w社区为例",
+        "bbox": [
+            147,
+            502,
+            808,
+            555
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "英文题目： A Study on the Case Practice and Optimization Path of \"Internet+\" Elderly Meal Assistance Service: Taking W Community in Qixia District, Nanjing City as an Example. ",
+        "bbox": [
+            147,
+            559,
+            806,
+            641
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "学位类别： 专业硕士",
+        "bbox": [
+            147,
+            644,
+            806,
+            671
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究生姓名： 姚淑婉 学号： 2022033200",
+        "bbox": [
+            147,
+            675,
+            806,
+            700
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "学科(领域)名称： 社会工作",
+        "bbox": [
+            147,
+            703,
+            806,
+            728
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "指导教师：闫金山 职称： 副教授",
+        "bbox": [
+            147,
+            732,
+            806,
+            755
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "协助指导教师： 魏成 职称： 副教授",
+        "bbox": [
+            149,
+            758,
+            806,
+            783
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2025年5月29日",
+        "bbox": [
+            420,
+            825,
+            613,
+            845
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "-1 ",
+        "bbox": [
+            485,
+            913,
+            522,
+            925
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            960,
+            319,
+            979
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 ",
+        "text_level": 1,
+        "bbox": [
+            450,
+            101,
+            573,
+            127
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在人口老龄化加速的时代背景下，老年群体的饮食保障成为社会关注焦点，“互联网+”老年助餐服务模式作为创新型社区养老服务举措，具有重要的实践探索价值。本研究聚焦于南京市栖霞区W社区，深入开展“互联网+”老年助餐服务的个案实践及优化路径研究，研究目的在于剖析“互联网+”老年助餐服务在W社区的运行现状，揭示其存在的问题与挑战，并构建切实可行的优化路径，为提升老年助餐服务质量和推动养老服务体系创新提供实证依据与参考。",
+        "bbox": [
+            136,
+            151,
+            885,
+            300
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究综合采用问卷法、文献法、访谈法和观察法收集资料。资料分析发现，W社区已初步构建起“互联网+”老年助餐服务架构，线上平台实现了部分老年人的订餐功能，整合了周边一定数量的餐饮供应资源，拓展了餐食选择范围，老人可以更简便更安全的在社区用餐。但与此同时，问题也较为显著。主要表现在：服务质量方面，膳食服务质量一般，现有膳食缺乏个性化服务，供餐模式和时间比较单一；理念方面，老年人互联网思想薄弱，难以接受新模式；宣传方面，社区和居家养老服务中心宣传方式单一，宣传内容有待优化；服务平台方面，功能模块相对单一，缺乏与健康管理、需求评估等功能的有效整合，无法满足老年人多元化需求；界面设计不够友好，对老年人操作习惯考虑不足，导致部分老年人难以独立完成订餐流程；数据安全保障机制薄弱，存在个人信息泄露风险。基于上述研究结果，本研究提出以下优化路径：一是提高膳食服务质量，强化人员培训，完善老年人需求信息数据库，合理整合调配助餐资源；二是提高“互联网+”助餐服务普及度，提高老年人“互联网+”助餐技能，加强“互联网+”助餐服务宣传；三是优化信息技术，扩大平台功能，进行服务平台适老化改造，加强信息安全保障。研究表明，“互联网+”老年助餐服务在W社区虽有一定基础，但仍需从多方面进行系统优化以提升老年助餐服务的质量与效率，增强老年人的用餐满意度与幸福感。",
+        "bbox": [
+            136,
+            307,
+            885,
+            720
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关键词：“互联网+”；助餐服务；老年人；优化路径；南京市",
+        "bbox": [
+            137,
+            746,
+            702,
+            764
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "-1 ",
+        "bbox": [
+            515,
+            934,
+            552,
+            946
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "bbox": [
+            455,
+            108,
+            569,
+            130
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the context of the accelerating aging of the population, the dietary security of the elderly population has become a focus of social attention. The \"Internet +\" elderly meal assistance service model, as an innovative measure in elderly care services, has important practical exploration value. This study focuses on Community W in Qixia District, Nanjing City, and conducts an in-depth case study and research on the optimization path of the \"Internet +\" elderly meal assistance service. The purpose of this study is to analyze the current operation status of the \"Internet +\" elderly meal assistance service in Community W, reveal its existing problems and challenges, and construct a practical optimization path to provide empirical evidence and references for improving the quality of elderly meal assistance services and promoting the innovation of the elderly care service system. This study comprehensively uses the questionnaire method, literature method, interview method, and observation method to collect data. Through data analysis, it is found that Community W has initially established the \"Internet +\" elderly meal assistance service framework. The online platform has realized the meal ordering function for some elderly people, integrated a certain number of surrounding catering supply resources, expanded the range of food choices, and enabled the elderly to dine in the community more conveniently and safely. However, at the same time, the problems are also quite significant. Mainly manifested in: In terms of service quality, the quality of meal services is average, the existing meals lack personalized services, and the meal supply mode and time are relatively monotonous; In terms of concepts, the elderly have weak Internet thinking and it is difficult for them to accept the new model; In terms of publicity, the publicity methods of the community and the home-based elderly care service center are single, and the publicity content needs to be optimized; In terms of the service platform, the functional modules are relatively simple, lacking effective integration with functions such as health management and demand assessment, and unable to meet the diversified needs of the elderly; The interface design is ",
+        "bbox": [
+            136,
+            177,
+            885,
+            884
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "—II— ",
+        "bbox": [
+            509,
+            933,
+            552,
+            945
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "not user-friendly enough, and insufficient consideration has been given to the operation habits of the elderly, resulting in some elderly people being unable to complete the meal ordering process independently; The data security protection mechanism is weak, and there is a risk of personal information leakage. Based on the above research results, this study proposes the following optimization paths: First, improve the quality of meal services, strengthen personnel training, improve the database of elderly people's demand information, and rationally integrate and allocate meal assistance resources; Second, increase the popularity of the \"Internet +\" meal assistance service, improve the \"Internet +\" meal assistance skills of the elderly, and create a public opinion environment for the \"Internet +\" meal assistance service; Third, optimize information technology, expand the functions of the platform, carry out aging-friendly transformation of the service platform, and strengthen information security protection. The research conclusion shows that although the \"Internet +\" elderly meal assistance service in Community W has a certain foundation, it still needs to be systematically optimized in many aspects to improve the quality and efficiency of the elderly meal assistance service and enhance the satisfaction and happiness of the elderly. ",
+        "bbox": [
+            136,
+            110,
+            885,
+            556
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Keywords: \"Internet+\"; Meal assistance service; Old people; Optimization path; Nanjing ",
+        "bbox": [
+            137,
+            595,
+            882,
+            612
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "—III— ",
+        "bbox": [
+            507,
+            933,
+            552,
+            945
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目录",
+        "text_level": 1,
+        "bbox": [
+            457,
+            120,
+            541,
+            142
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1绪论 1",
+        "text_level": 1,
+        "bbox": [
+            149,
+            172,
+            847,
+            191
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1.1 研究背景与问题 ..... 1",
+            "1.2 研究目的与意义 2"
+        ],
+        "bbox": [
+            166,
+            193,
+            848,
+            234
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1.2.1 研究目的 2",
+            "1.2.2 研究意义 2"
+        ],
+        "bbox": [
+            184,
+            237,
+            848,
+            277
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3 文献综述 3",
+        "text_level": 1,
+        "bbox": [
+            166,
+            280,
+            847,
+            298
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1.3.1 关于社区为老服务的相关研究",
+            "1.3.2 关于老年人社区助餐服务政策的相关研究 4",
+            "1.3.3 关于老年人社区助餐服务实践的相关研究",
+            "1.3.4 关于“互联网+”助餐服务的相关研究 10",
+            "1.3.5 文献述评 11"
+        ],
+        "bbox": [
+            184,
+            300,
+            848,
+            406
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4理论基础与概念界定 12",
+        "text_level": 1,
+        "bbox": [
+            166,
+            409,
+            847,
+            426
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1.4.1 理论基础 12 ",
+            "1.4.2 概念界定 13"
+        ],
+        "bbox": [
+            184,
+            430,
+            848,
+            470
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 研究方法 ..... 14",
+        "text_level": 1,
+        "bbox": [
+            166,
+            473,
+            847,
+            491
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1.5.1 资料收集方法 14",
+            "1.5.2 资料分析方法 ..... 18"
+        ],
+        "bbox": [
+            184,
+            494,
+            848,
+            533
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2W社区老年助餐服务现状 19",
+        "text_level": 1,
+        "bbox": [
+            147,
+            537,
+            848,
+            555
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 老年助餐服务实践背景 19",
+        "text_level": 1,
+        "bbox": [
+            166,
+            558,
+            847,
+            576
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "2.1.1 南京市助餐发展进程 19",
+            "2.1.2 政策支持 19",
+            "2.1.3 资金投入 20"
+        ],
+        "bbox": [
+            181,
+            579,
+            848,
+            640
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 W社区老人用餐情况 21",
+        "text_level": 1,
+        "bbox": [
+            166,
+            644,
+            847,
+            662
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "2.2.1 用餐老年人基本情况 ..... 21",
+            "2.2.2 老年人具体用餐情况 23"
+        ],
+        "bbox": [
+            181,
+            665,
+            848,
+            705
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3“互联网 $^+$ ”老年助餐服务的引入 27",
+        "text_level": 1,
+        "bbox": [
+            147,
+            708,
+            848,
+            726
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "3.1“互联网 $^+$ ”服务理念引入的原因 27",
+            "3.2 爸妈食堂·饿了么助老e餐的应用 29",
+            "3.3“互联网 $^+$ ”老年助餐服务效果分析 30"
+        ],
+        "bbox": [
+            166,
+            728,
+            848,
+            790
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "3.3.1 服务覆盖效果分析 30",
+            "3.3.2 服务效率效果分析 30",
+            "3.3.3老人满意度分析 31"
+        ],
+        "bbox": [
+            181,
+            793,
+            848,
+            854
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4“互联网 $^+$ ”老年助餐服务的实践经验 36 ",
+        "text_level": 1,
+        "bbox": [
+            147,
+            857,
+            848,
+            876
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1 W社区助餐的成功经验 36",
+        "text_level": 1,
+        "bbox": [
+            166,
+            879,
+            848,
+            897
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            319,
+            978
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "4.1.1 助餐地图清晰化 36",
+            "4.1.2 老年人助餐权益保障加强 36",
+            "4.1.3 解决服务人员流动难题 37",
+            "4.1.4 助餐服务管理一体化 37"
+        ],
+        "bbox": [
+            181,
+            85,
+            850,
+            168
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2“互联网 $^+$ ”助餐服务存在的不足 38",
+        "bbox": [
+            164,
+            171,
+            850,
+            190
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "4.2.1“互联网 $^+$ ”助餐服务膳食质量欠佳 38",
+            "4.2.2 现有膳食缺乏个性化 39",
+            "4.2.3 供餐模式和时间单一 40",
+            "4.2.4 老年人互联网思维薄弱 40 ",
+            "4.2.5 宣传效果不佳 41",
+            "4.2.6“互联网 $^+$ 社区居家养老服务平台信息化水平低 41"
+        ],
+        "bbox": [
+            181,
+            193,
+            850,
+            319
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3“互联网 $^+$ ”助餐服务存在不足的原因分析 42",
+        "bbox": [
+            164,
+            321,
+            850,
+            340
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "4.3.1 平台监管制度不够完善 ..... 42",
+            "4.3.2 对老年人需求调研不够深入全面 43",
+            "4.3.3 餐饮供应方的成本有限 43 ",
+            "4.3.4 老年人缺少互联网学习机会 43",
+            "4.3.5“互联网 $^+$ 社区居家养老服务宣传方式单一 44",
+            "4.3.6“互联网+”社区居家养老服务平台信息化水平有待提升....44"
+        ],
+        "bbox": [
+            181,
+            343,
+            850,
+            468
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5“互联网 $^+$ 社区老年助餐服务的优化路径 45",
+        "bbox": [
+            149,
+            470,
+            850,
+            489
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.1 提高助餐服务质量 ..... 45",
+        "bbox": [
+            164,
+            492,
+            850,
+            511
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "5.1.1 加强平台监管制度 45",
+            "5.1.2 完善老年人助餐服务需求信息数据库 45",
+            "5.1.3 合理整合调配助餐资源 47"
+        ],
+        "bbox": [
+            181,
+            514,
+            850,
+            575
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.2 提高“互联网+”助餐服务普及度 48",
+        "bbox": [
+            164,
+            577,
+            850,
+            596
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "5.2.1 提升老年人“互联网+”助餐技能 ..... 48",
+            "5.2.2 加强“互联网+”助餐服务宣传 48"
+        ],
+        "bbox": [
+            181,
+            599,
+            850,
+            639
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.3 优化信息技术 ..... 50",
+        "bbox": [
+            164,
+            642,
+            850,
+            659
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "5.3.1扩大“互联网 $^+$ ”老年助餐服务平台功能. 50",
+            "5.3.2 进行服务平台适老性改造 ..... 50",
+            "5.3.3 加强平台信息安全保障 ..... 52"
+        ],
+        "bbox": [
+            181,
+            663,
+            850,
+            725
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献. 54 ",
+        "bbox": [
+            149,
+            728,
+            850,
+            746
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "附录一 老年人助餐服务情况调查问卷 ..... 59",
+        "bbox": [
+            149,
+            749,
+            850,
+            768
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "附录二 W 社区“互联网+”老年助餐服务访谈提纲 61",
+        "bbox": [
+            149,
+            770,
+            850,
+            789
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1绪论",
+        "text_level": 1,
+        "bbox": [
+            423,
+            129,
+            596,
+            153
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究背景与问题",
+        "text_level": 1,
+        "bbox": [
+            139,
+            170,
+            319,
+            187
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "中国现在面临了老龄人口困境的冲击，十九大报告中提出，我国特色社会主义已经进入新时代，我国社会主要矛盾已经转化为人民日益增长的美好生活需要和不平衡不充分发展之间的矛盾。①独居老人，失能老人“吃饭难”问题正是这个主要矛盾的体现。老年人的助餐服务是积极应对人口老龄化国家战略、提升居家社区养老服务品质的重要内容，是老年人普遍关心的民生需求，也是党和国家最关切的民生实事之一。党的二十大报告中指出“实施积极应对人口老龄化国家战略，发展养老事业和养老产业，优化孤寡老人服务，推动实现全体老年人享有基本养老服务”。②目前，我国逐渐形成以居家养老为基础、社区养老为依托、机构养老为补充的养老服务体系，为解决养老难题提供支持。如何办好老年食堂、做好高质量的助餐服务是居家养老服务的重点和难点之一。国家积极倡导社区提供养老服务，为解决老年人吃饭问题，各个地区开始研究社区老年食堂如何为老年人提供安全、可靠、便利、可持续的助餐服务，2015年出台《关于积极推进“互联网+”行动的指导意见》明确提出“促进智慧健康养老产业发展”的主体目标。③随着数字通讯技术的发展，移动互联网技术迁移到养老领域，为老年人提供智慧助餐服务，互联网订购服务，成为当前智慧养老服务的重要模式。④南京市作为全国最早进入老龄化的城市，带头探索建立老年助餐服务点、日间照料中心、长者照护之家等养老服务机构来应对人口老龄化的城市。",
+        "bbox": [
+            136,
+            205,
+            885,
+            615
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "近年来，南京市不断加强老年助餐点建设，扩大助餐服务供给，为满足老年人就近、便捷、优质的就餐需求，江苏省提出《江苏省“舒心助餐”专项行动实施方案》，南京开始打造“宁享养老”品牌，决定在全市开展“宁享助餐”提升行动，让老年人助餐更安心、舒心，进一步提高老年人的获得感和满意度。南京市栖霞区试点爸妈食堂饿了么助老e餐项目，由“栖彩颐养”社区居家养老服务信息化系统一体化监管，栖彩颐养这是由政府监管端、家庭（老年人）客户端、服务供应端、第三方评估端等",
+        "bbox": [
+            136,
+            623,
+            882,
+            772
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_footnote",
+        "text": "① 中共中央国务院. 习近平: 决胜全面建成小康社会夺取新时代中国特色社会主义伟大胜利——在中国共产党第十九次全国代表大会上的报告[EB/OL]. (2017-10-27)[2024-8-27]. https://www.gov.cn/zhuanti/2017-10/27/content_5234876.htm.",
+        "bbox": [
+            137,
+            806,
+            878,
+            835
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_footnote",
+        "text": "② 中共中央国务院. 习近平: 高举中国特色社会主义伟大旗帜为全面建设社会主义现代化国家而团结奋斗——在中国共产党第二十次全国代表大会上的报告[EB/OL]. (2022-10-25)[2024-8-27]. https://www.gov.cn/xinwen/2022-10/25/content_5721685.htm.",
+        "bbox": [
+            137,
+            835,
+            880,
+            873
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_footnote",
+        "text": "③ 国务院办公厅. 国务院关于积极推进“互联网+”行动的指导意见[EB/OL]. (2015-07-01)[2023-04-21]. https://www.gov.cn/gongbao/content/2015/content_2897187.htm. ",
+        "bbox": [
+            137,
+            875,
+            880,
+            901
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_footnote",
+        "text": "④ 周建芳, 胡雅萍, 朱晓. 智慧养老与老年福祉[M]. 南京: 江苏人民出版社, 2021: 3.",
+        "bbox": [
+            137,
+            901,
+            662,
+            915
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "-1— ",
+        "bbox": [
+            510,
+            935,
+            557,
+            946
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            319,
+            978
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "各个环节构成的一体化平台系统，①为不同需求的老人提供社区食堂，上门送餐等服务，老人只需在家就可以享受助餐服务，更便捷更快速。基于此，本研究将以南京市栖霞区W社区养老助餐服务为例，深入分析“互联网+”老年助餐服务实践过程中的问题，并据此提出针对性的优化建议。",
+        "bbox": [
+            137,
+            105,
+            885,
+            205
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究目的与意义",
+        "text_level": 1,
+        "bbox": [
+            137,
+            239,
+            319,
+            256
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 研究目的",
+        "text_level": 1,
+        "bbox": [
+            139,
+            275,
+            275,
+            292
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "智慧养老作为应对人口老龄化的创新解决方案，近年来得到了广泛的关注和发展。目前，智慧养老设备和服务平台呈现出多元化、智能化和不断创新的发展态势。南京市栖霞区打造新时代养老服务体系创新之路，将“互联网 $+$ ”应用到老年人助餐，为社区老年人提供互联网助餐订购服务。本研究以“互联网 $+$ ”为背景，旨在通过研究南京市栖霞区W社区的助餐服务实践过程问题，尝试分析和研究优化路径，使“互联网 $+$ ”助餐服务可以标准化、高质量发展，为构建更加完善和高效的社区养老服务体系提供参考和启示。",
+        "bbox": [
+            136,
+            310,
+            887,
+            483
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 研究意义",
+        "text_level": 1,
+        "bbox": [
+            139,
+            502,
+            268,
+            520
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "理论意义：在当今数字化快速发展的时代背景下，聚焦于“互联网 $+$ ”老年助餐服务的个案实践展开深入研究，具有至关重要的价值与意义。一方面，从学术研究的维度来看，目前学界在老年人助餐领域的探讨尚存在诸多有待拓展之处，而以“互联网 $+$ ”年助餐服务的具体实践为范例进行剖析，能够打破传统研究的局限性，为该领域的研究引入新的视角和方法，从而打开研究的视野，推动学术理论的进一步发展与完善。另一方面，在理论借鉴层面，深入探究“互联网 $+$ ”与老年人助餐的深度融合模式，所获得的经验与成果，对于互联网与其他各类主体相结合的广泛研究而言，能够提供有价值的思路与范例，为相关领域的理论建设和实践探索提供有益的参考和借鉴。",
+        "bbox": [
+            136,
+            538,
+            890,
+            740
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "现实意义：通过对各种文献的查阅发现，老年助餐的实践探索非常少。虽然我国目前老年人助餐受到政府扶持和老年群体的期待，但仍存在有助餐需求的老人未能享受助餐服务和助餐点经营者经营困难等问题。目前的助餐点虽有政策支持，但是还是存在收支不平衡，经营不规范等问题。当前像北京、上海等很多地区已经颁布了关于老年助餐服务高质量发展的相关政策，旨在通过“互联网+”助餐的运营模式更好地",
+        "bbox": [
+            137,
+            747,
+            887,
+            870
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_footnote",
+        "text": "① 江苏省老年产业协会. 多层次养老全覆盖“幸福养老”成现实图景[N]. 南京日报, 2022-10-15(X09).",
+        "bbox": [
+            136,
+            900,
+            816,
+            916
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "-2— ",
+        "bbox": [
+            510,
+            935,
+            559,
+            946
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            321,
+            978
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "实现养老服务。所以，本文通过研究和分析南京市栖霞区W社区的地方的助餐服务实践情况，浅析并优化助餐服务方案，愿进一步丰富关于社会工作以及老年人助餐的应用研究。",
+        "bbox": [
+            136,
+            105,
+            882,
+            177
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.3 文献综述",
+        "text_level": 1,
+        "bbox": [
+            139,
+            212,
+            253,
+            230
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 关于社区为老服务的相关研究",
+        "text_level": 1,
+        "bbox": [
+            137,
+            267,
+            442,
+            285
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "习近平总书记指出：“完善社区居家养老服务网络，构建居家社区机构相协调、医养康养相结合的养老服务体系。”这为我国社区为老服务的发展指明了方向。在人口老龄化的大背景下，社区作为老年人生活的主要场所，承担着为老年人提供各类服务的重任。有效的社区为老服务不仅能满足老年人的实际需求，还对构建老年友好型社会具有重要推动作用。本部分将从服务内容、服务形式以及服务效果三个方面对社区为老服务的相关研究进行综述。",
+        "bbox": [
+            136,
+            302,
+            885,
+            451
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "关于社区为老服务内容的相关研究。刘雅玲认为日常生活照料是社区为老服务的基础内容，在具体实务过程中分别用回应行动照顾需求的助餐配餐和生活照料服务呈现具体服务的开展情况。①李秀云认为社区为老服务的具体内容包含生活援助，生活援助涵盖了老年人日常生活的诸多方面，如协助日常生活起居、提供餐饮服务、帮助购物等。②李琰辉认为社区为老需要满足物质需求：保障老年人的基本生活物质需求，如完善社区食堂建设，为老年人提供营养均衡、价格合理的餐饮服务。③",
+        "bbox": [
+            136,
+            458,
+            882,
+            608
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "关于社区为老服务形式的相关研究。研究发现社区为老服务的主要形式，包括社区中心集中服务形式、居家上门服务形式和社区网络平台服务形式。刘雅玲以L社区日间托老服务中心为例，认为日间托老中心设置日间照料区、康复训练区、文化活动室等功能分区，满足老人饮食、医疗、社交等需求。这种模式的优势在于资源集约化管理，降低服务成本；同时通过群体互动，增强老年人的社会参与感与社区归属感。④现有研究表明，该模式存在服务覆盖面有限、个性化不足等问题。徐璐认为居家上门服务形式通过志愿者或专业服务人员上门，提供家政保洁、送餐、医疗护理、精神",
+        "bbox": [
+            136,
+            615,
+            882,
+            791
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_footnote",
+        "text": "① 刘雅玲. 社区日间托老服务中心的服务现状及其改善对策研究——以L社区日间托老服务中心为例[D]. 华南理工大学, 2022.",
+        "bbox": [
+            137,
+            820,
+            885,
+            845
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_footnote",
+        "text": "② 李秀云. 开滦“老帮老”服务型社区模式探析[J]. 华章, 2014(11): 13-13.",
+        "bbox": [
+            137,
+            846,
+            603,
+            860
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_footnote",
+        "text": "③ 李琰辉. 社会支持理论视角下社区食堂助老服务优化研究——以S市F社区为例[J]. 中文科技期刊数据库（文摘版）社会科学，2025(2): 025-028.",
+        "bbox": [
+            137,
+            860,
+            872,
+            888
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_footnote",
+        "text": "(4) 刘雅玲. 社区日间托老服务中心的服务现状及其改善对策研究——以L社区日间托老服务中心为例[D]. 华南理工大学, 2022.",
+        "bbox": [
+            137,
+            889,
+            884,
+            914
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "-3— ",
+        "bbox": [
+            510,
+            935,
+            557,
+            946
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            319,
+            978
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "慰藉等服务，契合老年人“养老不离家”的心理需求。①关于社区网络平台服务形式，刘培云提出，智慧养老平台通过整合社区内医疗、餐饮、维修等资源，实现“线上预约+线下服务”的O2O模式。其中老人可以通过手机APP下单助餐服务，平台自动匹配附近餐饮企业并跟踪配送进度、还提供文化课程、社交互动等虚拟服务，丰富老年人精神生活。②三种服务形式各有优势与局限，未来研究需进一步探索模式间的协同整合、优化服务供给机制，以提升社区为老服务的整体效能。",
+        "bbox": [
+            136,
+            105,
+            885,
+            255
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "关于社区为老服务效果的相关研究。社区为老服务在提升老年人生活质量、促进社会和谐等方面取得了显著效果。对老年人个体生活质量的提升方面。学者认为从日常生活照料服务来看，助餐配餐和生活照料等服务解决了老年人日常生活中的实际困难，使他们的生活更加便利舒适，提高了生活自理能力和生活满意度。③在社区层面。黄贤云认为为老服务促进了社区凝聚力的提升。社区为老服务中心成为老年人交流互动的场所，邻里关系更加融洽。同时，社区为老服务吸引了更多居民关注社区事务，参与社区建设，形成了互帮互助的良好氛围。从社会层面来看，社区为老服务有效缓解了家庭养老压力，弥补了机构养老的不足，完善了社会养老服务体系。随着我国人口老龄化程度加深，社区为老服务的发展对于应对人口老龄化挑战，促进社会和谐稳定具有重要意义。④",
+        "bbox": [
+            136,
+            263,
+            884,
+            517
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 关于老年人社区助餐服务政策的相关研究",
+        "text_level": 1,
+        "bbox": [
+            137,
+            533,
+            559,
+            552
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "王思斌认为影响社会工作发展的第二个因素是社会政策。⑤社会政策是国家实行社会行政管理、推行社会福利和社会服务的基本手段，是社会工作行政的活动依据。⑥因此对现有老年人助餐服务政策相关研究进行系统梳理与分析，有助于明晰政策发展脉络、把握研究现状与趋势，为老年人社会工作和提升老年人助餐服务质量提供理论支撑与实践指导。众多学者就老年助餐服务从政策产生的背景、政策的出台及主要内容、政策的实施与运行以及政策的效果与问题进行分析，都提出了有利于该项政策和服务可持续发展的意见和建议，不同地区在老年助餐服务政策的演进过程中既存在共性，也有差异。以下将对这些方面进行详细分析。",
+        "bbox": [
+            136,
+            569,
+            885,
+            772
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_footnote",
+        "text": "① 徐璐. 社会工作介入城市社区居家养老服务探讨[D]. 安徽大学, 2017.",
+        "bbox": [
+            137,
+            818,
+            584,
+            833
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_footnote",
+        "text": "② 刘培云. 浅谈社区智慧养老服务[J]. 产业创新研究, 2021, 000(21): 46-49.",
+        "bbox": [
+            137,
+            834,
+            610,
+            847
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_footnote",
+        "text": "$③$ Utilization of Community Care Service and Subjective Well-being of Older People: Evidence from Weifang, China[J]. Innovation in Aging, 2023: 902-903. ",
+        "bbox": [
+            139,
+            848,
+            873,
+            873
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_footnote",
+        "text": "④ 黄贤云. 为老服务进社区便民服务暖人心[J]. 社区, 2021, 000(10): 46-47.",
+        "bbox": [
+            139,
+            873,
+            605,
+            887
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_footnote",
+        "text": "⑤ 王思斌. 社会工作概论[M]. 北京：高等教育出版社，2014: 10.",
+        "bbox": [
+            139,
+            888,
+            537,
+            900
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_footnote",
+        "text": "⑥ 王思斌. 社会工作概论[M]. 北京: 高等教育出版社, 2014: 10.",
+        "bbox": [
+            139,
+            901,
+            537,
+            914
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "-4— ",
+        "bbox": [
+            510,
+            935,
+            557,
+            946
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            319,
+            978
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "关于老年人助餐服务政策共性的相关研究。研究者发现政策关注助餐必要性、政策内容的多维度性、政策目标的一致性都存在共性。",
+        "bbox": [
+            137,
+            107,
+            880,
+            149
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "政策关注助餐必要性方面。各地区都意识到老年助餐服务对于应对人口老龄化的重要性。随着老年人口增多，高龄、独居、失能等特殊老年群体用餐困难问题凸显，为保障老年人基本生活需求，提升其生活质量，各地纷纷出台相关政策。2023年民政部等11部门联合印发《积极发展老年助餐服务行动方案》，此次方案提出了要持续完善服务网络，不断提高老年助餐服务质量和水平，①多地响应该方案。李欣然发现安徽X区，随着人口老龄化加剧，老年助餐服务成为解决社区居家养老问题的关键一环，当地出台一系列政策推动助餐服务发展。②包头市因空巢、独居老人增多，部分老人就餐困难，故而探索老年助餐服务政策，推进老年食堂建设。③",
+        "bbox": [
+            136,
+            159,
+            884,
+            361
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "政策内容的多维度性方面。多数地区政策涵盖多个方面。在助餐设施建设方面，如广州市通过政策推动不同区域建设助餐配餐服务点，完善服务设施布局。④在资金支持上，各地都有相应举措，像X区通过财政补贴等方式为老年助餐服务提供资金资源支持，保障服务的开展。⑤运营服务规范也受重视，例如对助餐服务的食品安全、服务流程等进行规范，确保老年人用餐安全和服务质量。⑥",
+        "bbox": [
+            136,
+            368,
+            882,
+            491
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "政策目标的一致性方面。各地政策都以满足老年人用餐需求，提高老年助餐服务质量为主要目标。致力于解决老年人吃饭难问题，让老年人能就近、便捷地享受到营养、安全、实惠的餐饮服务，提升老年人的幸福感和获得感。如昆明市通过政策引导，完善老年助餐服务体系，为老年人提供更好的就餐服务。⑦",
+        "bbox": [
+            136,
+            499,
+            882,
+            595
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "关于老年人助餐服务政策差异性的相关研究。研究者对各地的政策执行网络结构、发展模式、政策执行效果进行了研究分析，都提出了有利于该项政策和服务可持续发展的意见和建议。",
+        "bbox": [
+            136,
+            602,
+            889,
+            674
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "政策执行网络结构方面。以广州市为例，天河区、黄埔区、增城区和从化区的社区居家养老助餐配餐政策执行网络呈现不同结构特征。天河区为分散型，各执行主体相对独立，互动较少；黄埔区是聚合型，执行主体间联系紧密，协同性强；增城区为断裂型，执行主体间存在沟通不畅、合作断层的情况；从化区是离散型，执行主体较",
+        "bbox": [
+            136,
+            681,
+            885,
+            778
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_footnote",
+        "text": "① 积极发展老年助餐服务行动方案[J]. 中国民政, 2023(21): 40-41.",
+        "bbox": [
+            137,
+            804,
+            551,
+            819
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_footnote",
+        "text": "② 李欣然. 老年助餐服务政策执行效果与优化策略研究——以X区为例[D]. 安徽大学, 2024.",
+        "bbox": [
+            137,
+            820,
+            714,
+            832
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_footnote",
+        "text": "③吕红梅.老年人助餐服务政策实施效果研究——基于包头市Y社区的分析[D].内蒙古科技大学，2023.",
+        "bbox": [
+            139,
+            834,
+            784,
+            846
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_footnote",
+        "text": "④ 王妍曼. 政策执行网络视角下的广州市社区居家养老助餐配餐政策执行差异研究[D]. 华南理工大学, 2021.",
+        "bbox": [
+            139,
+            847,
+            808,
+            860
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_footnote",
+        "text": "(5) 李欣然. 老年助餐服务政策执行效果与优化策略研究——以 X 区为例[D]. 安徽大学, 2024.",
+        "bbox": [
+            139,
+            860,
+            712,
+            873
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_footnote",
+        "text": "⑥ 吕红梅. 老年人助餐服务政策实施效果研究——基于包头市Y社区的分析[D]. 内蒙古科技大学, 2023.",
+        "bbox": [
+            139,
+            875,
+            776,
+            888
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_footnote",
+        "text": "⑦ 李维涛. 老年助餐服务发展模式与进路基于昆明市案例分析[J]. 河北农业大学学报: 社会科学版, 2024, 26(1): 107-116.",
+        "bbox": [
+            139,
+            889,
+            872,
+            914
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "-5— ",
+        "bbox": [
+            510,
+            935,
+            557,
+            946
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            319,
+            978
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "为分散，缺乏有效整合。不同结构特征影响政策执行效果，如黄埔区聚合型结构使政策执行效果相对较好，而增城区断裂型结构可能导致政策执行出现问题。①",
+        "bbox": [
+            136,
+            105,
+            882,
+            151
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "发展模式方面。我国老年助餐发展模式大体分为社区自主经营模式和政府委托企业运营模式。不同地区根据自身情况选择不同模式。②冯建光，王秀兰发现政府从整体层面出台政策调动参与主体的积极性并制约他们的行为，这点是毋庸置疑的，但也应该根据不同情况，对不同主体制定不同的策略。③魏勇认为养老助餐服务是具有公益属性的“食”事。各地普遍采用“政府补一点、企业让一点、个人掏一点”机制，可以保障助餐养老服务形成良性循环。④钟慧澜等人认为老年助餐政策实施初期，需要反复的探索和改正，要加强政策的引导性，同时，进行大数据分析，制定出相应的发展方向和可复制的模板，积极倡导规模化、连锁化的中心厨房+助餐点的发展模式，让社会组织、餐饮企业等社会力量在具体操作时有迹可循。⑤",
+        "bbox": [
+            136,
+            159,
+            884,
+            387
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "政策执行效果方面。同一地区不同区域老年助餐服务政策执行效果存在差异。陈云霞以南京市鼓楼区为例进行实证研究，研究发现，助餐福利服务从政策出台到具体实施已取得初步成效，但存在政策发展目标缺乏长期性、清晰性和可测量性等问题，提出了明确政策目标、完善配套政策、拓宽资金渠道、扶持社会组织、健全监管机制等建议。⑥李欣然发现X区不同老年助餐食堂或助餐点在服务提供和运营情况上差异较大，部分助餐点因场所建设规模不足、过度依赖财政补贴等问题，导致服务质量不高，普及程度不理想。⑦",
+        "bbox": [
+            136,
+            394,
+            885,
+            570
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "综上所述，现有研究从多个维度对老年人助餐服务政策进行了深入探讨，在共性研究方面，首先，各地对助餐服务必要性的认知高度一致，均意识到老年助餐服务是应对人口老龄化挑战、保障特殊老年群体生活需求的关键举措。无论是国家层面政策的引领，还是地方基于本地实际情况的响应，都凸显了这一服务的重要性。其次，政策内容普遍呈现多维度特征，涵盖助餐设施建设、资金支持、运营服务规范以及监管等多个关键领域，通过全方位的政策设计为助餐服务的有序开展提供保障。最后，政",
+        "bbox": [
+            136,
+            577,
+            882,
+            727
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_footnote",
+        "text": "① 王妍曼. 政策执行网络视角下的广州市社区居家养老助餐配餐政策执行差异研究[D]. 华南理工大学, 2021.",
+        "bbox": [
+            137,
+            766,
+            813,
+            780
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_footnote",
+        "text": "② 李维涛. 老年助餐服务发展模式与进路基于昆明市案例分析[J]. 河北农业大学学报: 社会科学版, 2024, 26(1): 107-116.",
+        "bbox": [
+            137,
+            781,
+            875,
+            806
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_footnote",
+        "text": "③ 冯建光, 王秀兰. 社会福利事业参与主体的主观能动性如何发挥——以老年助餐项目供给主体的角色困惑为视角[J]. 人民论坛, 2014(32): 45-47.",
+        "bbox": [
+            137,
+            807,
+            867,
+            834
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_footnote",
+        "text": "④ 魏勇. 让老年人尽享家门口的幸福食光[J]. 中国民政, 2024(04): 32.",
+        "bbox": [
+            139,
+            835,
+            571,
+            848
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_footnote",
+        "text": "⑤ 钟慧澜, 章晓懿. 激励相容与共同创业: 养老服务中政府与社会企业合作供给模式研究[J]. 上海行政学院学报, 2015, 16(05): 31-40.",
+        "bbox": [
+            139,
+            848,
+            868,
+            873
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_footnote",
+        "text": "⑥ 陈云霞. 老年助餐福利服务政策研究——以南京市鼓楼区为例[D]. 南京师范大学, 2018.",
+        "bbox": [
+            139,
+            875,
+            739,
+            888
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_footnote",
+        "text": "⑦ 李欣然. 老年助餐服务政策执行效果与优化策略研究——以X区为例[D]. 安徽大学, 2024.",
+        "bbox": [
+            139,
+            889,
+            756,
+            903
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "-6— ",
+        "bbox": [
+            510,
+            936,
+            559,
+            946
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            319,
+            978
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "策目标具有一致性，都以满足老年人用餐需求、提升助餐服务质量为核心，致力于为老年人提供便捷、营养、安全的餐饮服务，增强老年人的幸福感与获得感。在差异性研究方面，各地在政策执行网络结构、发展模式以及政策执行效果上存在显著不同。政策执行网络结构受区域特点、行政体制等因素影响，呈现出分散型、聚合型、断裂型和离散型等多种类型，不同结构对政策执行效果产生不同影响；发展模式上，学者们发现社区自主经营模式和政府委托企业运营模式各有优劣，不同地区根据自身资源禀赋、社会环境等因素选择适配模式，且围绕模式优化提出了诸多建议；政策执行效果在不同区域存在差异，部分地区虽取得初步成效，但仍面临政策目标不明确、资金短缺、服务质量参差不齐等问题，针对这些问题，研究者们提出了涵盖政策完善、资金拓展、服务监管等多方面的优化策略。然而，现有研究存在一定局限性。未来研究可进一步加强实证研究，运用大数据分析、政策仿真等方法，深入剖析政策执行机制；拓展研究内容，关注政策创新、服务模式可持续发展等前沿问题；加强跨学科、跨区域合作，借鉴国际经验，为我国老年人助餐服务政策的完善与发展提供更具针对性和创新性的研究成果。",
+        "bbox": [
+            136,
+            105,
+            885,
+            467
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 关于老年人社区助餐服务实践的相关研究",
+        "text_level": 1,
+        "bbox": [
+            137,
+            500,
+            559,
+            519
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "在全球人口老龄化加速推进的时代背景下，老年人社区助餐服务作为养老服务体系的核心组成部分，是衡量社会养老服务水平的关键指标。国外在该领域的研究与实践起步较早，积累了丰富的经验与理论成果，为我国提供了重要的参考借鉴。与此同时，国内随着老龄化程度的不断加深，对老年人社区助餐服务的研究与探索也日益深入，在送餐流程、助餐模式、资源配置、服务体验及体系规范化等方面取得了显著进展。系统梳理国内外相关研究成果，有助于挖掘当前研究的优势与不足，为进一步完善老年人社区助餐服务体系、提升服务质量提供理论支撑与实践方向，从而更好地满足老年人日益增长的多元化助餐需求，推动养老服务事业的高质量发展。",
+        "bbox": [
+            136,
+            536,
+            887,
+            738
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "关于国外老年人社区助餐服务实践的相关研究。社区养老助餐服务是养老服务体系的关键构成部分，国外在养老服务和膳食助餐服务领域的研究开始较早。",
+        "bbox": [
+            137,
+            745,
+            882,
+            790
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "典型国家实践模式。陈成文研究发现英、美、日三国的社区老年人餐饮服务大多以社区为基础开展，将服务场所设置在老年人居住的社区内或周边，极大地缩短了老年人获取餐饮服务的距离。例如，英国的社区老年服务工作体系正规化，在社区内构",
+        "bbox": [
+            136,
+            797,
+            885,
+            869
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "-7— ",
+        "bbox": [
+            510,
+            935,
+            559,
+            946
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "建了多样化的服务形式，其中餐饮服务的布局充分考虑到老年人行动不便的特点，让老年人能够轻松到达用餐地点。①",
+        "bbox": [
+            136,
+            105,
+            880,
+            151
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "国际经验的本土化探索。韩国学者对英、美、日三国社区助餐服务环境进行比较研究，发现韩国需加强社区送餐与集体用餐空间建设，并减少机构化设计倾向。②这一结论反映出不同国家在借鉴国际经验时，需结合本土文化、社会结构及老年人需求进行适应性调整，为发展中国家提供了本土化改造的实践启示。",
+        "bbox": [
+            136,
+            159,
+            884,
+            256
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "国内老年人社区助餐服务实践研究。多位学者从不同角度展开研究，为提升助餐服务质量提供了有益思路。笔者参考了关于“社区助餐”，“社区服务”的相关研究，将从送餐流程、助餐模式、资源配置、老人助餐服务体验、助餐服务体系规范化五个方面进行论述。",
+        "bbox": [
+            136,
+            263,
+            885,
+            359
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "（1）关于优化与创新的送餐流程方面的相关研究。香港学者Lin S等人运用鲁棒优化方法，针对社区居家老人送餐服务的时间不确定性问题，提出区分体弱老人与普通老人的差异化配送方案，在成本增加 $5\\%$ 的情况下显著提升服务稳定性。③吴志刚则倡导引入社会力量参与配送，利用物流网络与“移动型”助餐车，增强极端情况下的服务保障能力，为城乡助餐服务提供了灵活解决方案。④",
+            "（2）关于助餐模式探索方面的相关研究。吴丹丹等研究发现在德国将时间银行应用于老年人社区助餐服务中。老年人可以通过为他人提供服务来积累时间积分，然后用这些积分换取自己所需的助餐服务或其他养老服务。这种模式鼓励老年人之间的互助合作，增强了社区的凝聚力和老年人的参与感。⑤周瑛发现通过创建市-镇（街道）-村（社区）三级联动模式，城乡一体化推进助餐配餐体系建设，可以有效打造城市社区15分钟、农村地区3分钟的送餐服务圈。这种模式通过城乡一体化推进助餐配餐体系建设，整合城乡资源，为老年群体提供优质的助餐服务。同时，这种模式也可以提高助餐服务的效率和覆盖面，满足不同地区老年群体的用餐需求。⑥罗珊珊提出开放机关事业单位食堂资源，拓展助餐服务供给渠道。⑦"
+        ],
+        "bbox": [
+            136,
+            368,
+            882,
+            726
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_footnote",
+        "text": "① 陈成文, 孙秀兰. 社区老年服务: 英, 美, 日三国的实践模式及其启示[J]. 社会主义研究, 2010(01): 116.",
+        "bbox": [
+            137,
+            791,
+            786,
+            807
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_footnote",
+        "text": "$②$ Oh E, Park H. A Study on Food Service Environments for the Elderly in Community-Focused on Community Senior Lunch Service[J]. Journal of the Korea Institute of Healthcare Architecture, 2014, 20(1): 57-66. ",
+        "bbox": [
+            139,
+            809,
+            875,
+            833
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_footnote",
+        "text": "$③$ Lin S, Bakker M, Leung E. Robust meal delivery service for the elderly: a case study in Hong Kong[J]. Scientific Reports, 2022, 12(1): 21546. ",
+        "bbox": [
+            139,
+            834,
+            880,
+            859
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_footnote",
+        "text": "④ 吴志刚.扩大老年助餐服务供给“移动型”助餐车上门送餐[N].广西法治日报，2024-01-16(A03).",
+        "bbox": [
+            139,
+            860,
+            752,
+            873
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_footnote",
+        "text": "⑤ 周瑛.打造城乡一体助餐服务圈助力老人乐享舌尖上的幸福[J].社会福利(实务版),2022(12):37.",
+        "bbox": [
+            139,
+            873,
+            747,
+            887
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_footnote",
+        "text": "⑥ 吴丹丹, 蔡名言. 国外智能化养老模式分析报告[J]. 神州, 2019(6): 2.",
+        "bbox": [
+            139,
+            888,
+            579,
+            900
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_footnote",
+        "text": "⑦ 罗珊珊. 人民日报：提升养老助餐服务水平[J]. 中国食品工业, 2021(20): 19-19.",
+        "bbox": [
+            139,
+            902,
+            680,
+            914
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "-8— ",
+        "bbox": [
+            510,
+            935,
+            557,
+            946
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            319,
+            978
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "（3）关于在助餐资源配置方面的相关研究。王傅等认为通过科学规划和合理配置资金，提高资金的使用效益。在资金使用过程中，要注重成本控制和效益评估，避免盲目投资和重复建设，确保资金能够最大限度地满足老年人的助餐服务需求。①董晓惠认为通过整合敬老院和社区养老驿站的资源，为社区老人提供助餐服务。敬老院可以提供专业的餐饮服务和管理经验，社区养老驿站则可以提供更贴近社区老人的服务和便利，两者相互合作，共同为社区老人提供优质的助餐服务。②",
+            "（4）关于老人助餐服务体验的相关研究。Kyung-Eun Lee 认为送餐时间的准确性直接影响老年人的用餐体验。③ Yourim Choi 认为考虑到老年人的身体特点和营养需求，送餐应提供均衡的营养。④支付方式是否便捷也影响老人的服务体验。⑤Gong 等人研究发现，构建老年友好型餐食服务系统，通过互动设计解决与饮食相关的老龄化问题，能满足老年人基于自身健康状况的个性化需求。⑥",
+            "（5）关于助餐服务体系规范化的相关研究。学者认为针对助餐服务机构的工作人员，包括厨师、帮厨、配送人员等，定期开展食品安全知识培训。美国针对为老年人供餐场所的工作人员，也注重其专业知识与技能提升，如营养师参与菜单规划的比例不断提高。⑦运用第三方评估的理论和方法，建立科学、有效、独立的监督评估机制。第三方机构可对助餐服务机构的食品安全管理体系、食品加工操作规范执行情况等进行全面评估，出具客观公正的评估报告，持续提高监管效果。⑧"
+        ],
+        "bbox": [
+            136,
+            105,
+            890,
+            542
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "现有研究在理论建构、模式创新与实践探索方面取得显著进展。国内研究需结合本土需求，在流程优化、模式创新及技术应用等方面实现突破。区域化研究为精准服务提供了数据支持，推动助餐服务向精细化、智能化方向发展。",
+        "bbox": [
+            137,
+            551,
+            884,
+            621
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "区域化研究：以南京地区为例。苗菁菁和徐建刚以南京市鼓楼区作为研究范围，选取社区养老助餐点作为研究对象，采用2SFCA法对其空间可达性进行测算。提出",
+        "bbox": [
+            136,
+            629,
+            882,
+            674
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_footnote",
+        "text": "① 王傅，谢思婷.精益治理：城市社区养老助餐服务中的困境破解——以G市某老年人爱心助餐项目为例[J].社会福利(理论版)，2019(7).",
+        "bbox": [
+            137,
+            703,
+            882,
+            731
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_footnote",
+        "text": "② 董晓惠. 敬老院+社区养老驿站: 资源整合的养老助餐模式[J]. 中国社会工作, 2023: 10-11.",
+        "bbox": [
+            137,
+            732,
+            712,
+            745
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_footnote",
+        "text": "$③$ Sung S, Lee K E. Current practices and tailoring strategies of food service programs for vulnerable older adults in Seoul[J]. Journal of the Korean Society of Food Science and Nutrition, 2019, 48(12). ",
+        "bbox": [
+            139,
+            747,
+            882,
+            771
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_footnote",
+        "text": "$④$ Choi Y, Lee Y, Lim Y, et al. Village Lunch Table for the Korean Elderly in Rural Areas-A Pilot Program[J]. Journal of Nutrition Education and Behavior, 2017, 49(7): S33. ",
+        "bbox": [
+            139,
+            772,
+            882,
+            797
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_footnote",
+        "text": "⑤ 佚名. “刷脸”就能吃上可口的热乎饭[J]. 中国社会工作, 2021, 000(026): 26.",
+        "bbox": [
+            139,
+            797,
+            675,
+            810
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_footnote",
+        "text": "Gong X, Wei C, Liu Y, et al. Design of a home-based food assistance service for the elderly[J]. Human Factors in Aging and Special Needs, 2023: 88(88). ",
+        "bbox": [
+            139,
+            813,
+            880,
+            838
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_footnote",
+        "text": "$⑦$ Wunderlich SM, Bai Y, O' Malley M A, et al. Improvement of food safety for older adults participating in congregate meal sites[J]. International Journal of Food Safety, Nutrition and Public Health, 2015, 5(2): 10 1-109. ",
+        "bbox": [
+            139,
+            839,
+            882,
+            875
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_footnote",
+        "text": "$⑧$ Wu C Y, Li J, Fu Q. Research on the Construction of Food Safety Supervision Assessment System[A]. In: Proceedings of the 2020 11th International Conference on E-business[C]. Management and Economics, 2020: 260-263. ",
+        "bbox": [
+            139,
+            876,
+            880,
+            914
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "-9— ",
+        "bbox": [
+            510,
+            935,
+            557,
+            946
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            319,
+            978
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "了空间配置与布局优化的建议。①李芳等对秦淮区空巢老人的膳食调查显示，该群体超重和肥胖率分别为 $30.2\\%$ 和 $8.4\\%$ ，膳食结构亟待改善。②万浴等通过高斯两步移动搜索法评估发现，鼓楼区养老助餐设施虽实现 $95.5\\%$ 的老龄人口覆盖，但仍存在供需错位现象，需进一步精准配置资源。③",
+        "bbox": [
+            136,
+            105,
+            885,
+            203
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "1.3.4 关于“互联网+”助餐服务的相关研究",
+        "text_level": 1,
+        "bbox": [
+            137,
+            239,
+            532,
+            258
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "随着信息技术的飞速发展，“互联网 $+$ ”模式在各领域广泛应用，助餐服务领域也不例外。“互联网 $+$ ”助餐服务融合了互联网技术与传统助餐业务，为满足不同群体的用餐需求提供了新途径。对相关研究文献进行综述，有助于深入了解该领域的研究现状、热点与不足，为后续研究提供参考。",
+        "bbox": [
+            136,
+            275,
+            885,
+            370
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "关于“互联网+”助餐服务重要性的相关研究。2011年，国务院办公厅提出要将养老服务信息化建设作为主要任务之一，依托现代化信息技术手段，提高养老服务水平。④2021年在西安召开的智能科技的国际会议指出面对老年群体饮食生活的问题和需求，要构建系统的服务平台。用新的设计思维、服务设计工具和产品设计方法，探索服务设计在居家养老方向的应用，形成针对老年群体的饮食服务体系和智能产品设计，建立老年居家养老生活中的新型饮食模式。老年人对现代生活的适应性和整合性，来达到了缓解老年人居家压力的社会意义。⑤学者李长远指出，在社区居家养老进程中，互联网的集成效用能得到充分释放，借助互联网、物联网及移动通信网的融合，可打破信息壁垒，使社会各方资源顺畅涌入社区居家养老领域。⑥童星认为互联网打破了传统社区居家养老模式的时间和空间障碍。⑦",
+        "bbox": [
+            136,
+            379,
+            884,
+            632
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "关于“互联网+”助餐服务推广影响因素的相关研究。刘颂在对居家养老送餐服务研究综述中指出，老年送餐服务是应对人口老龄化的重要举措。老年人对助餐服务需求具有特殊性，如对菜品营养、口味、价格等方面有特定要求。同时，随着数字化",
+        "bbox": [
+            137,
+            640,
+            884,
+            711
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_footnote",
+        "text": "① 苗菁菁，徐建刚. 基于可达性分析的社区养老服务设施空间布局优化研究——以南京市鼓楼区助餐点为例[A].见：中国城市规划学会．东莞市人民政府．持续发展理性规划——2017中国城市规划年会论文集(05城市规划新技术应用)[C].南京大学建筑与城市规划学院，2017：11.",
+        "bbox": [
+            137,
+            751,
+            885,
+            793
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_footnote",
+        "text": "(2) 李芳, 陈湘江, 杨月等. 南京市秦淮区助餐点空巢人群膳食营养状况调查和评价[J]. 南京医科大学学报: 自然科学版, 2022, 42(01): 5.",
+        "bbox": [
+            137,
+            794,
+            882,
+            820
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_footnote",
+        "text": "③ 万浴，黄紫荆，陈刚等.社区尺度下南京鼓楼区养老设施综合评价研究[J].测绘科学，2021,46(04):8.",
+        "bbox": [
+            137,
+            822,
+            828,
+            834
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_footnote",
+        "text": "④ 葛颜, 董里, 袁红艳等. 基于“互联网+”社区居家养老服务研究进展[J]. 护理研究, 2024, 38(15): 2741-2745.",
+        "bbox": [
+            139,
+            835,
+            826,
+            848
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_footnote",
+        "text": "⑤ Song R, Jing P, Zhao Z, et al. Diet life service system and intelligent product design for the elderly[A]. In: 2021 2nd International Conference on Intelligent Design (ICID)[C]. IEEE, 2021: 445-450. ",
+        "bbox": [
+            139,
+            850,
+            878,
+            875
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_footnote",
+        "text": "⑥ 李长远. “互联网+”在社区居家养老服务中应用的问题及对策[J]. 北京邮电大学学报(社会科学版), 2016, 18(05): 67-73.",
+        "bbox": [
+            139,
+            876,
+            873,
+            900
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_footnote",
+        "text": "⑦ 童星. 发展社区居家养老服务以应对老龄化[J]. 探索与争鸣, 2015(08): 69-72.",
+        "bbox": [
+            139,
+            902,
+            631,
+            915
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_number",
+        "text": "-10— ",
+        "bbox": [
+            505,
+            935,
+            561,
+            947
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            321,
+            978
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "时代发展，部分老年人对“互联网+”助餐服务的接受度逐渐提高，但仍存在一些障碍。①丁振涛深入剖析了老年数字化助餐服务的现状，认为年龄、教育水平、经济状况等是影响老年人使用数字化助餐服务的重要因素。年龄较大、教育水平较低、经济状况较差的老年人，在接受和使用“互联网+”助餐服务时可能面临更多困难。②老年人对互联网的不信任成为阻碍其使用数字化助餐服务的关键主观因素，提示在推广“互联网+”助餐服务时，需重视消除老年人对互联网的不信任感。③残疾人大多面临经济压力，部分残疾人可能依靠低保或微薄的补贴生活，“互联网+”助餐服务的价格如果过高，将超出他们的承受能力，从而影响其对服务的使用。④",
+        "bbox": [
+            136,
+            105,
+            885,
+            311
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "在“互联网+”背景下，智慧养老服务通过整合物联网、大数据及5G技术，为破解老龄化难题提供了创新路径。学者们研究发现现存问题包括技术适老化不足、数据隐私风险等，并在这些问题做出了相应的研究，提出未来需通过适老化产品设计、政策标准完善及社会力量协同参与。同时关注老年人数字素养提升以弥合“数字鸿沟”，并提出精准服务设计，结合老年人健康评估与生活习惯，开发适老化智能产品（如语音交互、简化界面）；强化政策支持，完善“互联网+养老”标准体系，鼓励企业与社区合作共建智慧养老平台；社会协同参与，引导志愿者、医疗机构、科技企业共同参与，构建“政府+市场+社会”多元服务网络等发展意见。国内学者在“互联网+”助餐的研究取得了一定的成果，但我国在互联网与养老行业融合上仍然存在挑战，亟需后续研究探索。",
+        "bbox": [
+            136,
+            316,
+            889,
+            571
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "1.3.5 文献述评",
+        "text_level": 1,
+        "bbox": [
+            139,
+            606,
+            278,
+            624
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "随着人口老龄化进程加速，老年群体用餐需求日益凸显。当下，国内外众多地区积极探索老年助餐服务，通过开展各类助餐活动与项目，构建起契合本土特色的服务模式，切实保障老年人的用餐需求。学者在养老服务领域的研究范围也逐渐扩展，在这样的趋势下，老年助餐服务这一与老年人生活质量密切相关的议题，正逐步从实践场域跃入学术研究的核心视野，成为养老服务领域备受关注的研究方向。通过系统梳理学术文献、新闻报道及政策资料发现，当前老年助餐服务领域的研究仍存在明显短",
+        "bbox": [
+            136,
+            640,
+            887,
+            793
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_footnote",
+        "text": "① 刘颂.居家养老送餐服务研究综述[J].老龄科学研究，2016,4(9):36-46.",
+        "bbox": [
+            137,
+            808,
+            601,
+            822
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_footnote",
+        "text": "② 丁振涛. 老年数字化助餐服务优化与升级对策研究[J]. 社会福利(理论版), 2023, 4(9): 28-34.",
+        "bbox": [
+            137,
+            822,
+            724,
+            835
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_footnote",
+        "text": "③ 邓婷鹤, 郑晓冬, 杨园争. 老年数字化助餐服务使用特征及影响因素研究——基于北京市调查数据的分析[J]. 城市问题, 2022, 4(6): 47-56, 76.",
+        "bbox": [
+            139,
+            837,
+            868,
+            863
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_footnote",
+        "text": "④ Masroor S, Bulut H, Bahrudin, et al. Review on powered mobility and meal preparing assistive devices for physically disabled persons[A]. In: Robotics and Mechatronics: Proceedings of the 6th IF To MM International Symposium on Robotics and Mechatronics (ISRM 2019) [C]. Springer International Publishing, 2020: 16-28. ",
+        "bbox": [
+            139,
+            864,
+            880,
+            904
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_number",
+        "text": "-11— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            321,
+            979
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "板。一方面，学术成果供给严重不足：在中国知网等主流学术平台检索可见，相关研究论文总量不足百篇，且新闻报道占据主导，真正具备学术价值的高质量研究凤毛麟角。多数研究仅将助餐服务作为社区居家养老研究中的附带内容，停留于基础概况介绍，缺乏系统性的理论构建与实证分析。另一方面，研究深度与方法存在局限：现有成果多以政府政策文件、新闻报道为载体，专业学术论文占比低。此类文献往往侧重于老年人助餐需求现状调查，缺乏量化数据的深度挖掘与理论模型的支撑，难以对助餐服务的运营机制、发展路径等核心问题形成深入阐释。综上所述，我国对老年餐厅，助餐等养老服务的研究还处于起步阶段，对“互联网+”老年人助餐服务的研究更是缺乏数据论证和理论支撑。因此本文以南京市栖霞区w社区的助餐实践为例，探索“互联网+”助餐的运营模式。本文在理论研究基础上和实践结果的总结上，探讨其优化路径，推动老年餐厅助餐服务项目持续优化升级，切实满足老年人多元化用餐需求，为提升老年群体生活品质、完善社会养老服务体系注入新动能。",
+        "bbox": [
+            136,
+            105,
+            885,
+            414
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "1.4 理论基础与概念界定",
+        "text_level": 1,
+        "bbox": [
+            137,
+            448,
+            359,
+            464
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 理论基础 ",
+        "text_level": 1,
+        "bbox": [
+            139,
+            483,
+            275,
+            500
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "布莱德·肖的需要理论，从个人生活和社区制度的角度将人的需要归纳为规范性需要、感受性需要、表达性需要以及比较性需要四类。①规范性需要：个人或群体实际生活低于社会已经建立的标准而产生的需要。感觉性需要：人们切身地感觉到实际生活未能达到应该达到的水平而产生的需要。表达性需要：通过某种方式向社会表达出来，并要求改变这种状况的需要。比较性需要：通过横向比较产生的需要。",
+        "bbox": [
+            136,
+            519,
+            885,
+            642
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "根据布莱德·肖的需要理论，分析老年人对老年助餐的需要，可以理解为：感觉性需要，老年人自身对助餐服务的主观感受和期望构成了感觉性需要。部分老年人可能在日常生活中深切感受到独自准备餐食的困难，如采购食材不便、烹饪过程体力不支等。李芳等对南京市秦淮区助餐点60周岁以上空巢人群的研究表明，该群体在饮食方面存在诸多困扰。对于一些空巢老人而言，每日准备饭菜不仅繁琐，而且缺乏陪伴用餐的氛围，容易产生孤独感。他们主观上渴望有便捷的助餐服务，既能解决吃饭难题，又能在一定程度上缓解孤独感，丰富社交生活。这种内心的感受和渴望便是老年人对老年助餐的感觉性需要。表达性需要，当老年人将自身对助餐的感觉性需要",
+        "bbox": [
+            136,
+            650,
+            885,
+            852
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "page_footnote",
+        "text": "① Bradshaw J. The Taxonomy of Social Need[M]. New Society, 1972: 641. ",
+        "bbox": [
+            137,
+            875,
+            608,
+            888
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "page_footnote",
+        "text": "(2) 李芳, 陈湘江, 杨月等. 南京市秦淮区助餐点空巢人群膳食营养状况调查和评价[J]. 南京医科大学学报（自然科学版）, 2022, 42(1): 5.",
+        "bbox": [
+            137,
+            889,
+            880,
+            915
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "page_number",
+        "text": "—12— ",
+        "bbox": [
+            507,
+            935,
+            561,
+            946
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            319,
+            978
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "通过行动表达出来时，就形成了表达性需要。在社区中，老年人可能会向社区工作人员、志愿者反映对助餐服务的需要，如希望增加助餐点数量、调整助餐时间、丰富菜品口味等。一些老年人可能会参与社区组织的关于养老服务的讨论会议，积极提出对助餐服务的意见和建议。比如部分老人向社区反馈现有助餐点距离较远，步行前往困难，这就是老年人通过实际行动表达出对助餐服务在便利性方面的需要，即表达性需要。比较性需要，老年人将自身所享有的助餐服务与其他地区或群体所拥有的助餐服务进行对比，从而产生的需要为比较性需要。例如，若某社区的老年人了解到相邻社区的助餐服务提供多样化的菜品，每餐都有适合不同健康状况老人的特色餐食，且价格优惠，送餐服务也更准确。相比之下，本社区助餐服务在菜品丰富度、价格合理性和配送效率上存在差距，那么该社区的老年人就可能产生对改善助餐服务的比较性需要，期望本社区也能提供类似高质量的助餐服务，包括丰富菜品选择、优化价格体系以及提升配送服务质量等。",
+        "bbox": [
+            136,
+            105,
+            885,
+            413
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "通过运用布莱德·肖的需要理论来剖析老年人对老年助餐的需要，能够让助餐服务的各参与方，包括政府部门、社区组织、助餐机构等，更全面、深入且准确地了解老年人的真实需求，进而采取有效的措施去优化和完善老年助餐服务，提升老年人的生活质量与满意度。",
+        "bbox": [
+            137,
+            420,
+            885,
+            518
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 概念界定",
+        "text_level": 1,
+        "bbox": [
+            139,
+            552,
+            275,
+            571
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "1.4.2.1 老年助餐服务",
+        "text_level": 1,
+        "bbox": [
+            139,
+            588,
+            332,
+            607
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "老年助餐服务是发展居家养老服务的一项重要内容，是构建完善养老服务体系的重要一环，是一项便民、惠民的服务工作，也是关系老年人切身利益的社会工作。①养老助餐服务是给高龄老人、空巢老人、失能老人以及经济困难的老年人提供集中用餐以及送餐上门服务，目的在于解决老年人吃饭难问题。②养老助餐服务是“以居家为基础、社区为依托、机构为补充”建立的多层次养老服务体系的基础民生工程。随着老龄化趋势越发严重以及老年助餐服务的全面发展，其服务对象也在向低龄老人及其他有用餐需求的老年人扩展。③目前，各地区因地制宜形成了很多老年助餐服务的运营形式，如社区自办助餐点、与餐饮企业合作、依托职工单位食堂、引入社会力量参",
+        "bbox": [
+            136,
+            623,
+            887,
+            827
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "page_footnote",
+        "text": "① 杨洋. 社会工作助力社区老年餐厅助餐服务项目研究——以成都市 AG 老年餐厅为例[D]. 东北石油大学, 2023.",
+        "bbox": [
+            137,
+            872,
+            838,
+            887
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "page_footnote",
+        "text": "② 朱明华. 上海市老年助餐服务问题与对策研究[D]. 华东师范大学, 2023.",
+        "bbox": [
+            137,
+            887,
+            600,
+            900
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "page_footnote",
+        "text": "③ 朱明华. 上海市老年助餐服务问题与对策研究[D]. 华东师范大学, 2023.",
+        "bbox": [
+            137,
+            901,
+            600,
+            915
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "page_number",
+        "text": "-13— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "与等，以下两种形式各地区呈现的较多：一是社区组织建立的老年餐厅或老年食堂；二是以社区企业或餐饮店为依托，设立养老助餐点，为辖区老年人提供助餐服务。①",
+        "bbox": [
+            137,
+            105,
+            880,
+            151
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "1.4.2.2 “互联网+” ",
+        "text_level": 1,
+        "bbox": [
+            137,
+            187,
+            312,
+            204
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "十二届全国人大第三次会议上首次提出“互联网 $+$ ”行动计划，其内核是指依靠互联网信息技术为主体，将传统行业与互联网进行深度融合，优化生产要素、业务结构，重构商业模式，促进传统行业转型升级，带动经济飞速发展，其核心理念在于互联网信息技术。②移动互联网技术的广泛应用，极大地改变了人们的日常生活方式，也为智慧养老产业的发展提供了新的机遇。“互联网 $+$ ”养老就是采用物联网、互联网、信息技术等智慧化方式建立面向社区、面向居家老人的信息化平台和物联网系统，为老人提供高效、便捷的智能化、互联化、物联化的养老服务。智慧养老服务以老年人服务信息平台为纽带，同时以线下服务为支撑，通过智能化设备获取老人服务需求，然后共同构建成闭合性的供需链。④“互联网 $+$ ”助餐以网络为依托，使老年助餐服务的模式更加立体化，提高了效率和质量。“互联网 $+$ ”助餐改善了养老资源的分配效率，及时满足老年人的需求，弥补了传统居家养老的缺陷，提高了双方之间的信息交换及服务的灵活性和适时性。⑤",
+        "bbox": [
+            136,
+            222,
+            885,
+            529
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "1.5 研究方法",
+        "text_level": 1,
+        "bbox": [
+            139,
+            564,
+            260,
+            580
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "1.5.1 资料收集方法",
+        "text_level": 1,
+        "bbox": [
+            139,
+            599,
+            315,
+            615
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "1. 问卷法",
+        "text_level": 1,
+        "bbox": [
+            174,
+            634,
+            275,
+            651
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "问卷法是以实证主义为方法论的量化研究方法，它是通过把标准化的问卷分发或邮寄给有关的人员，然后对问卷回收整理，并进行统计分析，从而得出研究结果的研究方法。W社区60岁以上老人大约有2505人，经后台统计在W社区开始试点爸妈食堂饿了么助老e餐享受过助餐的人次有230名老年人，本研究对这230名老人进",
+        "bbox": [
+            136,
+            670,
+            882,
+            766
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_footnote",
+        "text": "① 杨洋. 社会工作助力社区老年餐厅助餐服务项目研究——以成都市 AG 老年餐厅为例[D]. 东北石油大学, 2023.",
+        "bbox": [
+            137,
+            806,
+            838,
+            821
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_footnote",
+        "text": "$②$ 国务院办公厅.2015年政府工作报告[EB/OL].(2015-03-05)[2023-03-21].https://www.gov.cn/guowuyuan/2015zfgzbg.htm.",
+        "bbox": [
+            137,
+            822,
+            873,
+            846
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_footnote",
+        "text": "③ 周建芳,胡雅萍,朱晓. 智慧养老与老年福祉[M]. 南京: 江苏人民出版社, 2021: 3.",
+        "bbox": [
+            139,
+            847,
+            648,
+            860
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_footnote",
+        "text": "④ 侯日莹，丛春晓，郁海香. “互联网+”背景下社区智慧养老服务优化探析[J]. 吉林广播电视大学学报，2024(03): 43-45 +55.",
+        "bbox": [
+            139,
+            860,
+            882,
+            885
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_footnote",
+        "text": "⑤ 宋沛璐. 社会保障“互联网+”背景下太原市社区居家养老问题研究[D]. 山西财经大学，2022.",
+        "bbox": [
+            139,
+            887,
+            737,
+            901
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_footnote",
+        "text": "⑥ 郑晶晶. 问卷调查法研究综述[J]. 理论观察, 2014(10): 102-103.",
+        "bbox": [
+            139,
+            902,
+            578,
+            915
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_number",
+        "text": "—14— ",
+        "bbox": [
+            507,
+            935,
+            561,
+            946
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            319,
+            978
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "行问卷调查，问卷设计充分结合了W社区助餐老人的实际情况，针对视力和听力不好的老年人，为了顺利进行问卷调查我们会安排专业且耐心的工作人员全程跟进。面对老年人提出的疑问，工作人员会给予细致入微的解释说明，确保他们充分理解问卷内容，全方位保障调研顺利进行。问卷设计遵循以下原则：目的性原则，问卷设计者需要对研究内容和目的有足够的了解，才能获得有用的信息。本文的主题是南京市W社区“互联网”+老年助餐服务的问题研究，因此在设计问卷时，需要突出W社区老年人助餐服务的老年人满意度和老年人需求等因素；适应性原则，设计问卷时要确保老年被调研者积极耐心配合，因调研对象多为60岁以上老人，其理解、视力、耐力与年轻人有差距，问卷设计上，题目表述要简洁易懂，不用复杂词汇和长句，方便老人理解，要优化视觉呈现，用醒目字体，增大字间距和行间距，调研时，工作人员要留意老人反应，有疑惑及时耐心讲解，助其完成作答。准备小礼物作为感谢，能提升老人参与积极性。这些适应性措施，有助于保障调研顺利开展，获取真实有效数据；顺序性原则，合理安排题目先后顺序，便于后续的数据整理与分析，也能让被调研对象渐入佳境，使调研结果更为准确。在本文的问卷设计中，前半部分是被调研对象的基本信息，接着是助餐服务的老年人使用情况，然后是老年人满意度情况，最后设置开放性题目，收集对老年助餐服务的建议。本次共发放230份问卷，因为有问卷字迹不清楚，还有老人联系不上的情况，有效回收215份问卷。通过问卷数据分析可直观展现“互联网+”助餐在W社区的实践效果。",
+        "bbox": [
+            136,
+            105,
+            887,
+            570
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "2. 文献法",
+        "text_level": 1,
+        "bbox": [
+            173,
+            587,
+            277,
+            604
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "本文通过研究南京2023年的人口普查数据，发现南京老龄化严重，分析国内外“互联网+”养老行业发展现状、经验和做法，研究社区居委会的工作资料、媒体报道和评论、其他个人和团体的资料阅相关的文献资料，对文献资料的分析进行综合和归纳，提取出有价值的信息和观点，为研究提供理论支持和参考依据。",
+        "bbox": [
+            137,
+            621,
+            885,
+            720
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "3. 访谈法",
+        "text_level": 1,
+        "bbox": [
+            171,
+            736,
+            275,
+            753
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "访谈法就是研究者探访被研究者并通过问答获取资料<sup>①</sup>。本次访谈共走访调查了13名访谈对象，分别是享受W社区助餐的老年人5名、社区街道相关的工作人员1名、居家养老服务中心社区工作者3名、食堂工作人员2名和饿了么工作人员2名。对于社区用餐老年人主要是围绕对助餐服务的期望和意见；对于社区街道工作人员主",
+        "bbox": [
+            136,
+            771,
+            885,
+            870
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "page_footnote",
+        "text": "$①$ 全国社会工作者职业水平考试教材编写组.社会工作综合能力(中级)[M].北京：中国社会出版社，2024:119.",
+        "bbox": [
+            136,
+            900,
+            875,
+            916
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "page_number",
+        "text": "-15— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "要围绕周边老年人基本情况的了解程度，政府对于助餐的补贴情况，推进老年助餐服务工作过程中的困难和未来的工作计划；对于居家养老服务中心的工作人员主要围绕站点运营情况，老人用餐情况，老年助餐服务推广情况；对于食堂工作人员主要围绕老对老年餐厅的经营情况以及经营过程中遇到的困难，老年餐厅的改善意见等；对于饿了么工作人员的访谈主要是围绕了解是否接收过岗前培训、服务过程中遇到的问题以及对及配送过程的改善意见，详见表1.1。",
+        "bbox": [
+            136,
+            105,
+            885,
+            255
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/8cc5cee56eb2c59c1cb46a7687e883e1ec314a1cb2cf528c2343371053b2b304.jpg",
+        "table_caption": [
+            "表 1.1 访谈对象表"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>序号</td><td>访谈对象</td><td>访谈对象年龄</td><td>访谈人员编号</td></tr><tr><td>1</td><td>社区用餐老年人</td><td>65</td><td>FT01</td></tr><tr><td>2</td><td>社区用餐老年人家属</td><td>47</td><td>FT02</td></tr><tr><td>3</td><td>社区用餐老年人</td><td>72</td><td>FT03</td></tr><tr><td>4</td><td>社区用餐老年人</td><td>79</td><td>FT04</td></tr><tr><td>5</td><td>社区用餐老年人</td><td>68</td><td>FT05</td></tr><tr><td>6</td><td>社区街道工作人员</td><td>49</td><td>FT06</td></tr><tr><td>7</td><td>居家养老服务中心负责人</td><td>36</td><td>FT07</td></tr><tr><td>8</td><td>居家养老服务中心社工</td><td>29</td><td>FT08</td></tr><tr><td>9</td><td>居家养老服务中心社工</td><td>28</td><td>FT09</td></tr><tr><td>10</td><td>中心食堂工作人员</td><td>44</td><td>FT10</td></tr><tr><td>11</td><td>中心食堂工作人员</td><td>48</td><td>FT11</td></tr><tr><td>12</td><td>饿了么工作人员</td><td>25</td><td>FT12</td></tr><tr><td>13</td><td>饿了么工作人员</td><td>28</td><td>FT13</td></tr></table>",
+        "bbox": [
+            129,
+            282,
+            890,
+            656
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "4. 参与式观察法",
+        "text_level": 1,
+        "bbox": [
+            210,
+            697,
+            366,
+            714
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "观察法就是利用感觉器官和其他手段收集和感受对象的资料，根据观察者是否融入观察群体，可分为参与式观察和非参与式观察。①丹尼.乔金森以为参与式观察法是指研究者深入到研究对象的日常生活中，依据既定的研究框架，运用个人的感官和辅助工具，进行直接且深入的观察。②在社区助餐服务研究中，参与式观察法凭借其独特优势，能够助力研究者获取真实生动的数据，深入洞悉服务运作机制。",
+        "bbox": [
+            136,
+            732,
+            884,
+            854
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "page_footnote",
+        "text": "$①$ 全国社会工作者职业水平考试教材编写组.社会工作综合能力(中级)[M].北京：中国社会出版社，2024:118. $②$ 丹尼乔金森.参与观察法[M].重庆：重庆大学出版社，2017:3.",
+        "bbox": [
+            136,
+            885,
+            873,
+            915
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "page_number",
+        "text": "-16— ",
+        "bbox": [
+            505,
+            935,
+            561,
+            947
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            321,
+            978
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "在“爸妈食堂饿了么助老e餐”推广实践过程中，笔者作为参与项目的社会工作者，通过为期半年的参与观察，运用该方法详细探究了社区居委会、居家养老服务中心和食堂利用栖彩颐养小程序为老年居民提供助餐服务的全过程。以下将重点描述参与式观察法在此次研究中的实施过程和观察要点。1、准备阶段，在开展参与观察前，进行充分的准备工作。首先，明确研究目的与问题，即深入了解社区助餐服务借助栖彩颐养小程序的具体运作流程、服务对象的需求满足情况以及各方协作机制。接着，与社区居委会、居家养老服务中心和食堂相关负责人进行沟通，表明研究意图，获取他们的支持与配合，争取获得进入研究现场的许可。同时，熟悉栖彩颐养小程序的功能和操作流程，学习社区助餐服务的相关政策和规范，为后续参与服务做好知识储备。此外，准备好观察记录工具，如笔记本、录音设备（在征得同意的前提下使用）等，设计初步的观察提纲，涵盖服务流程、人员互动、技术应用等方面的关键问题。2、实施阶段：（1）融入阶段：以社会工作者的身份正式参与到社区助餐服务中，从助餐活动的筹备、小程序的推广使用，到餐食配送、老年居民反馈收集等环节全程参与。在初期，积极与服务团队成员建立良好的关系，主动承担力所能及的工作任务，如协助解答老年居民关于小程序使用的疑问、帮助整理订餐信息等，通过实际行动消除与研究对象之间的陌生感，逐步融入服务环境。（2）观察与参与结合阶段：在参与服务的过程中，保持敏锐的观察力，对助餐服务的各个环节进行细致观察。例如，观察社区和居家养老服务中心如何组织宣传活动推广助餐服务和小程序；居家养老服务中心工作人员怎样与食堂对接订单、安排配送；食堂工作人员如何根据小程序订单准备餐食，以及在配送过程中遇到问题时各方的应对方式。同时，积极参与服务过程中的讨论和决策，与其他工作人员交流服务经验和遇到的困难，从内部视角深入了解服务运作情况。此外，与老年居民进行互动，倾听他们对助餐服务和小程序的看法、建议，记录他们在使用过程中遇到的问题和需求。（3）深入探究阶段：随着观察的深入，针对前期观察中发现的关键问题和现象进行深入探究。例如，当发现部分老年居民对小程序操作存在困难导致订餐率不高时，进一步观察工作人员采取的解决措施及其效果，与老年居民深入交流，了解他们在操作过程中的具体障碍。同时，关注服务过程中各方的协作模式和存在的矛盾冲突，分析其产生的原因和影响，挖掘深层次的问题和潜在需求。在助餐活动中，笔者作为主要的社会工作者之一，自始至终参与了社区助餐服务的实践，运用参与式观察法可以得到更真实和生动的数据，参与观察法能够减少研究者的主观影响，使研究者更好地融入研究环境，建立与研究对象的亲密关系，从而收集到更准确的信息。",
+        "bbox": [
+            136,
+            105,
+            887,
+            910
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "page_number",
+        "text": "-17— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "此次研究运用参与式观察法的观察要点主要围绕服务流程与技术应用、人员互动与协作、服务对象需求与反馈、特殊事件与问题解决等。服务流程与技术应用，重点观察栖彩颐养小程序在助餐服务各环节的应用情况，包括小程序的订餐、支付、配送跟踪等功能是否顺畅，是否满足老年居民和服务提供者的需求。同时，关注服务流程是否合理高效，如从订单生成到餐食送达的时间周期、中间环节的衔接是否紧密等，分析是否存在流程繁琐或技术障碍影响服务质量和效率的问题；人员互动与协作，观察社区居委会、居家养老服务中心、食堂工作人员以及老年居民之间的互动模式和协作关系。了解各方在服务过程中的角色定位和职责履行情况，观察他们之间的沟通方式和效果，关注是否存在沟通不畅、职责不清导致的矛盾和问题。此外，留意工作人员与老年居民之间的情感交流和服务态度，分析良好的互动关系对提升服务满意度的作用；服务对象需求与反馈，密切关注老年居民在助餐服务过程中的需求和反馈，包括对餐食口味、种类、价格的期望，对小程序使用便捷性的要求，以及对服务态度和配送质量的评价等。通过观察老年居民的行为表现和言语表达，挖掘他们潜在的需求和未被满足的期望，为改进助餐服务提供依据；特殊事件与问题解决，在观察过程中，留意助餐服务过程中出现的特殊事件，如小程序系统故障、餐食配送延迟、老年居民投诉等情况。观察各方在面对这些问题时的反应和解决方式，分析问题产生的原因和解决措施的有效性，总结经验教训，为优化服务流程和应对突发情况提供参考。",
+        "bbox": [
+            136,
+            105,
+            885,
+            544
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "1.5.2 资料分析方法",
+        "text_level": 1,
+        "bbox": [
+            139,
+            579,
+            307,
+            596
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "本研究综合运用了量化研究和质性研究。量化研究的问卷资料分析如下：问卷设计全面涵盖老年人多方面信息及对助餐服务各环节评价。首先进行描述性统计，借助统计软件剖析老年人年龄结构、助餐服务知晓方式、使用频率等，直观展现基本情况。如年龄分布能反映需求层次差异，知晓方式体现宣传效果。质性研究资料分析如下：访谈选取不同老年群体、各部门工作人员，围绕体验、问题与建议交流，录音转文本后进行内容分析，提炼出如服务质量、情感关怀等核心主题，呈现多元诉求。观察聚焦食堂高峰、配送场景，记录环境、人员态度等，剖析就餐模式、运营细节，从微观完善认知。文献资料收集政策、社区记录与学术成果，梳理政策指引、对比服务轨迹、借鉴理论，拓宽宏观视野，全方位助力研究深入。",
+        "bbox": [
+            136,
+            614,
+            887,
+            843
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "page_number",
+        "text": "-18— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "2 W社区老年助餐服务现状",
+        "text_level": 1,
+        "bbox": [
+            312,
+            101,
+            705,
+            126
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "2.1 老年助餐服务实践背景",
+        "text_level": 1,
+        "bbox": [
+            137,
+            161,
+            381,
+            179
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 南京市助餐发展进程",
+        "text_level": 1,
+        "bbox": [
+            137,
+            196,
+            378,
+            214
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "基于第七次全国人口普查数据60岁及以上人口为176.77万人，占 $18.98\\%$ ，其中65岁及以上人口为127.58万人，占 $13.70\\%$ 。①与2010年第六次全国人口普查相比60岁及以上人口的比重上升5.23个百分点，65岁及以上人口的比重上升4.52个百分点。2014年以来，国家发改委、民政部、卫计委相继批准南京市担负“全国养老服务业综合改革试点城市、全国居家和社区养老服务改革试点城市、全国医养结合试点城市”三项改革试点任务。②南京市老龄化现状呈现老龄化速度较快、老年人口数量庞大、养老服务需求高、养老服务体系有待完善等特点。",
+        "bbox": [
+            136,
+            231,
+            885,
+            407
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "南京市助餐发展进程。2006年，南京首家社区老人食堂在南京锁金村街道社区居委会悄然开张。这家社区老人食堂由玄武区锁金村街道社区居委会出面组织，由辖区内有经验的家庭主妇、社区党员及有资质的厨师等社区义工自愿加盟服务。2015年，南京尝试推广老年助餐工程，一年下来，全市助餐点已达到357家。助餐点从“小作坊”模式向“中心厨房”模式转变。在这种模式下，由专业的餐饮企业或者企事业单位食堂来服务，居家养老中心或者社区服务点承接配餐服务，由一级中心厨房辐射各个送餐点。",
+        "bbox": [
+            136,
+            414,
+            884,
+            589
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "一直以来，栖霞区将示范性助餐点建设纳入民生实事，建成113个社区银发助餐点、27个村居助餐点。去年，栖霞区开始试点爸妈食堂饿了么助老e餐，来化解辖区老人就餐难题。W社区是栖霞区的一个四级社区，60岁以上老人大约有2505人，经平台数据统计享受过助餐的人次有230名老年人。",
+        "bbox": [
+            136,
+            598,
+            884,
+            694
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 政策支持",
+        "text_level": 1,
+        "bbox": [
+            137,
+            730,
+            275,
+            747
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "2024年4月《江苏省“舒心助餐”专项行动实施方案》提出需求导向，因地制宜统筹推进；社会参与，完善补贴政策措施；智慧赋能，提升助餐服务能力。南京为",
+        "bbox": [
+            137,
+            765,
+            884,
+            810
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "page_footnote",
+        "text": "① 南京市人民政府. 南京市第七次全国人口普查公报[EB/OL]. (2021-05-24)[2024-12-20]. https://www.nanjing.gov.cn/zdgk/202105/t20210524_2946168.html.",
+        "bbox": [
+            137,
+            834,
+            885,
+            860
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "page_footnote",
+        "text": "② 宁宣. 南京：强主导聚资源撬动居家养老[J]. 乡镇论坛，2019(29): 36-37.",
+        "bbox": [
+            137,
+            860,
+            635,
+            873
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "page_footnote",
+        "text": "③ 史玉. 南京出现首家社区老人食堂[J]. 老年世界, 2006(11): 1.",
+        "bbox": [
+            139,
+            875,
+            566,
+            888
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "page_footnote",
+        "text": "$④$ 严国进.把老年助餐工程做好[J].老年世界，2015(23)：1.",
+        "bbox": [
+            139,
+            889,
+            536,
+            903
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "page_number",
+        "text": "—19— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            946
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            321,
+            978
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "深入贯彻民政部等11部门印发的《积极发展老年助餐服务行动方案》（民发〔2023〕58号）和省民政厅等11部门印发的《江苏省“舒心助餐”专项行动实施方案》（苏民养老〔2024〕8号），做优做强“宁享养老”品牌，出台了《南京市“宁享助餐”提升行动实施方案》，提出要丰富老年助餐服务供给，鼓励发展互助式老年助餐；规范老年助餐配送服务，可依托餐饮企业、中心厨房等自行配送，也可发挥互联网平台、物流企业作用，利用市场化物流网络合作配送；提升老年助餐服务品质，结合老人实际需求，提供营养可口的餐食等更为全面和因地制宜的实施方案。",
+        "bbox": [
+            136,
+            105,
+            885,
+            282
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 资金投入",
+        "text_level": 1,
+        "bbox": [
+            137,
+            317,
+            275,
+            336
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "助餐点的奖补，由政府无偿提供设施的助餐点补贴包括：基础补贴，持续运营半年以上且助餐点面积达到 $50\\mathrm{m}^2$ 、 $70\\mathrm{m}^2$ 、 $100\\mathrm{m}^2$ ，每年给予2万元、3万元、5万元基础补贴；绩效奖励，按照为老年人提供餐食的数量计算，标准为每人次2元。上述两项奖补每年最多不超过15万元；社区居家养老服务中心（不含乡村睦邻点）内设的助餐点，不享受上述补贴。市场化餐饮企业配备必要的设施设备，经区民政部门认定为养老助餐点后，可享受绩效奖励。符合市级示范性银发助餐点标准的，按项目实际建设投入的 $80\\%$ 给予一次性补贴，最高不超过20万元。中心厨房的奖补，基础补贴，经区级民政部门审定的中心厨房，年度每月配送达到3-5个、6-8个、9个及以上助餐点的，每年给予5万元、8万元、10万元补贴；绩效奖励，为老年人提供餐食的，当年按每人次2元给予补贴。上述两项奖补，每年最多不超过25万元；区级养老服务设施、街镇养老综合服务中心设置中心厨房的，可同时享受社区居家养老服务中心奖补和中心厨房基础补贴。中心厨房内设助餐点的，不得同时享受助餐点相关奖补。",
+        "bbox": [
+            136,
+            353,
+            887,
+            659
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "老人的补助分为餐费补助和配送费补助，政府扶助对象：政府补助5元，公益补助7.5元，无需自费。75岁以上老年人：政府补助2.5元，无公益补助，需自费10元。60-74岁老年人：无政府和公益补助，需自费12.5元。相比75岁以上老人，这一年龄段的补贴力度更小，个人负担更重。75岁以上爸妈食堂老年人：政府补助2.5元，公益补助10元，无需自费。在爸妈食堂用餐的这部分高龄老人，除政府补贴外，公益补助力度较大，实现了免费用餐。60-74岁爸妈食堂老年人：无政府补助，公益补助12.5元，无需自费。爸妈食堂老人多为低保特困老人，爸妈食堂针对这一年龄段的老人，通过公益补助实现了免费就餐。配送费补贴：政府扶助对象失能老人：政府补助3元，公益补助1.4元，无需自费。体现了对失能且为政府扶助对象老人的特",
+        "bbox": [
+            136,
+            665,
+            887,
+            897
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "page_number",
+        "text": "-20— ",
+        "bbox": [
+            505,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "殊关怀，在配送费上给予了全额补贴。政府扶助对象非失能老人：政府补助2.4元，公益补助2.4元，需自费2元。该群体在配送费上有一定补贴，但仍需个人支付少量费用。非政府扶助对象：无政府补助，公益补助2.4元，需自费2元。与政府扶助对象非失能老人相比，非政府扶助对象缺少政府补贴部分。",
+        "bbox": [
+            136,
+            105,
+            882,
+            203
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8528209986d316ec548e2f59a328ff45830a0808da2720464b548b6bb37d035.jpg",
+        "table_caption": [
+            "表 2.1 餐费补助标准"
+        ],
+        "table_footnote": [
+            "资料来源：本表数据来源于南京市民政局"
+        ],
+        "table_body": "<table><tr><td>扶助对象类型</td><td>政府补助金额/元</td><td>公益补助金额/元</td><td>自费金额/元</td></tr><tr><td>政府扶助对象</td><td>5</td><td>7.5</td><td>0</td></tr><tr><td>75岁以上老年人</td><td>2.5</td><td>0</td><td>10</td></tr><tr><td>60-74岁老年人</td><td>0</td><td>0</td><td>12.5</td></tr><tr><td>75岁以上爸妈食堂老年人</td><td>2.5</td><td>10</td><td>0</td></tr><tr><td>60-74岁爸妈食堂老年人</td><td>0</td><td>12.5</td><td>0</td></tr></table>",
+        "bbox": [
+            156,
+            229,
+            848,
+            394
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "table",
+        "img_path": "images/50ccaffdb01a85294da18edebdebb17f360f10e46404ef775f3938996a650a9d.jpg",
+        "table_caption": [
+            "表 2.2 配送费补贴标准"
+        ],
+        "table_footnote": [
+            "资料来源：本表数据来源于南京市民政局"
+        ],
+        "table_body": "<table><tr><td>扶助对象类型</td><td>政府补助金额/元</td><td>公益补助金额/元</td><td>自费金额/元</td></tr><tr><td>政府扶助对象失能老人</td><td>3</td><td>1.4</td><td>0</td></tr><tr><td>政府扶助对象非失能老人</td><td>2.4</td><td>2.4</td><td>2</td></tr><tr><td>非政府扶助对象</td><td>0</td><td>2.4</td><td>2</td></tr></table>",
+        "bbox": [
+            161,
+            444,
+            858,
+            557
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "2.2 W社区老人用餐情况",
+        "text_level": 1,
+        "bbox": [
+            136,
+            617,
+            366,
+            634
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 用餐老年人基本情况",
+        "text_level": 1,
+        "bbox": [
+            137,
+            652,
+            376,
+            671
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "丁振涛深入剖析了老年数字化助餐服务的现状，认为年龄、教育水平、经济状况等是影响老年人使用数字化助餐服务的重要因素。年龄较大、教育水平较低、经济状况较差的老年人，在接受和使用“互联网+”助餐服务时可能面临更多困难。①因此本研究在设计问卷时对老人的年龄、教育水平、经济状况、居住情况和身体状况进行了调研和分析。",
+        "bbox": [
+            136,
+            687,
+            882,
+            810
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "page_footnote",
+        "text": "① 丁振涛. 老年数字化助餐服务优化与升级对策研究[J]. 社会福利(理论版), 2023, 4(9): 28-34.",
+        "bbox": [
+            109,
+            885,
+            736,
+            901
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "page_number",
+        "text": "-21— ",
+        "bbox": [
+            505,
+            935,
+            561,
+            947
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            30,
+            960,
+            321,
+            978
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "被调研的老人中，从性别看， $66.0\\%$ 为女性， $34.0\\%$ 为男性。从年龄结构看，样本集中于60-85岁之间，比例高达 $97.2\\%$ ，其中，70-75岁最高，占比为 $34.9\\%$ ，85岁以上就餐的老人较少，不同年龄段老人或因身体机能差异，对助餐存在不同程度需求。",
+        "bbox": [
+            136,
+            105,
+            885,
+            204
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "从受教育程度看，样本主要集中于初中、高中及中专文化程度，样本占比为 $80.9\\%$ ，W社区多为国有企业职工，学历相对较高。一般而言，较高学历老人的数字技术认知能力、信息获取能力和创新意识更突出，或使得居民对“互联网+”养老服务的接受度具备一定潜力，不过，鉴于个体差异、所在地区数字化基础差异、经济状况不同等因素，两者间的关联及作用模式，仍有待严谨的实证研究加以验证。",
+        "bbox": [
+            136,
+            211,
+            889,
+            335
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "从居住情况看，独居老人有62人，占比 $28.8\\%$ ，与配偶同住的老年人有100人，占比 $46.5\\%$ ，与子女同住的有50人，占比 $23.3\\%$ ，有三位老年人选择了其他选项，是因为这些老人暂时偶尔会自己住，偶尔会跟子女一起住，帮子女带孩子不固定。根据调研数据结果发现大多数老年人和他们的配偶，少部分独居或者和子女同住。通过对这些老年人的访谈，我们得知，独居老人对社区助餐或者上门配送膳食意向较高，同时与配偶同住的老年人也可能无法在家里做饭，会愿意和配偶一起订餐，原因是身体健康方面，他们的食物摄入量已经减少，在家做饭需要购买大量的食材，而且每天都需要花费时间和精力在厨房里，因此，他们认为在家买菜做饭的性价比并不高。还有一部分老年人虽然跟子女同住，但是子女们平日里忙于工作，可能晚上或者早上准备好午饭但是有些老人不会使用微波炉加热，膳食的质量无法保证，因此他们也更加倾向于在社区订餐。",
+        "bbox": [
+            136,
+            341,
+            885,
+            623
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "从收入情况看，在所有受访人群中，占比最多的是依靠离/退休金或劳动收入来获取经济来源的老年人，样本数量为170人，其占总调研人数的比重为 $79.1\\%$ ，占据了主导地位；其次，有15位老人的经济来源为家庭其他成员的供养，这一部分人群占据了总体的 $7.0\\%$ ；另外，经济来源为积蓄的老人有10人，这一部分人群占据了总体的 $4.7\\%$ ；最后，还有20位老人的经济来源为享受国家最低生活保障，虽然这部分人群数量有限，但他们是最需要助餐服务的老人。",
+        "bbox": [
+            137,
+            629,
+            885,
+            778
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "从身体状况看，在所有受访人群中身体好，较好和一般的共有143，说明W社区健康的老人也愿意来社区订餐；还有63老人身体较差，可能有些慢性病，从受访者采访中了解，身体较差的老人大多有糖尿病，高血压，因此助餐点在制作膳食时要注意定制膳食，营养膳食充分考虑老年人的健康状况。（见表2.3）",
+        "bbox": [
+            136,
+            785,
+            885,
+            885
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "page_number",
+        "text": "-22— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "table",
+        "img_path": "images/7bd0b548cc9fbb992b9eb14c813a8ced296bdde92ccebce04f225168e715a210.jpg",
+        "table_caption": [
+            "表 2.3 W 社区用餐老年人基本情况"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>特征</td><td>选项</td><td>百分比</td></tr><tr><td rowspan=\"2\">性别</td><td>女</td><td>66.0</td></tr><tr><td>男</td><td>34.0</td></tr><tr><td rowspan=\"6\">年龄</td><td>60-65</td><td>11.2</td></tr><tr><td>65-70</td><td>14.9</td></tr><tr><td>70-75</td><td>34.9</td></tr><tr><td>75-80</td><td>22.3</td></tr><tr><td>80-85</td><td>14.0</td></tr><tr><td>&gt;85</td><td>2.8</td></tr><tr><td rowspan=\"4\">身体状况</td><td>好</td><td>7.0</td></tr><tr><td>较好</td><td>17.7</td></tr><tr><td>一般</td><td>41.9</td></tr><tr><td>较差</td><td>29.3</td></tr><tr><td rowspan=\"6\">受教育程度</td><td>差</td><td>4.2</td></tr><tr><td>小学及以下</td><td>10.2</td></tr><tr><td>初中</td><td>55.3</td></tr><tr><td>高中或中专</td><td>25.6</td></tr><tr><td>本科或大专</td><td>3.7</td></tr><tr><td>本科以上</td><td>5.1</td></tr><tr><td rowspan=\"4\">居住情况</td><td>独居</td><td>28.8</td></tr><tr><td>与配偶同住</td><td>46.5</td></tr><tr><td>与子女同住</td><td>23.3</td></tr><tr><td>其他</td><td>1.4</td></tr><tr><td rowspan=\"4\">收入情况</td><td>储蓄</td><td>4.7</td></tr><tr><td>子女赡养</td><td>7.0</td></tr><tr><td>离/退休金/劳动收入</td><td>79.1</td></tr><tr><td>低保</td><td>9.3</td></tr></table>",
+        "bbox": [
+            176,
+            118,
+            842,
+            840
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 老年人具体用餐情况",
+        "text_level": 1,
+        "bbox": [
+            137,
+            883,
+            376,
+            901
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "page_number",
+        "text": "—23— ",
+        "bbox": [
+            507,
+            935,
+            561,
+            946
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            321,
+            978
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "选择在社区助餐的原因。在215份样本中有180位老人选择身体不支持做饭，由此可见身体不支持做饭是老人选择订餐的重要原因，168位老人选择独居，通过深度访谈很多独居老人都存在吃饭问题，烧一次饭可以吃好几天，饭菜可能会存在卫生和是否新鲜问题。有62位老人选择政府有补贴，这些老人有些是特困低保老人，有些是政府扶持老人。有174位老人选择餐食便宜多样，通过采访老人认为每顿餐食都荤素搭配，三菜一汤，如果自己做费时费力一个人还吃不完，现在的餐食正好一顿吃完，还不贵。还有4位老人选择了其他，有3位老人表示只是想尝试尝试，还有1位老人表示是子女推荐的原因。（见表2.4）",
+        "bbox": [
+            136,
+            105,
+            885,
+            307
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "table",
+        "img_path": "images/7312546afecd05912796ef971b2ceba5380c42fd7fb2492064d6ef2f8bfc0288.jpg",
+        "table_caption": [
+            "表 2.4 选择社区助餐服务的原因"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>原因</td><td>频率</td><td>百分比</td></tr><tr><td>身体不支持做饭</td><td>180</td><td>83.7</td></tr><tr><td>独居</td><td>168</td><td>72.1</td></tr><tr><td>政府有补贴</td><td>62</td><td>28.8</td></tr><tr><td>餐食便宜多样</td><td>174</td><td>80.9</td></tr><tr><td>其他</td><td>4</td><td>1.9</td></tr></table>",
+        "bbox": [
+            131,
+            360,
+            890,
+            525
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "用餐频率及次数。问卷数据显示，每周就餐3次及以上的老人占比为 $75\\%$ 。值得注意的是，超 $95\\%$ 的老人仅选择在午餐时段使用社区助餐服务。深入探究这一现象背后的原因，通过与社区中心食堂及各助餐点工作人员访谈得知，目前多数食堂和助餐点基于运营成本、人力调配等因素考量，仅在午餐时段提供服务。中心食堂工作人员表示，午餐需求集中且订单量较大，能充分利用厨房设备与人力资源，若同时开设晚餐服务，食材采购量、人力投入都需大幅增加，运营成本难以承受。从老人自身角度来看，居住状况对其晚餐选择影响显著。通过访谈得知有些与子女共同居住的老人，晚餐通常会与子女一同烹饪、共享晚餐时光。然而，独居老人的晚餐情况则大不相同。许多独居老人因行动不便、厨艺不佳等原因，晚餐往往只能简单应付。这种因就餐选择有限导致晚餐质量不高的情况，在独居老人群体中较为普遍，也凸显出在晚餐时段拓展助餐服务的迫切需求。",
+        "bbox": [
+            136,
+            557,
+            884,
+            837
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "page_number",
+        "text": "-24— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "午餐有社区助餐，方便又好吃，可晚上就只能自己煮点面条、泡个方便面凑合一顿了，年纪大了，一个人做饭太麻烦，也吃不了多少。(FT04)",
+        "bbox": [
+            173,
+            107,
+            847,
+            151
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "和孩子们一起做晚饭、吃饭，能聊聊一天的事儿，这是一天里最开心的时候，所以晚餐还是习惯在家吃。（FT05）",
+        "bbox": [
+            173,
+            159,
+            847,
+            204
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "得知社区助餐服务的主要方式。有30位老人选择社区工作人员告知，占总样本的 $14.0\\%$ ；有108位老人居家养老服务中心告知，占总数居的 $50.2\\%$ ，社区的居家养老服务中心和社区老人接触较多，通过和居家养老服务中心的工作人员采访得知，他们经常展开助餐服务讲座和培训来推广助餐服务，由调查数据显示居家养老服务中心的推广起到了很大的作用。22位老人选择社区邻里或子女转告，占总人数的 $10.2\\%$ ，说明对子女进行宣传也是起到作用的，但是很多子女工作较忙很难参与宣传活动。55位老人选择社区或居家养老服务中心宣传栏得知占总样本的 $25.6\\%$ ，因为W社区的居家养老服务中心在社区活动室里面，如果老人来社区活动就会看见助餐服务或者政策的宣传海报和易拉宝。（见表2.5）",
+        "bbox": [
+            136,
+            237,
+            885,
+            464
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "table",
+        "img_path": "images/83eacfac7b9e6b02702398c3c3ffd282cd453ec90ffd003676dab7b3b06bd8fa.jpg",
+        "table_caption": [
+            "表 2.5 得知社区助餐服务的主要方式"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>方式</td><td>频率</td><td>百分比</td></tr><tr><td>社区工作人员告知</td><td>30</td><td>14.0</td></tr><tr><td>居家养老服务中心告知</td><td>108</td><td>50.2</td></tr><tr><td>社区邻里或子女转告</td><td>22</td><td>10.2</td></tr><tr><td>社区或居家养老服务中心宣传栏得知</td><td>55</td><td>25.6</td></tr></table>",
+        "bbox": [
+            131,
+            491,
+            890,
+            630
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "W社区230名助餐老人的调研显示，在用餐老人年龄分布上主要集中在60-85岁，可见不同年龄段的老人身体状况不同，都对助餐有不同程度的需求。学历以初中、高中及中专为主，这部分老人对新鲜事物有一定接纳能力，居民学历越高，有利于对“互联网+”助餐的普及度。老人居住情况多样，独居老人因缺乏照料，与配偶同住老人因身体原因烹饪不便，部分与子女同住老人由于子女忙碌无暇顾及等，都对社区助餐表现出较高意愿，充分凸显了“互联网+”助餐服务的必要性。经济来源上，多数老人依靠离/退休金，这表明他们具备在社区用餐的支付能力；而低保和特困老人在政府补助下，也能通过助餐服务满足自身需求。从选择社区助餐的缘由看，身体不便、独居等因素成为老人选择的主因，再次印证“互联网+”助餐引入的迫切性。在",
+        "bbox": [
+            136,
+            661,
+            887,
+            890
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "page_number",
+        "text": "-25— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "知晓社区助餐服务的途径上，居家养老服务中心发挥了关键作用，其频繁举办的助餐服务讲座和培训，让众多老人了解到该项服务。相比之下，直接从社区层面知晓助餐服务的老人较少。社区作为老人信赖的基层组织，应进一步加大在助餐服务方面的宣传力度，同时将宣传对象拓展至老人子女，提升助餐服务的整体知晓率。此外，在服务优化上，可考虑增设晚餐供应，契合老人实际生活需求，全方位提升社区助餐服务质量，让老人享受到更贴心、便捷的服务。",
+        "bbox": [
+            136,
+            105,
+            885,
+            255
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "page_number",
+        "text": "—26— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            946
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "3 “互联网+”老年助餐服务的引入",
+        "text_level": 1,
+        "bbox": [
+            262,
+            101,
+            756,
+            126
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "3.1 “互联网+”服务理念引入的原因",
+        "text_level": 1,
+        "bbox": [
+            136,
+            161,
+            473,
+            179
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "在与W社区居民、助餐供应商（中心食堂）和居家养老服务中心的负责人及工作人员的访谈中发现在“互联网 $+$ ”没有引进之前的社区助餐有以下几点问题：社区居民层面：（1）很多居民并不知道小区附近哪里有助餐站点，很多知道居家站点有助餐服务的多为经常来社区活动的居民看见了社区的助餐服务海报，每次报名需要亲自到站点，因为居家站点助餐不够规范导致居民不知道站点的膳食到底怎么样，只能选择试吃；（2）在当前的居家养老助餐服务体系中，众多老人选择在居家站点长期用餐，一吃可能是几年，考虑到老人日常生活习惯及资金管理便利性，站点普遍采用月付模式，即老人需先行支付当月餐费，而后享受相应的助餐服务。然而，在这一过程中，却缺乏一个专门的平台为老人的权益提供坚实保障，老人在预付餐费后，仅能凭借站点开具的简单收据作为支付凭证，一旦出现诸如站点因经营不善突然关停、餐品质量严重下滑却未得到合理解决，或是遭遇价格不合理上涨等状况时，老人往往难以有效地维护自身权益。由于缺少一个整合且规范的平台，老人在面临这些问题时，既没有便捷的投诉与反馈渠道，也难以确保自身预付的餐费不会遭受损失；（3）社区居家养老的助餐服务人员的数量和结构与现实需求存在较大差距，助餐站点要去中心食堂拿菜，因为成本的原因60多名用餐居民的膳食只由三位配送员配送，从10点一直配送到12点，而没有专业的保温箱，这样会导致一些居民没办法吃上热乎菜，且菜品无法选择定制。居家站点层面：（1）无法统一反馈，如果遇到意外，或者停餐需要一家一家打电话或者上门告知，客服可以在后台统一回复，沟通起来费时费力；（2）餐费计算不够方便，为了不让老人天天跑来社区有些老人是月付，而有些老人会吃一顿停一顿，因此餐费计算由工作人员每天计算，不够智能，安全和规范；（3）之前送餐是由养老服务人员配送，但是工作人员流动性大，由于工作辛苦、工资低、晋升困难，服务人员的离职率相当高，大多数服务者都是宝妈兼职。助餐供应商层面：运营成本较高，只能提供午餐，很难提供个性化膳食。",
+        "bbox": [
+            136,
+            196,
+            885,
+            790
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "智慧养老模式是数字时代下数字技术、人工智能等技术发展在养老服务中应用的一种新方案，其最终目的是借助科技的力量改善老年人生活状况。智慧养老在肯定老年人主体的同时，也在彰显老年人对生活质量追求。随着我国老龄化程度的加深和养",
+        "bbox": [
+            136,
+            797,
+            884,
+            869
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "page_number",
+        "text": "-27— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "老观念的转变，智慧养老终将成为养老服务中的重要模式。①在当今数字化时代，“互联网+”服务理念为各领域带来了创新性的变革与发展机遇，南京市栖霞区W社区的老年助餐服务也积极引入了这一前沿理念，旨在通过融合互联网技术与传统助餐服务模式，构建更加高效、便捷、个性化的老年助餐服务体系。“互联网+”服务理念的核心在于利用互联网的互联互通特性，打破传统服务模式在信息传递、资源整合以及服务协同等方面的限制。对于W社区的老年助餐服务而言，其首要体现为线上订餐平台的搭建。这一平台借助互联网技术，将社区内的老年人、家属、餐饮商家以及社区助餐服务管理方紧密连接在一起。老年人或其家属可以通过智能手机、平板电脑等智能终端设备，轻松登录平台浏览丰富多样的餐食菜单，菜单中详细展示了附近助餐点的每餐的菜品名称、食材构成、营养成分以及价格等信息，方便他们根据老年人的口味偏好、饮食禁忌以及健康需求进行精准选择。在选定心仪的餐食后，只需简单操作，即可完成订餐流程，平台会自动记录订餐信息并及时反馈给相应的餐饮商家，整个过程高效便捷，极大地节省了传统电话订餐或现场订餐所需的时间与精力。",
+        "bbox": [
+            136,
+            105,
+            885,
+            441
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "“互联网+”服务理念促进了助餐服务资源的整合。社区通过互联网平台广泛收集周边餐饮商家的信息，包括商家的菜品特色、供应能力、服务质量以及地理位置等，经过筛选与评估，选择一批优质的餐饮合作伙伴纳入助餐服务体系。这不仅丰富了老年助餐的餐食种类，满足了不同老年人多样化的口味需求，如有的老人喜欢清淡的江浙菜，有的则偏爱口味浓郁的川菜等，而且借助餐饮商家的专业烹饪能力与规模效应，在一定程度上保障了餐食的质量与供应稳定性。此外，通过互联网平台的信息共享，餐饮商家能够更好地了解老年人的需求特点与反馈意见，从而有针对性地调整菜品研发与制作工艺，实现助餐服务与餐饮市场的良性互动与协同发展。对于W社区的老年助餐服务而言，服务资源的整合满足了部分老人的助餐需求，因为资源整合难度较大，流程复杂，W社区的助餐资源还需完善。",
+        "bbox": [
+            136,
+            445,
+            885,
+            700
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "“互联网+”服务理念还延伸至助餐服务的配送环节。通过与专业的物流配送平台或社区志愿者配送团队合作，利用智能导航与实时定位技术，实现了送餐路径的优化规划与送餐过程的实时监控。对于W社区的老年助餐服务而言，爸妈食堂饿了么助老e餐项目与饿了么合作，老年人或其家属就可以在平台上实时查看送餐进度，了解餐食预计送达时间，确保了送餐服务的及时性与可靠性。对于行动不便且居住在较",
+        "bbox": [
+            137,
+            708,
+            885,
+            833
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "page_footnote",
+        "text": "①周建芳，胡雅萍，朱晓. 智慧养老与老年福祉[M]. 南京：江苏人民出版社，2021:3.",
+        "bbox": [
+            137,
+            885,
+            645,
+            901
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "page_number",
+        "text": "-28— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "高楼层的老人，配送人员还可借助社区智能门禁系统与电梯呼叫系统，实现无障碍送餐上门，进一步提升了助餐服务的便利性与人性化关怀。",
+        "bbox": [
+            136,
+            105,
+            882,
+            151
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "综上所述，“互联网+”服务理念的引入为南京市栖霞区W社区的老年助餐服务注入了新的活力与发展动力，在优化服务流程、整合服务资源、提升服务质量以及满足个性化需求等方面发挥了显著作用，为构建现代化、智能化的社区居家养老助餐服务模式奠定了坚实基础。",
+        "bbox": [
+            136,
+            159,
+            884,
+            256
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "3.2 爸妈食堂·饿了么助老e餐的应用",
+        "text_level": 1,
+        "bbox": [
+            137,
+            291,
+            480,
+            309
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "为落实《积极发展老年助餐服务行动方案》提出的“个人出一点、企业让一点、政府补一点、集体添一点、社会捐一点”多元筹资机制和江苏省“舒心助餐”专项行动融汇“五个一点”，耆享舒心助餐——南京市栖霞区“爸妈食堂·饿了么助老e餐”创新模式。该模式由南京市栖霞区民政局联合爱德基金会、饿了么共同发起，以老年人需求为导向，整合社会公益资源，依托数字平台（“栖彩颐养”社区居家养老服务信息化系统）赋能，为老服务新模式，在不同社区进行试点，由社区和社会工作机构进行实践，推广和督导。“栖彩颐养”社区居家养老服务信息化系统这是由政府监管端、家庭（老年人）客户端、服务供应端、第三方评估端等各个环节构成的一体化平台系统。此平台主要有上门照护、时间银行、养老院、居家站点、送餐助餐等板块，点进去可以直接看见整个栖霞区的助餐服务点（包括居家养老服务点，养老院助餐点，中心食堂，下面统称为助餐服务点）从而选择离家最近的助餐点或者是自己喜欢套餐的助餐点，还有“15分钟生活圈”地图可以直接看见每个助餐点，居家站点和养老院地址。页面下方有银发顾问、养老政策、九九学堂三个小链接，比如九九学堂是老年人运用智能技术培训小程序。“栖彩颐养”社区居家养老服务信息化系统使老年人养老便捷又智能，老人在栖彩颐养小程序助餐模块下单，栖彩颐养小程序会自动把助餐工单推给饿了么平台，直接由饿了么团队送餐。然后饿了么团队送完餐之后，会在他们自己的小程序上点击送单完成，最后饿了么团队的栖彩颐养助餐工单完成情况，会推送到栖彩颐养小程序以及后台。现有了饿了么“蓝骑士”的加入，老年助餐工作中，送餐更合规和安全。此外，数字化平台也实现了个性化服务功能，除了固定套餐，还可以点餐，把选择权交还给了老人及其家属。试点的范围、成效也进一步扩大，让更多老年人从该项目中受益。饿了么将“助老e餐”从原先的定制化社区专送服务，升级为老年助餐服务送餐上门场景下的全链路数字化解决方案。过程中最大的亮点有",
+        "bbox": [
+            136,
+            326,
+            885,
+            897
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "page_number",
+        "text": "-29— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "基于“一点取、多点送”以及“熟人配送”、兼顾效率与温度的为老配送解决方案；针对不同需求老人提供“助老专送、食堂专营、敬老专享”等助餐服务多元化供给解决方案；以及通过数字化对接各地民政部门、企业助餐平台，打通政府补贴与公益支持的多元化筹资解决方案。以上的种种举措，目的只有一个，就是尽可能地满足老年群体的生活需求，并致力于与生态伙伴共建有温度的数字化社区，让老人实现。送餐上门的助餐服务不仅通过数字化提升了老年人的用餐体验，也能对独居老人起到每日关怀、问候的作用。",
+        "bbox": [
+            136,
+            105,
+            885,
+            282
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "3.3 “互联网+”老年助餐服务效果分析",
+        "text_level": 1,
+        "bbox": [
+            137,
+            317,
+            495,
+            336
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 服务覆盖效果分析",
+        "text_level": 1,
+        "bbox": [
+            137,
+            353,
+            356,
+            370
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "经平台后台数据统计，该创新模式首批已服务覆盖230位老人。老人或家属已可通过“栖彩颐养”官方小程序自主预约订餐，符合条件的老人可自动享受相关补贴优惠。因小程序系统已与饿了么实现打通，老人的订单将自动分配给饿了么骑手，他们前往助餐门店取餐后为老人送餐上门。通过对这230位老年人发放问卷并回收有效问卷215份，结合对社区助餐服务负责人的访谈得知，在引入“互联网 $+$ ”模式前，线下实体助餐点因场地与人力局限，服务半径仅为周边的社区500米左右，覆盖老年人约100人左右，而在推行“互联网 $+$ ”助餐服务后，线上订餐平台与外卖配送体系打破地域壁垒，服务范围覆盖到周边10公里，访谈中居家养老服务中心工作人员提到，服务覆盖的实现了服务从局部到全域的拓展，极大提升了服务的可及性。",
+        "bbox": [
+            136,
+            388,
+            887,
+            617
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "之前线下助餐点助餐的时候，我们社区用餐的老人大概在100人左右，一天平均25人左右，但是现在小程序的服务可以覆盖到10公里的助餐点，平台数据显示我们W社区大概有230人次的老人在平台上用过餐。（FT07)",
+        "bbox": [
+            173,
+            650,
+            848,
+            721
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 服务效率效果分析",
+        "text_level": 1,
+        "bbox": [
+            137,
+            756,
+            356,
+            772
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "针对服务效率，问卷设计了关于订餐响应时间、送餐时长等问题。在订餐环节，引入“互联网+”模式前，社区助餐服务主要依赖人工统计订单，引入“互联网+”模式后，问卷数据表明， $85\\%$ 的老年人反馈，他们在下单后10分钟内便能收到订单确认信息。这得益于线上订餐平台的高效运转，老人下单的瞬间，订单信息便以电子数据形式实",
+        "bbox": [
+            136,
+            791,
+            885,
+            890
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "page_number",
+        "text": "-30— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "时传输至助餐点管理系统，系统自动处理并即时反馈订单确认，极大地缩短了订餐等待时间，提升了老年人订餐的即时体验。为深入了解送餐环节的效率变化，通过对配送员访谈了解到，借助外卖平台智能调度系统，大数据与实时路况信息，能够为配送员精准规划最优送餐路线，配送员只需依照系统规划路线行进，便能高效送达餐食，平台后台显示每单餐平均送餐时长平均为25分钟。这不仅使老年人能更快品尝到热乎饭菜，也大幅提升了配送员的工作效率，使其在相同时间内能够完成更多配送任务。",
+        "bbox": [
+            136,
+            105,
+            885,
+            256
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "咱这助餐点在引入“互联网+”模式之前，订餐可麻烦了。老年人打电话订餐，我们得一个一个手工记录，平均统计完订单得花30分钟呢。那时候，一到饭点就忙得晕头转向，还老是怕记错漏记，也确实出现过多打漏打的情况。（FT10）",
+        "bbox": [
+            173,
+            290,
+            848,
+            387
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "以前送餐配送员可能只能凭经验送餐，路线不科学，老人反映平均送餐时长要40分钟。现在有了外卖平台的智能调度系统，能根据实时路况规划最优路线，平均送餐时长大约为缩短到25分钟，老人们能更快吃上热乎饭。",
+        "bbox": [
+            173,
+            395,
+            847,
+            464
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "(FT13) ",
+        "bbox": [
+            184,
+            473,
+            257,
+            489
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "3.3.3 老人满意度分析",
+        "text_level": 1,
+        "bbox": [
+            137,
+            526,
+            337,
+            545
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "在对W社区230位享受助餐服务老人的研究中，通过问卷收集到215份有效反馈。综合运用问卷调查与访谈法，深入探究助餐服务使用状况、满意度（菜品口味、丰富度、卫生、服务人员态度、政府补贴、送餐时长）及期望建议。",
+        "bbox": [
+            136,
+            562,
+            882,
+            633
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "对菜品口味的满意度数据显示有142位老人表示非常满意，占总样本的 $66.0\\%$ 有30位老人表示满意，表示满意的38位老人觉得一般，经过和老人沟通得知他们觉得饭太烂太软了，他们的年纪还不想吃这么软这么烂的饭菜。希望食堂可以针对性的配餐，有4位老人不满意表示口味不太喜欢，一位老人非常不满意是因为冬天菜过来的时候冷了，在问卷最后一道“您认为社区助餐服务在菜品方面需要改进的地方有？”的开放题中有老人提出“希望饭量多一点，有点不够吃的。”（见图3.1）",
+        "bbox": [
+            136,
+            640,
+            885,
+            790
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "page_number",
+        "text": "-31— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "image",
+        "img_path": "images/60e22c2d5a34a55e88e4ac87aad277b778558e24f206bcf136dbe9f261d58b00.jpg",
+        "image_caption": [
+            "图3.1 菜品口味的满意度"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            136,
+            103,
+            884,
+            263
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "对菜品丰富度数据显示有102位老人表示非常满意，占总数据的 $47.4\\%$ ，41位老人表示满意，65位老人觉得一般，6位不满意，1位非常不满意，主要原因大多数南京老人喜欢清淡的食物，因此W社区的助餐站点菜品还是以当季蔬菜为主，多低油少糖，因为成本原因无法实现个性化膳食，个别老人认为菜品不够丰富。1位老人非常不满意的原因是因为他祖籍四川在南京定居，尝试了几家站点的膳食都不是特别满意。（见图3.2）",
+        "bbox": [
+            136,
+            332,
+            885,
+            479
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "image",
+        "img_path": "images/004fdb67b7b8d035b845bbeae46ebd8e337490e8ab7056d6df3d3b41571b3dc4.jpg",
+        "image_caption": [
+            "图3.2 菜丰富满意度"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            136,
+            482,
+            882,
+            645
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "对菜品卫生满意度数据显示有176位老人表示非常满意，占总样本的 $81.8\\%$ ，15位老人表示满意，有19位老人觉得一般，4位不满意，1位非常不满意，通过和老人的访谈，多位老人反馈饭盒不干净，饭盒上面粘了米饭还有汤汁溢出的现象。（见图3.3）",
+        "bbox": [
+            136,
+            717,
+            885,
+            810
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "已经发现好几次饭盒旁边粘着米饭了，我是比较注意干净的，和送餐小哥说了几次，也不知道有没有反馈我的问题。（FT03）",
+        "bbox": [
+            173,
+            822,
+            847,
+            866
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "page_number",
+        "text": "-32 ",
+        "bbox": [
+            507,
+            935,
+            563,
+            946
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            30,
+            960,
+            321,
+            978
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "......但是有过一两次饭菜倒到袋子里面了，有点不干净啊，送餐的小伙子挺好的，说可以重新做一份送过来，但是我觉得太麻烦了。（FT04）",
+        "bbox": [
+            173,
+            105,
+            845,
+            149
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3d929e60c2fc1f678e56373777ce45d40929d1cac1abba286436f45116df708.jpg",
+        "image_caption": [
+            "图3.3 菜品卫生满意度"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            171,
+            153,
+            870,
+            304
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "对服务人员态度满意度的问卷数据显示有187位老人表示满意，26位老人表示满意，2位表示一般，没有老人不满意，大多数老人对服务人员的态度表示满意，有老人反馈配送人员很客气，每次配送的人员也比较固定，人员固定会比较安心，配送人员也经常关心他们，还有老人反馈有配送人员帮忙送垃圾，感觉服务很贴心。（见图3.4）",
+        "bbox": [
+            136,
+            380,
+            885,
+            502
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "我们是要求点对点配送的，老人对陌生的配送员是很介意的，所以现在我和很多老人都很熟的。（FT12)",
+        "bbox": [
+            173,
+            511,
+            847,
+            556
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "这个项目我们领导是很重视的，所以我们给老人送餐的都是要培训的，对老人能帮一点是一点。（FT13）",
+        "bbox": [
+            171,
+            564,
+            836,
+            608
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "image",
+        "img_path": "images/32d3fdc67b7c5548ab01b8645653e8bb8ffdfec33e1c8a1ab91d709d65f39f75.jpg",
+        "image_caption": [
+            "图3.4 服务人员态度满意度"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            134,
+            633,
+            872,
+            785
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "对政府补贴满意度数据显示，非常满意老人204人，占总数据的 $94.8\\%$ ，10人表示满意，没有人不满意，他们对助餐补贴的评价很高。（见图3.5)",
+        "bbox": [
+            136,
+            843,
+            884,
+            888
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "page_number",
+        "text": "-33— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            30,
+            960,
+            321,
+            978
+        ],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "……爱德基金会在栖霞区开始探索爸妈食堂困境老人助餐项目，以缓解困境老人就餐难题。如今在数字化平台的加持下，通过“五个一点”的多元化助餐筹资模式，用科技的力量让爱心具象化，切实满足了老百姓，特别是老年困境人群的日常生活需求。在过去的老年助餐工作中，送餐的合规性、安全性一直是过程中的最大痛点。现在有了饿了么“蓝骑士”的加入，这一难题得到了解决。期待试点的范围、成效能进一步扩大，让更多老年人从该项目中受益。（FT06）",
+        "bbox": [
+            171,
+            107,
+            847,
+            282
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "image",
+        "img_path": "images/9711542179ba8bec47f5ee05cc980befe40cff70fe1d9e970ce79401a48e9c51.jpg",
+        "image_caption": [
+            "图3.5 对政府补贴满意度"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            142,
+            313,
+            877,
+            475
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "对送餐时长的满意度数据显示选择“非常满意”的人数达到189人，“满意”的有17人，这两项相加对服务表示满意及以上的总人数为206人。说明绝大多数老人对送餐时长持积极肯定的态度，负面评价少，选择“一般的仅有9人，而选择“不满意”和“非常不满意”的人数均为0。这反映出该服务在实施过程中，几乎没有引起明显的负面反馈，服务质量和效果得到了较好的把控。（见图3.6)",
+        "bbox": [
+            136,
+            533,
+            882,
+            656
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "image",
+        "img_path": "images/a424cbc00b289c9dff1e78763c1ffd6202cc096bbb40ed03ca288ed85f474798.jpg",
+        "image_caption": [
+            "图3.6 送餐时长的满意度"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            657,
+            872,
+            818
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "page_number",
+        "text": "34 ",
+        "bbox": [
+            507,
+            935,
+            563,
+            946
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            321,
+            978
+        ],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "综上，通过问卷法和访谈法发现“互联网+”的引入对突破地域限制、提升服务可及性、优化流程，服务覆盖效果、服务效率效果都有了很大的提升。从满意度来看，菜品口味方面，多数老人满意，但部分老人因饭菜软烂、口味不合、冬季菜品冷及量不足表示不满，期望针对性配餐。菜品丰富度上，超半数老人满意，部分南京老人因菜品清淡、成本限制无法个性化，以及个别外地户籍老人因口味差异觉得菜品不够丰富。菜品卫生方面，多数老人满意，不过有饭盒不干净的情况被指出。服务人员态度广受好评，配送人员的固定、客气及贴心服务赢得老人认可。在政府补贴方面，高达 $94.8\\%$ 的老人非常满意，无不满意情况。总体而言，助餐服务在多方面得到老人认可，但在菜品口味、丰富度及卫生细节上仍有提升空间，后续可据此优化服务，以更好满足老人需求。在对“互联网+”引入的效果的调查中，数据显示出积极成果，栖彩颐养助餐平台显著提升了他们用餐的便捷程度。借助该平台，老人们无需长途跋涉前往实体助餐点，在家即可轻松订餐，从而更便捷地获取健康、营养的美食。这种便捷的用餐体验，不仅满足了老年人对饮食的基本需求，更在一定程度上促进了他们的身心健康，让老年群体能够更惬意地享受每一餐，提升生活质量。",
+        "bbox": [
+            136,
+            107,
+            885,
+            467
+        ],
+        "page_idx": 40
+    },
+    {
+        "type": "page_number",
+        "text": "-35— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            946
+        ],
+        "page_idx": 40
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "4 “互联网+”老年助餐服务的实践经验",
+        "text_level": 1,
+        "bbox": [
+            231,
+            101,
+            786,
+            126
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "4.1 W社区助餐的成功经验",
+        "text_level": 1,
+        "bbox": [
+            136,
+            161,
+            386,
+            179
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "4.1.1 助餐地图清晰化",
+        "text_level": 1,
+        "bbox": [
+            137,
+            196,
+            336,
+            214
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "通过与老人及居家养老服务中心工作人员的访谈，得知社区老人在助餐信息获取方面存在严重缺失，许多老人甚至不知晓助餐服务的存在，即便有所耳闻，也对助餐点位置毫无头绪，老人们在访谈中所表达出的对助餐服务及助餐点位置等信息的需求，正是感受性需要的具体表现形式，布莱德·肖的需要理论中，感受性需要是指人们切身地感觉到实际生活未能达到应该达到的水平而产生的需要，这表明老人在主观上存在对助餐服务及相关信息的强烈需求感知。“栖彩颐养”小程序的“15分钟生活圈”功能，为老人提供了精准且便捷的助餐信息获取途径，使他们能够清晰看到家附近的助餐站点、中心食堂和养老院，还能便捷查看各站点每日菜品，“栖彩颐养”小程序通过提供相关信息，切实满足了老人在这方面的感受性需要，为提升老人助餐服务的可及性和知晓度奠定了基础。",
+        "bbox": [
+            136,
+            231,
+            887,
+            483
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "之前很多老人有助餐需要的时候就会来站点，问我们哪里可以定餐，有些时候我们也不清楚哪里的助餐点或者中心食堂离他们的家近，现在有了栖彩颐养，可以直接在里面的地图看见附近的助餐点，对老人是特别方便的。",
+        "bbox": [
+            173,
+            519,
+            847,
+            589
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "(FT08) ",
+        "text_level": 1,
+        "bbox": [
+            184,
+            598,
+            253,
+            614
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "我之前也是不知道有什么送餐上门的，有次去社区，有工作人员提到回家就和家里的小孩说了，研究了发现有还几家餐厅离家都很近的，还可以选餐的，上面可以看见餐厅的照片还有菜的照片。（FT05）",
+        "bbox": [
+            173,
+            624,
+            847,
+            693
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "4.1.2 老年人助餐权益保障加强",
+        "text_level": 1,
+        "bbox": [
+            137,
+            730,
+            416,
+            747
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "“栖彩颐养”小程序成为加强老人助餐权益保障的有力工具。以往，老人助餐缺乏规范权益保障流程，传统支付方式无便捷凭证，服务反馈渠道不畅。而如今，老人通过该小程序，订餐流程极为便捷。进入小程序，便能直观看到菜品详情，选好餐食后，在支付界面可轻松完成付款操作。支付成功后，平台自动生成电子发票，保存在老人账户，为消费提供有效凭证，避免支付环节权益纠纷。送餐完成后，小程序的线",
+        "bbox": [
+            136,
+            765,
+            882,
+            888
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "page_number",
+        "text": "-36— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            321,
+            978
+        ],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "上评论功能发挥关键作用。老人可针对菜品口味、送餐速度、餐食包装等方面，及时反馈意见和建议。平台会快速收集整理这些反馈，推送给助餐站点和服务团队，促使其改进服务。借助“栖彩颐养”小程序，老人助餐从支付到服务评价的全流程都有了可靠保障，极大提升了老人在助餐服务中的权益。",
+        "bbox": [
+            136,
+            105,
+            882,
+            203
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "以前我也在社区定餐，但是我有的时候要去小孩家，可能不用社区来送饭了，但是每次都要打电话，有的时候还忘记打电话……现在我学会在这个微信里面的小程序定餐，不用打电话和他们说，想吃的时候就可以定餐，算钱也比平时方便很多。（FT01）",
+        "bbox": [
+            173,
+            237,
+            847,
+            332
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "4.1.3 解决服务人员流动难题",
+        "text_level": 1,
+        "bbox": [
+            137,
+            370,
+            396,
+            387
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "解决了养老助餐点服务人员流动性大的问题。以往，助餐点送餐员构成较为复杂，多为下岗女工、因需照顾孩子而工作时间不固定的宝妈以及外来务工人员，年龄集中在40-50岁。这些送餐员工作环境艰苦，无论风雨交加还是严寒酷暑，都需按时将餐食送达老人手中。然而，该岗位就业前景不佳，工资待遇较低，难以给予从业者足够的经济保障与职业发展空间。这使得许多女性即便起初选择这份工作，也因难以承受工作压力与经济回报的不对等，最终无法坚持，导致岗位人员频繁更替，严重影响助餐服务的稳定性与连贯性。“互联网+”助餐模式与饿了么“蓝骑士”展开合作，成功破解了这一难题。“蓝骑士”作为专业的送餐骑手，具备丰富的配送经验与成熟的配送技能。他们依托饿了么完善的配送体系，能够确保送餐过程更加安全、规范。这不仅解决了助餐点因人员流动而时常面临的无人送餐困境，还大幅提升了送餐效率，让老人能够更快吃上热饭，极大地优化了老人的助餐体验，推动养老助餐服务迈向新的发展阶段。",
+        "bbox": [
+            136,
+            405,
+            882,
+            709
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "这个新模式试点以后真的解决我们很多事情，之前我们的送餐阿姨因为太辛苦经常提离职，我们呢又找不到合适的人，总是叫她们坚持坚持，现在“蓝骑士”配送了解决了好多事情，挺好的。（FT07）",
+        "bbox": [
+            174,
+            719,
+            847,
+            789
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "4.1.4 助餐服务管理一体化",
+        "text_level": 1,
+        "bbox": [
+            137,
+            825,
+            378,
+            843
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "在居民端，“栖彩颐养”小程序构建起一个便捷高效的一站式服务平台。曾经，居民订餐面临诸多不便，需通过电话沟通或前往助餐点现场选餐，支付方式也较为单",
+        "bbox": [
+            137,
+            860,
+            882,
+            904
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "page_number",
+        "text": "-37 ",
+        "bbox": [
+            505,
+            935,
+            561,
+            946
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            321,
+            978
+        ],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "一，反馈渠道更是极为有限。如今，居民只需在手机上轻点打开小程序，便能直观地看到当日各助餐站点精心准备的丰富菜品，不仅有菜品的高清图片展示，还详细标注了食材构成、口味特色以及营养成分等信息，助力居民依据个人口味偏好、健康状况及饮食禁忌做出精准选择，随后轻松完成一键点单操作。支付环节同样简单便捷，小程序集成了微信支付、支付宝支付等多种主流支付方式，充分契合不同居民的支付习惯。对于符合补贴要求的老人，系统具备智能识别功能，能够自动精准扣除相应补贴金额，无需老人手动核算复杂的补贴明细，真正实现了支付与点单的快捷化、便利化。从站点服务端来看，站点客服以往需应对分散且繁杂的居民咨询，常常因沟通渠道不统一导致回复不及时、信息传递易出错。现在，借助“栖彩颐养”小程序，客服人员能够在统一平台上集中处理居民的各类疑问，无论是菜品相关咨询、送餐时间安排，还是补贴政策解读等问题，都能迅速给予准确且专业的回复，极大地增强了居民与站点服务人员沟通的顺畅性与即时性。同时，小程序还成功攻克了助餐点工作人员长期以来面临的餐费计算难题。以往每月结算餐费时，工作人员需耗费大量时间手动核对海量纸质订单，计算过程繁琐且极易出错。如今，小程序凭借智能化的数据处理系统，自动精准记录每一笔订单信息，详细统计每位居民的用餐次数与费用，并一键生成清晰明了的报表，不仅大幅减轻了工作人员的工作负担，还显著提升了餐费核算的准确性与工作效率，为助餐服务的高效管理提供了坚实保障。",
+        "bbox": [
+            136,
+            105,
+            885,
+            544
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "老人因为各种原因像去子女家了，去旅游了，去住院了，经常一会吃一会不吃的，一次忘记记账就会乱，搞的很麻烦和浪费时间，现在好了直接平台计算了，我们也不用操心了，可以把更多的时间花在如何提高服务质量了。（FT07）",
+        "bbox": [
+            173,
+            577,
+            847,
+            674
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "4.2 “互联网+”助餐服务存在的不足",
+        "text_level": 1,
+        "bbox": [
+            136,
+            709,
+            473,
+            727
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 “互联网+”助餐服务膳食质量欠佳",
+        "text_level": 1,
+        "bbox": [
+            136,
+            745,
+            509,
+            762
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "“互联网+”的引入使老人的用餐体验有了很大的改善，但是在爸妈食堂·饿了么助老e餐模式实践过程中，还是存在膳食服务质量欠佳的问题。根据图3.3其中高达176位老人对菜品卫生给出了非常满意的评价，占总样本的 $81.8\\%$ ，这在一定程度上反映出菜品卫生整体表现较为出色。然而，通过与FT03社区用餐老人及FT04社区用餐老人的深度访谈，部分老人反馈存在餐盒不卫生的情况，如餐盒有污渍残留；",
+        "bbox": [
+            136,
+            780,
+            885,
+            904
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "page_number",
+        "text": "-38— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "还有菜汤溢出问题，不仅影响用餐体验，还可能带来卫生隐患，在助餐服务细节上仍存在问题。",
+        "bbox": [
+            136,
+            105,
+            880,
+            151
+        ],
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "已经发现好几次饭盒旁边粘着米饭了，我是比较注意干净的，和送餐小哥说了几次，也不知道有没有反馈我的问题。（FT03）",
+        "bbox": [
+            173,
+            168,
+            847,
+            212
+        ],
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "……但是有过一两次饭菜倒到袋子里面了，有点不干净啊，送餐的小伙子挺好的，说可以重新做一份送过来，但是我觉得太麻烦了。（FT04）",
+        "bbox": [
+            173,
+            221,
+            845,
+            265
+        ],
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "4.2.2 现有膳食缺乏个性化",
+        "text_level": 1,
+        "bbox": [
+            137,
+            300,
+            378,
+            319
+        ],
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "通过笔者的观察发现，大部分的老年助餐点、中心食堂、老年餐厅都是常规地提供普通的三菜一汤的套餐，因此即使有“互联网+”的引入，老人在栖彩颐养小程序上可选择的餐食还是有局限的。目前W社区的老年助餐服务在膳食供应方面，未能充分满足老年人的个性化需求。根据表2.3发现，215位老人样本中有63位老人有慢性病，占总样本量的 $29.3\\%$ ，因此膳食个性化定制是很重要的，但是多数情况下，提供的餐食为统一标准的大众菜品，没有针对老年人不同的健康状况、饮食偏好和特殊需求进行精细化分类与定制。例如，患有糖尿病、高血压、高血脂等慢性疾病的老年人，需要严格控制饮食中的糖分、盐分和脂肪含量，但现有的助餐服务很难为他们提供专门符合其疾病饮食要求的菜品。根据图3.1和图3.2，对菜品口味的满意度数据表示非常满意的，占总样本的 $66\\%$ ，对菜品丰富度数据表示非常满意的占总数据的 $47.4\\%$ ；非常满意的人数均低于七成，进一步反映了老年人对饭菜的性价比、口感以及品种的多样化存在着一定的期待和期望，还有个别老人对菜品的口味和丰富度表示不太满意，虽然很多老人都是上了年龄牙齿不大好，基本上是偏向于软糯的东西，但是还是有很多个性化的需求。",
+        "bbox": [
+            136,
+            336,
+            885,
+            694
+        ],
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "给不同老人定制餐食成本太高了，而且老年餐价格本来就不贵，现在做老年餐就是不挣钱，如果没有政府补贴很难经营下去，我们只能先满足大多数老人的口味。（FT10）",
+        "bbox": [
+            173,
+            712,
+            847,
+            781
+        ],
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "几次去一些特殊老人家走访，老人都提到吃饭困难，希望帮助解决吃饭困难的问题，但是这些老人或多或少有些慢性病也没办法推荐，吃了一次就不吃了。（FT06）",
+        "bbox": [
+            173,
+            790,
+            847,
+            859
+        ],
+        "page_idx": 44
+    },
+    {
+        "type": "page_number",
+        "text": "-39 ",
+        "bbox": [
+            507,
+            935,
+            563,
+            946
+        ],
+        "page_idx": 44
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "4.2.3 供餐模式和时间单一",
+        "text_level": 1,
+        "bbox": [
+            137,
+            107,
+            378,
+            126
+        ],
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "在调研过程中我们发现，当前大部分老年助餐服务点在供应能力上存在显著局限，并不具备为老年人供应一日三餐的条件。从时间维度来看，其开放时间仅设定在周一至周五这个区间，而且在这有限的工作日内，也仅仅提供午餐这一顿餐食。对于独居老年人以及纯老家庭而言，这样的服务模式带来了诸多不便。独居老人在日常生活中本就缺乏家人的随时照料，周末由于助餐服务点关闭，他们不得不绞尽脑汁去寻找其他用餐途径。有的老人可能因行动不便，难以外出就餐，又不擅长自己做饭，只能选择简单对付，长期如此，营养摄入难以保证。而纯老家庭的老人同样面临困境，子女不在身边，周末无法依靠家庭聚餐解决用餐问题，助餐服务点的不开放使得他们的周末饮食安排成为一大难题。这不仅影响了老年人的生活质量，也在一定程度上加重了他们的心理负担，让他们感受到生活的不便与无助。",
+        "bbox": [
+            136,
+            142,
+            887,
+            395
+        ],
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "经常有老人来社区问我们为什么没有晚餐，很多老人为了晚上也有饭吃都直接订两份留着晚上微波炉热一下吃。（FT08）",
+        "bbox": [
+            173,
+            430,
+            847,
+            474
+        ],
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "4.2.4 老年人互联网思维薄弱 ",
+        "text_level": 1,
+        "bbox": [
+            137,
+            510,
+            396,
+            527
+        ],
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "通过与社区和居家养老服务中心的工作人员访谈得知，社区众多老年人及其家属对新型养老模式认知不足，互联网思维薄弱，参与积极性低迷，这一现象背后潜藏着他们对了解养老模式的需求。这种需求并非仅停留在内心，而是通过在与社区工作人员、养老服务从业者交流互动时所表达出的困惑与迟疑，并拒绝参与培训和宣传活动。他们对线上订餐平台的操作复杂性与网络安全性存疑，进而坚守传统就餐方式，这一行为选择同样是对便捷、安全订餐服务的感觉性需要的外在表达。此外，部分社区居民，特别是老年人，受传统养老观念束缚，对新事物接受能力欠佳，缺乏主动探索“互联网+”社区居家养老服务的意愿，这在很大程度上影响了宣传成效与舆论氛围营造。而这些问题在社区调研、访谈等活动中被充分揭示，意味着老年人及其家属通过参与这些活动，间接表达了对适应自身特点的养老服务推广方式、通俗易懂的新服务宣传内容以及更具亲和力的新事物引导途径的需求。综上所述，在“互联网 $+$ ”老年助餐服务推进过程中，老年人及其家属以实际行动，消极的参与态度，还是在交流互动中反馈的问题，明确表达了对新型养老模式在认知、操作、安全保障及宣传推广等多方",
+        "bbox": [
+            136,
+            545,
+            887,
+            879
+        ],
+        "page_idx": 45
+    },
+    {
+        "type": "page_number",
+        "text": "-40— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 45
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "面的需求，因此正视并积极回应老人们这些表达性需要，是突破当前服务推广困境、促进“互联网+”老年助餐服务在社区深度发展的关键所在。",
+        "bbox": [
+            136,
+            105,
+            882,
+            151
+        ],
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "我们邀请老人来参加使用栖彩颐养小程序的培训，很多老人都积极参加但是多为60-70岁老人，而有些老人却很抵触，觉得很复杂，甚至有些老人我们上门教学也会排斥。（FT08）",
+        "bbox": [
+            173,
+            168,
+            848,
+            239
+        ],
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "4.2.5 宣传效果不佳",
+        "text_level": 1,
+        "bbox": [
+            137,
+            275,
+            317,
+            293
+        ],
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "在与街道、社区以及居家养老服务中心工作人员的深入访谈中，发现养老助餐服务存在宣传力不足，效果不佳的问题。工作人员虽然采取了张贴海报等宣传手段，但众多老人对助餐服务仍一无所知。这表明当前的宣传方式可能存在覆盖面窄、针对性不强等问题。例如，海报的张贴位置可能不够显眼，或者海报的设计不够吸引人，无法引起老人的注意。此外，老人获取信息的渠道相对有限，可能不常关注张贴海报的地方，导致宣传效果不佳，众多老人对助餐服务仍一无所知，更遑论知晓栖彩颐养小程序这一助餐平台，老人对助餐服务不了解，会直接影响助餐服务的使用率和满意度。",
+        "bbox": [
+            136,
+            310,
+            885,
+            486
+        ],
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "我们是有挂宣传海报在门口的，但是接触的老人还是少，我们的号召力也没有社区强，希望社区可以多多参与宣传。（FT09）",
+        "bbox": [
+            173,
+            520,
+            845,
+            562
+        ],
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "我们开展过宣传和培训活动，但是还是有很多老人打电话过来咨询哪里有助餐点，怎么订餐的问题，说明宣传还是不到位。（FT08）",
+        "bbox": [
+            173,
+            571,
+            847,
+            615
+        ],
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "4.2.6 “互联网+”社区居家养老服务平台信息化水平低",
+        "text_level": 1,
+        "bbox": [
+            136,
+            651,
+            640,
+            671
+        ],
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "当前W社区所使用的“互联网 $+$ ”社区居家养老服务平台在信息化建设方面存在诸多不足：首先平台功能较为单一，主要集中在简单的订餐业务办理，缺乏对老年人健康数据管理、养老服务需求评估、服务资源整合调配等综合性功能的开发。例如，无法根据老年人的健康档案自动推荐适合其身体状况的餐食，也难以对社区内的养老服务设施、医疗资源等进行有效整合与调配，以提供更全面的养老服务套餐；其次，平台的用户体验不佳，界面设计不够简洁直观，操作流程复杂繁琐，对于老年人这一主要使用群体来说，学习成本较高，容易导致操作失误或因使用不便而放弃使用；再者，平台的数据安全与维护存在隐患，缺乏完善的数据加密技术和定期备份机制，可",
+        "bbox": [
+            136,
+            687,
+            885,
+            890
+        ],
+        "page_idx": 46
+    },
+    {
+        "type": "page_number",
+        "text": "—41— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 46
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "能导致老年人的个人信息泄露或因系统故障而丢失订餐记录等重要数据，影响服务的正常开展和老年人对平台的信任度；此外，平台与外部相关系统的兼容性较差，如难以与社区医疗系统实现信息共享与交互，无法为老年人提供医养结合的便捷服务，限制了“互联网+”社区居家养老服务模式的协同发展与整体效能提升。",
+        "bbox": [
+            136,
+            105,
+            885,
+            205
+        ],
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "现在平台的普及度还不是很高，大多使用者可能就是老年人，我们现在也主要用这个平台做简单的订餐业务，但是后续一定要推广并且增加它的使用率的。（FT06）",
+        "bbox": [
+            173,
+            237,
+            848,
+            307
+        ],
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "这个平台我知道，我现在就是在这个上面给我爸订餐，但是这个让我爸搞他肯定搞不来，要教，而且字大一点最好，里面内容太多，希望社区什么时候可以开一个学习班，老人集体学习一下。（FT02）",
+        "bbox": [
+            173,
+            316,
+            847,
+            387
+        ],
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "4.3 “互联网+”助餐服务存在不足的原因分析",
+        "text_level": 1,
+        "bbox": [
+            136,
+            422,
+            556,
+            441
+        ],
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "4.3.1 平台监管制度不够完善",
+        "text_level": 1,
+        "bbox": [
+            137,
+            457,
+            398,
+            476
+        ],
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "社区助餐服务膳食质量欠佳，根源在于平台监管制度不够完善。一方面，平台监管制度存在漏洞，缺乏对服务供应商及从业人员的全流程、动态化监督机制，导致服务标准难以有效落实。在送餐环节，由于未建立严格的配送人员准入与考核制度，部分从业者未经专业配送技能培训便上岗作业。在食堂作业层面，人员管理同样存在重大隐患。部分工作人员未按规定取得健康证明，其健康状况难以保障；同时，餐盒清洗消毒流程缺乏标准化操作规范与专业培训，致使清洗环节存在死角，污渍残留。更为关键的是，食品安全知识培训体系的缺失，使得工作人员对餐食储存、包装、运输等关键环节的卫生要求认知模糊，难以确保从食材加工到终端配送的全链条食品安全标准。进一步加剧了服务质量提升的困境。另一方面，助餐服务的反馈渠道有限且缺乏便捷性，老年用餐者多依赖电话或现场口头反馈，缺乏线上即时反馈途径，导致部分问题无法及时传递给服务提供者。即使用餐者成功反馈问题，后续处理流程也存在效率低下、责任归属不明的情况，反馈信息常陷入无人跟进、石沉大海的局面。此外，服务平台未能建立有效的反馈信息分析与利用机制，无法从大量反馈中提炼出具有针对性的改进方向，致使同类问题反复出现，难以通过用餐者的真实反馈实现服务质量的持续优化。",
+        "bbox": [
+            136,
+            493,
+            885,
+            879
+        ],
+        "page_idx": 47
+    },
+    {
+        "type": "page_number",
+        "text": "—42— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 47
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "4.3.2 对老年人需求调研不够深入全面",
+        "text_level": 1,
+        "bbox": [
+            137,
+            107,
+            478,
+            124
+        ],
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "造成现有膳食缺乏个性化的主要原因是对老年人需求调研不够深入全面。在设计助餐服务膳食方案时，未能充分运用专业的社会工作调查方法，深入了解不同老年人个体在健康、口味、文化习俗等方面的差异与特殊需求，导致膳食规划缺乏精准的需求导向。养老服务平台的信息沟通与反馈机制不完善，老年人及其家属在订餐过程中，即使有个性化需求，也没有及时向助餐服务方传达。同时，助餐服务方在服务过程中，未能及时收集老年人对膳食的反馈意见，难以根据反馈对膳食方案进行动态调整与优化。因此餐饮供应方缺少经验，服务对象过少难以形成规模化运营，多数周边餐饮商家缺乏针对老年人特殊膳食需求的研发与制作经验，且缺乏专业的营养师或健康饮食顾问进行指导，难以在保证成本与效率的前提下，开发出多样化、个性化的老年餐品。",
+        "bbox": [
+            136,
+            142,
+            885,
+            370
+        ],
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "4.3.3 餐饮供应方的成本有限 ",
+        "text_level": 1,
+        "bbox": [
+            137,
+            405,
+            396,
+            422
+        ],
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "“互联网+”助餐虽然促进了助餐服务资源的整合，平台选择了一批优质的餐饮合作伙伴纳入助餐服务体系，但多为中心食堂，养老院的附属食堂，但是他们的运营成本有限。针对助餐模式和时间单一的问题，对部分老年助餐服务点进行深入了解后发现主要原因是由于供应早餐晚餐和周末的膳食会导致工作人员工作量负荷，运营成本增加。主要是由于若增设早餐、晚餐以及在周末供应膳食，将会显著增加工作人员的工作量。早餐需提前早起准备食材、烹饪，晚餐供应结束后又需进行收尾清理工作，周末额外的运营也使得人力调配更为紧张。同时，食材采购量的增加、设备运转时间的延长等，都会导致运营成本大幅攀升。",
+        "bbox": [
+            136,
+            439,
+            885,
+            643
+        ],
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "我们晚上和周末工作人员是不上班的，如果晚上和周末上班，那我们的人力成本就要增加，如果老人要周末订餐可能要看看附近是否合作的饭店在营业。（FT10）",
+        "bbox": [
+            173,
+            659,
+            847,
+            728
+        ],
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "4.3.4 老年人缺少互联网学习机会",
+        "text_level": 1,
+        "bbox": [
+            137,
+            765,
+            438,
+            783
+        ],
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "老年人互联网思维薄弱的主要原因是老年人身体机能退化，阻碍其互联网思维发展。感官上，视力下降使他们难以看清电子设备屏幕内容，操作按钮过小也增加难度；听力衰退影响对语音提示等内容的接收。缺乏系统学习机会，成长时互联网未普及，教育体系缺相关内容。步入老年，社会提供的学习资源有限，社区培训频次低、内容",
+        "bbox": [
+            136,
+            800,
+            885,
+            897
+        ],
+        "page_idx": 48
+    },
+    {
+        "type": "page_number",
+        "text": "—43— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            946
+        ],
+        "page_idx": 48
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            321,
+            978
+        ],
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "浅，如仅教微信聊天，不涉及公众号信息获取等进阶内容。家庭中子女教导缺乏耐心与方法。心理因素制约也是关键因素，老年人对互联网恐惧焦虑，怕操作失误致设备损坏、资金损失或信息泄露，网络诈骗新闻使其不敢尝试新功能。",
+        "bbox": [
+            136,
+            107,
+            880,
+            175
+        ],
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "4.3.5 “互联网+”社区居家养老服务宣传方式单一",
+        "text_level": 1,
+        "bbox": [
+            136,
+            212,
+            598,
+            231
+        ],
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "社区和居家养老服务中心多采用海报作为宣传方式，但是海报可能存在张贴位置不显眼、展示时间有限等问题，未能充分覆盖老年人群体的日常活动范围，导致大量老人难以接触到相关信息。同时，宣传形式过于单一，仅依靠海报无法全面、生动地展示助餐服务的优势与小程序的便捷功能。加之缺乏持续有效的宣传推广策略，未能形成多渠道、高频次的信息传播矩阵，使得宣传工作犹如“蜻蜓点水”，难以在老人心中留下深刻印记，严重阻碍了助餐服务的推广与普及，亟待创新宣传方式，加大宣传力度，提升宣传效果。宣传内容也存在问题，多聚焦技术操作，未突出养老服务优势，如便捷订餐、紧急求助等功能能如何切实改善老年生活。且语言表述复杂，未考虑老年人理解能力。此外，宣传时间缺乏持续性，未形成长期、连贯的宣传计划，难以在老人心中留下深刻印象，导致许多老人对服务知之甚少，影响参与积极性。",
+        "bbox": [
+            136,
+            249,
+            884,
+            502
+        ],
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "4.3.6 “互联网+”社区居家养老服务平台信息化水平有待提升",
+        "text_level": 1,
+        "bbox": [
+            136,
+            538,
+            699,
+            555
+        ],
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "导致“互联网 $+$ ”社区居家养老服务平台信息化水平低的原因主要有以下几个方面：一是技术投入有限，社区在平台建设初期可能由于资金、技术人才等资源的限制，选择了较为简易、低成本的技术方案，未能充分考虑到平台未来的扩展性和多功能性需求，导致在后续发展过程中难以进行大规模的功能升级与优化；二是缺乏专业的信息化建设规划与管理，在平台建设过程中，没有充分借鉴先进的养老服务平台信息化建设经验，缺乏专业的信息系统分析师、软件工程师等参与规划与设计，导致平台架构不合理，功能模块设置不完善；三是对老年人需求和信息技术应用能力的忽视，在平台设计与开发过程中，没有深入调研老年人的实际需求和使用习惯，没有充分考虑到老年人在信息技术应用方面的特殊性和困难，缺乏针对性的设计与培训指导，使得平台难以满足老年人的使用需求并获得其认可；四是相关政策与标准的缺失，在“互联网 $+$ ”社区居家养老服务平台建设领域，目前缺乏统一的行业标准与政策规范，导致不同社区的平台建设各自为政，质量参差不齐，难以实现资源共享与协同发展，也不利于整体信息化水平的提升与完善。",
+        "bbox": [
+            136,
+            573,
+            885,
+            904
+        ],
+        "page_idx": 49
+    },
+    {
+        "type": "page_number",
+        "text": "—44— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            946
+        ],
+        "page_idx": 49
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "5 “互联网+”社区老年助餐服务的优化路径",
+        "text_level": 1,
+        "bbox": [
+            201,
+            101,
+            818,
+            126
+        ],
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "5.1 提高助餐服务质量",
+        "text_level": 1,
+        "bbox": [
+            137,
+            161,
+            342,
+            179
+        ],
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "5.1.1 加强平台监管制度",
+        "text_level": 1,
+        "bbox": [
+            137,
+            196,
+            356,
+            214
+        ],
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "根据第三章老年人满意度分析，助餐服务在细节上还存在不足，提高助餐服务质量要加强平台监管制度。一要入职资质审查，招聘时严格把关，食堂工作人员需持有效健康证，且有餐饮从业经验，熟悉食品加工与清洁卫生规范所有工作人员的资质信息均应及时上传至助餐服务平台，以此保障每一位使用该平台的老人能够放心用餐，充分享受到安全、可靠的助餐服务。送餐人员优先录用有物流配送经验、熟悉当地路况且服务意识佳者，确保从源头保障服务质量；二要定期技能培训，针对食堂工作人员，定期开展餐盒清洁与食品卫生操作培训，详细讲解餐盒清洗流程，包括清洁剂使用、多道冲洗及高温消毒步骤，确保餐盒洁净。同时培训食品包装技巧，合理摆放菜品，防止汤汁溢出。对送餐人员，组织配送技能培训，教授在颠簸路况平稳驾驶及正确搬运餐食的方法，减少餐食损坏，服务供给方在平台上传培训证明，方便监管端监督和检查；三是拓宽用餐者反馈渠道，可以满足老年人的表达性需要，拓宽老年人表达需求的途径，多元反馈入口，除栖彩颐养小程序的反馈渠道，还在助餐服务点设置意见箱，方便老人书面反馈。同时，开通客服热线和加强平台监管力度，安排专人接听老人来电或抽查调研，确保反馈渠道多样且便捷，增加即时反馈机制，送餐人员送达后，邀请老人通过APP或口头方式即时反馈，如餐盒是否卫生、有无菜汤溢出等。工作人员将反馈实时录入系统，平台自动汇总分析，助餐团队能及时掌握问题。定期开展回访调研，服务团队定期回访老人，助餐服务提供者能从中捕捉到更全面、细致的老年人感觉性需要，然后对反馈过问题的老人重点跟进，收集改进建议，持续优化服务，提升老人满意度。",
+        "bbox": [
+            136,
+            231,
+            885,
+            721
+        ],
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "5.1.2 完善老年人助餐服务需求信息数据库",
+        "text_level": 1,
+        "bbox": [
+            137,
+            756,
+            517,
+            772
+        ],
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "根据图3.1，3.2，3.3可知，还是有一部分老人对菜品的口味，丰富度，卫生不太满意，因此完善服务平台信息系统，通过“栖彩颐养”系统收集与分析，详细记录每位老年人的饮食偏好、健康状况等关键信息，是提高膳食服务质量的重要一环。比如，系统精准记录老人对酸甜苦辣口味的偏好程度，以及是否对某些食材过敏等。针",
+        "bbox": [
+            136,
+            791,
+            885,
+            890
+        ],
+        "page_idx": 50
+    },
+    {
+        "type": "page_number",
+        "text": "—45— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 50
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "对有特殊饮食需求的老年人，像糖尿病患者，系统会依据专业营养师的建议，精心搭配低升糖指数的食材，提供富含膳食纤维、低糖且营养均衡的餐食，严格控制碳水化合物的摄入量，助力血糖稳定。对于高血压患者，则主打低盐、低脂餐食，增加蔬菜、水果以及富含钾元素食物的比例。系统可以通过大数据考虑到老年人经济状况的差异，系统联合助餐机构，提供从基础实惠型到品质提升型等不同档次的餐食选择。经济较为宽裕的老人，通过与普通经济水平老人的比较，期望在饮食上获得更高品质的享受。系统推出的品质提升型高端餐食，选用更优质的食材，烹饪工艺更为精细，满足了这部分老人对精致饮食的追求。例如，高端餐食可能选用有机蔬菜、优质肉类，并由专业厨师精心烹制，菜品的摆盘与口感都更具品质感，这正是基于经济状况差异比较下，对不同层次老人需求的满足。充分考虑到老年人因经济状况不同而产生的比较性需要，为各经济层次的老人提供了适配的餐食选择，助力他们在助餐服务中实现与自身经济实力相匹配的用餐体验。此外，政府及相关部门还应加大对老年食堂的补贴力度，降低运营成本，让各档次餐食价格更合理，确保每位老人都能在享受个性化服务的同时，吃得健康、吃得满意。",
+        "bbox": [
+            136,
+            105,
+            887,
+            464
+        ],
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "构建老年人信息数据库可能会面临的挑战：第一信息收集有难度，部分老年人由于文化程度较低、对信息安全的担忧或身体机能限制等原因，可能不愿意配合提供个人信息，此外，一些老年人的信息可能分散在不同的医疗机构、社区组织或政府部门，整合这些碎片化信息存在一定的技术与行政障碍；第二存在数据安全与隐私保护问题，老年人信息涉及个人隐私，如健康状况、家庭住址等敏感信息。在数据库构建与使用过程中，如何确保数据的安全存储、传输与访问权限控制，防止信息泄露与滥用，是至关重要的问题。一旦发生数据安全事件，不仅会损害老年人的个人权益，还可能导致整个助餐服务体系的信任危机；第三需要数据更新与维护，老年人的信息是动态变化的，如健康状况可能随时间推移而改变，饮食偏好也可能因生活经历或身体变化而调整。因此，需要建立有效的数据更新机制，确保数据库中的信息能够及时、准确地反映老年人的实际情况。然而，在实际操作中，由于人力、物力与技术等方面的限制，数据更新与维护往往面临较大挑战。",
+        "bbox": [
+            136,
+            472,
+            890,
+            778
+        ],
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "完善老年人信息数据库一要加强宣传与沟通，通过社区宣传、志愿者上门讲解、举办健康讲座等多种形式，向老年人及其家属宣传构建信息数据库的目的、意义与用途，消除他们的顾虑与担忧，并强调数据安全与隐私保护措施，如采用加密技术存储数据、严格限制数据访问权限等，提高老年人对信息收集工作的信任度与配合度；二要建立多部门协作机制，整合民政、卫生健康、社区等多部门资源，打破信息壁垒，",
+        "bbox": [
+            136,
+            785,
+            884,
+            909
+        ],
+        "page_idx": 51
+    },
+    {
+        "type": "page_number",
+        "text": "-46— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 51
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "提高工作效率与协同性，实现老年人信息的共享与互通，同时制定统一的数据标准与规范，确保不同部门收集的信息能够有效整合到数据库中；三要运用先进技术手段，利用大数据、云计算、物联网等先进技术构建老年人信息数据库，通过大数据技术对海量的老年人信息进行分析与挖掘，提取有价值的信息，为助餐服务决策提供支持；借助云计算技术实现数据的安全存储与弹性扩展，降低数据管理成本；利用物联网技术实现老年人健康数据的自动采集与实时传输，如通过智能手环等设备监测老人的身体状况并自动上传至数据库，提高数据的及时性与准确性；最后还要完善数据更新与维护机制，建立定期与不定期相结合的数据更新制度，定期通过问卷调查、电话回访、社区走访等方式对老年人信息进行全面更新，不定期根据老年人的特殊事件（如疾病突发、家庭变故）或服务反馈及时更新相关信息。同时，安排专人负责数据库的日常维护工作，包括数据的清洗、整理、备份等，确保数据库的稳定运行与数据质量。",
+        "bbox": [
+            136,
+            105,
+            885,
+            388
+        ],
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "5.1.3 合理整合调配助餐资源",
+        "text_level": 1,
+        "bbox": [
+            137,
+            422,
+            400,
+            441
+        ],
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "供餐模式和时间单一影响了老人用餐质量，邀请更多周边的优质餐饮企业合作加入助餐项目，整合调配资源录入平台系统。周边饭店通常具备完备的烹饪设施、专业的厨师团队以及成熟的食材供应链，可以在周末和全天为老人提供膳食，在供餐模式上，饭店能带来多样化菜品，如精致小炒、特色面食等，丰富老人的餐食选择，打破传统助餐点单调的菜品格局。平台也让老年人能便捷获取不同地区、不同助餐机构的服务信息，从而产生比较性需要。比如通过社交，老人看到其他社区老年助餐服务有丰富的菜品选择，还有智能点餐推荐系统，对比自身所在社区助餐服务，就可能产生对更多菜品、智能化点餐服务的需求。也促进和加剧助餐服务机构间的竞争。当一家助餐机构利用互联网推出新服务，如线上预订享优惠、定期举办美食文化活动等，其他机构为吸引老年客户，也会借鉴创新，促使整个行业服务水平提升，满足老年人因比较产生的更多需求。通过整合附近饭店资源，助餐点能借助其人力、物力，在不显著增加成本与工作量的情况下，实现供餐模式多元化、供餐时间灵活化，更好地满足老年人不同时段、不同口味的用餐需求。但是会出现数据整合难题，栖彩颐养平台原有的数据体系主要围绕内部助餐服务点构建，涵盖老人信息、菜品库存、订单记录等。周边饭店加入后，其自身业务数据格式、存储方式与平台差异巨大。饭店的菜品信息，如食材搭配、烹饪工艺描述等，可能与平台现有标准不兼容，订单处理流程也各不相同，有的饭店人工记账，有的使用简单收银系统，难以与平台自动化订单系统对接。",
+        "bbox": [
+            136,
+            457,
+            887,
+            897
+        ],
+        "page_idx": 52
+    },
+    {
+        "type": "page_number",
+        "text": "—47— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 52
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "这要求平台投入大量人力、物力进行数据梳理与整合，重新制定统一的数据标准，开发数据接口，实现饭店与平台数据的顺畅交互，否则将导致信息混乱，影响服务效率与决策准确性。服务流程需要加强协调平台以往的服务流程相对固定且统一，从订餐、备餐到送餐，各环节紧密衔接。引入饭店后，饭店的运营节奏、服务时间与平台不完全同步。例如，部分饭店早餐供应时间早于平台规定的统一订餐截止时间，老人难以在平台上及时下单；晚餐时段，饭店可能因自身营业高峰，无法迅速响应平台订单配送需求。平台需重新规划服务流程，协调饭店与内部助餐点的工作节奏，制定详细的时间节点与操作规范，确保各个环节无缝对接，避免出现服务延误或混乱。平台对内部助餐点的监管相对熟悉且易于执行但平台监管复杂度增加，面对众多周边饭店，监管难度呈几何倍数增长。在食品质量监管方面，不同饭店的食材来源广泛、加工环境多样，平台难以像对内部助餐点那样频繁实地检查。服务质量监管也面临挑战，饭店服务人员数量众多且流动性大，平台组织的培训难以全面覆盖与持续跟踪。价格监管同样棘手，饭店可能因市场竞争、经营策略等因素，频繁调整餐品价格，平台需实时监控并及时干预，以保障老人权益。这需要平台构建更完善的监管体系，运用技术手段如远程监控、大数据分析等，结合人工抽查，确保饭店服务符合平台标准。",
+        "bbox": [
+            136,
+            107,
+            885,
+            492
+        ],
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "5.2 提高“互联网+”助餐服务普及度",
+        "text_level": 1,
+        "bbox": [
+            137,
+            526,
+            475,
+            545
+        ],
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "5.2.1 提升老年人“互联网+”助餐技能",
+        "text_level": 1,
+        "bbox": [
+            137,
+            562,
+            500,
+            580
+        ],
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "家庭成员与老年人的生活是最密切的，他们可以更好的帮助和支持老人学习互联网，同时，子女的陪伴和鼓励也能增强老年人学习互联网的信心。子女可以先从最简单的网上订购开始教起，如何找到app、选择社区和膳食、下单、支付、查看配送路程等，有一些接受度低的老人，子女可以直接设置记忆模式，更好操作。家庭成员也应鼓励老人自主学习互联网知识，不局限于网上订购服务。“数字反哺”所带来的行动结果对于代际互动、家庭关系以及中老年群体的日常生活体验有着深刻与长远的影响。“技术反授”它强调老年人在接受新技术的过程中，不仅仅是被动的接受者，也可以成为技术的传授者。例如，一些老年人在学习互联网技术后，可以将自己的经验传授给其他老年人，形成一种互助的学习氛围，来提高“互联网+”助餐服务普及度。这种形式的传授也可利用老人的比较性需要，促进老人学习动力。",
+        "bbox": [
+            136,
+            596,
+            885,
+            851
+        ],
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "5.2.2 加强“互联网+”助餐服务宣传",
+        "text_level": 1,
+        "bbox": [
+            137,
+            885,
+            470,
+            904
+        ],
+        "page_idx": 53
+    },
+    {
+        "type": "page_number",
+        "text": "—48— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 53
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "宣传不到位会直接影响“互联网+”助餐的普及度，所以加强宣传至关重要，首先要开展互联网知识讲座。社区或者居家养老服务中心定期开展互联网知识讲座邀请专业讲师用通俗易懂的语言，系统讲解互联网基础概念、常用工具及安全知识。设置现场实操环节，让老人有机会亲身体验。同时，组织志愿者“一对一”帮扶，为老人提供个性化辅导，针对老人在使用互联网过程中的疑惑随时解答。还可打造线上学习交流群，在群内分享互联网使用教程、趣味资讯等内容，方便老人随时学习交流。此过程也可以满足老人的表达感觉性需要，交流用餐体验，反馈对餐食口味、分量、菜品更新频率等方面的感受。此外，举办互联网应用竞赛活动，如“朋友圈午餐打卡”评选，激发老人学习互联网的积极性与主动性。",
+        "bbox": [
+            136,
+            107,
+            885,
+            334
+        ],
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "拓展多元化宣传渠道，比如传统媒体深度报道、媒体平台广泛传播。传统媒体深度报道与当地电视台、广播电台以及报纸等传统媒体合作，制作专题节目和系列报道。比如电视台可以推出“走进互联网助餐”的专题片，深入介绍“互联网+”助餐服务的运作模式、优势以及实际案例，展示老人通过线上平台便捷订餐的过程，让观众直观感受其便利性。报纸则可开设专栏，邀请专家解读“互联网+”助餐对养老服务体系的重要意义，分析其未来发展趋势。媒体平台广泛传播：利用微信公众号、微博、抖音等热门新媒体平台，制作生动有趣的宣传内容。在微信公众号定期发布图文并茂的推文，内容包括助餐服务的功能介绍、新菜品推荐、用户使用心得等。社区宣传深入渗透：在社区公告栏张贴色彩鲜艳、内容简介的宣传海报，海报上突出“互联网+”助餐服务的便捷功能和优惠信息，如“一键订餐，送餐上门，还有补贴优惠”。定期在社区举办线下宣讲会，邀请平台工作人员现场演示如何使用助餐服务平台，解答居民疑问，发放宣传手册，让居民更深入了解服务细节。",
+        "bbox": [
+            136,
+            341,
+            885,
+            649
+        ],
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "优化宣传内容。要突出服务优势，宣传内容要重点突出“互联网+”助餐服务的便捷性、个性化和安全性。强调老人只需通过手机或电脑，就能随时随地浏览丰富的菜品，根据自己的口味和健康需求定制餐食，并且能实时查看送餐进度。同时，宣传平台在保障食品安全方面的措施，如严格筛选合作商家、食品溯源系统等，消除老人和家属对食品安全的担忧。还可以讲述真实故事：收集和整理老人使用“互联网+”助餐服务后的真实反馈和故事，通过文字、图片、视频等形式进行传播。例如，讲述一位独居老人通过助餐平台解决了日常用餐难题，生活质量得到显著提升的故事，让其他老人和家属感同身受，增强服务的吸引力和可信度。提供实用信息：宣传内容不仅要介绍服务本身，还要提供实用的使用指南和常见问题解答。如详细介绍如何注册",
+        "bbox": [
+            136,
+            656,
+            885,
+            885
+        ],
+        "page_idx": 54
+    },
+    {
+        "type": "page_number",
+        "text": "—49— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            946
+        ],
+        "page_idx": 54
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "账号、下单流程、支付方式以及遇到问题如何联系客服等，帮助老人和家属快速上手使用服务。",
+        "bbox": [
+            136,
+            105,
+            882,
+            151
+        ],
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "5.3 优化信息技术",
+        "text_level": 1,
+        "bbox": [
+            137,
+            187,
+            302,
+            205
+        ],
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "5.3.1 扩大“互联网+”老年助餐服务平台功能",
+        "text_level": 1,
+        "bbox": [
+            136,
+            222,
+            549,
+            240
+        ],
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "随着信息技术在老年助餐服务领域的广泛渗透，服务平台也成为连接老年人与助餐服务的关键桥梁。扩大“互联网+”老年助餐服务平台功能，是满足老年人多元需求、提升养老服务质量、推动养老服务行业发展的重要举措。通过拓展健康管理、社交互动、文化娱乐以及志愿者服务对接等功能，构建全方位的养老服务生态，能够为老年人提供更加便捷、丰富、个性化的养老服务体验的同时也增加了老人对平台的粘度，提高了助餐服务的普及度。平台可深度拓展健康管理功能，借助智能穿戴设备与健康监测仪器，实时收集老人的心率、血压、血糖等健康数据，并上传至平台。平台运用大数据分析技术，为每位老人生成个性化健康报告，一旦数据出现异常，即刻向老人及其家属发出预警，还能根据健康状况定制专属饮食建议，将健康管理与助餐服务紧密结合。社交互动功能的增设也至关重要，老人可在平台创建个人资料，依兴趣爱好、居住区域等条件匹配志同道合的伙伴，参与线上聊天群组、视频通话活动，甚至组织线下聚会。这种社交互动可以有效缓解老人的孤独感，丰富其精神生活，满足他们的表达性需要。文化娱乐功能同样不可或缺。平台整合海量戏曲、评书、老年大学课程等资源，老人足不出户就能享受丰富的文化盛宴，在线学习书法、绘画、手工制作等技能，提升生活品质。同时，定期举办线上文化活动，如文艺作品征集、才艺展示大赛等，激发老人参与热情，展现他们的风采。志愿者服务对接功能的完善，能为老人提供更贴心的关怀。平台搭建志愿者与老人的沟通桥梁，老人可发布陪伴、家务协助、紧急救助等需求，志愿者可依据自身时间与能力接单。在功能拓展过程中，需要加强技术支持与升级、合作伙伴拓展与管理以及用户培训与推广等实施保障措施，确保平台功能的有效实施和稳定运行。只有这样，才能使“互联网+”老年助餐服务平台真正成为老年人养老生活的得力助手，为构建和谐、幸福的老龄化社会贡献力量。",
+        "bbox": [
+            136,
+            256,
+            889,
+            802
+        ],
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "5.3.2 进行服务平台适老性改造",
+        "text_level": 1,
+        "bbox": [
+            137,
+            834,
+            416,
+            852
+        ],
+        "page_idx": 55
+    },
+    {
+        "type": "page_number",
+        "text": "—50— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            946
+        ],
+        "page_idx": 55
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "栖彩颐养小程序基于通用设计理念构建，未能充分考量老年人在生理、心理和认知方面的特殊诉求，导致老年人在使用过程中遭遇诸多困境。因此，对服务平台进行适老性改造是提升老年助餐服务质量的关键举措，更是推动养老服务数字化转型的必然要求。",
+        "bbox": [
+            136,
+            105,
+            885,
+            204
+        ],
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "优化界面设计。简化布局：采用简洁、规整的界面布局，将页面划分为清晰的功能区域，如餐品展示区、订单操作区、个人信息区等。每个区域之间保持适当的留白，避免信息过于拥挤，方便老年人视觉聚焦和信息识别；放大元素：增大文字、图标、按钮等界面元素的尺寸，确保老年人能够轻松看清。文字字体应选择简洁易读的字体类型，如微软雅黑、黑体等，字号一般不小于18磅；图标设计应形象直观，具有明确的表意功能，避免过于抽象或复杂的图形；增强色彩对比度：运用高对比度的色彩组合，如黑与白、深与浅等，突出重要信息和操作按钮。背景颜色宜选择柔和、淡雅的色调，避免过于鲜艳或刺眼的颜色对老年人视力造成刺激。例如，将餐品名称和价格用深色字体显示在浅色背景上，使信息更加醒目；增加语音提示：为平台添加语音功能，在老年人操作过程中提供语音引导和提示。如点击按钮时播放相应的语音说明，页面切换时提示操作结果等。语音语速应适中，语调清晰自然，可设置音量调节功能，以适应不同听力状况的老年人需求。",
+        "bbox": [
+            136,
+            211,
+            884,
+            517
+        ],
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "精简功能与操作流程。突出核心功能：聚焦于老年助餐服务的核心环节，如订餐、查询订单、评价反馈等，将其他非核心功能进行精简或隐藏。在首页显著位置展示订餐入口，方便老年人快速进入订餐流程；简化订餐页面的信息填写，仅保留必要的菜品选择、份数、送餐地址等信息，避免过多的附加选项和广告干扰；简化注册登录：采用多种注册登录方式，如手机号码一键注册登录、微信授权登录等，减少老年人记忆账号密码的负担。对于首次使用平台的老年人，提供详细的注册登录引导教程，可通过图文并茂或视频演示的方式，帮助他们顺利完成注册登录过程；优化订餐流程：将订餐流程简化为几个关键步骤，如选择餐品、确认订单、支付。在选择餐品页面，提供清晰的菜品分类和图片展示，老年人可以通过点击图片或语音指令进行餐品选择；确认订单页面应简洁明了，显示订单的详细信息，如餐品名称、价格、数量、送餐地址等，方便老年人核对；支付页面支持多种支付方式，如微信支付、支付宝支付、亲属代付等，并提供安全提示和操作指南，确保老年人能够安全便捷地完成支付；便捷操作按钮：将操作按钮设计得大而明显，易于点击。例如，订餐按钮采用鲜艳的颜色突出显示，且尺寸足够大，方便老年人操作；订单查询、修改个人信息等常用功能按钮固定在页面底部或侧边栏，方便老年人随时找到并使用。",
+        "bbox": [
+            136,
+            525,
+            890,
+            910
+        ],
+        "page_idx": 56
+    },
+    {
+        "type": "page_number",
+        "text": "-51— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 56
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "强化引导与反馈机制。操作引导：在平台的各个页面设置详细的操作指南和提示信息，以图文并茂或动画演示的方式展示操作步骤。当老年人进入新的功能页面或进行复杂操作时，自动弹出操作提示框，引导他们完成操作。例如，在订餐页面，当老年人选择菜品后，提示框显示“点击‘加入购物车’按钮将菜品加入购物车，然后点击‘结算’按钮进入订单确认页面”等信息；实时反馈：在老年人进行操作后，平台立即给予反馈信息，告知操作结果和下一步操作建议。如点击订餐按钮后，弹出“订单已提交成功，您可以在‘我的订单’页面查看订单状态”的提示框；支付成功后，显示“支付成功，感谢您的使用，您的餐食将在预计时间内送达”的提示信息，并提供订单跟踪链接，方便老年人了解送餐进度；智能客服：引入智能客服系统，为老年人提供24小时在线咨询服务。智能客服能够自动识别老年人的问题，并以简洁易懂的语言回答。当智能客服无法解决问题时，自动转接人工客服，确保老年人的问题得到及时有效的解决。例如，老年人询问某道菜品的食材组成，智能客服能够快速查询并回复相关信息；如果老年人遇到支付失败等复杂问题，智能客服将转接人工客服进行处理。",
+        "bbox": [
+            136,
+            107,
+            885,
+            467
+        ],
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "5.3.3 加强平台信息安全保障",
+        "text_level": 1,
+        "bbox": [
+            137,
+            500,
+            400,
+            519
+        ],
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "在老人使用栖彩颐养小程序的过程中，信息安全保障是最重要的，这不仅关乎老人个人隐私的妥善保护，更直接影响他们对小程序服务的信任度与使用体验。",
+        "bbox": [
+            137,
+            536,
+            882,
+            583
+        ],
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "加强平台信息安全保障，首先要加强数据加密与保护，采用先进的加密算法对老年人的个人信息进行加密处理，确保数据在存储和传输过程中的安全性。建立严格的数据访问权限管理制度，只有经过授权的人员才能访问老年人的个人信息，防止数据泄露事件的发生。定期对平台进行安全漏洞扫描和修复，及时更新系统补丁，保障平台的整体安全。提高支付安全防护，与正规的支付机构合作，采用安全可靠的支付接口和加密协议，确保支付环节的安全性。在支付页面设置多重安全验证，如短信验证码、指纹识别、面部识别等，根据老年人的设备和个人意愿选择合适的验证方式。加强对支付交易的监控和风险预警，一旦发现异常交易行为，立即采取冻结账户、联系用户等措施，保障老年人的资金安全。其次要进行安全意识教育，通过平台推送、社区宣传、短信通知等多种方式，加强对老年人的网络安全意识教育，向老年人普及网络诈骗的常见手段和防范方法，如不随意点击陌生链接、不轻易透露个人信息、遇到",
+        "bbox": [
+            136,
+            588,
+            885,
+            870
+        ],
+        "page_idx": 57
+    },
+    {
+        "type": "page_number",
+        "text": "-52— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            947
+        ],
+        "page_idx": 57
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "可疑情况及时联系平台客服或家人等，定期举办网络安全知识讲座或培训活动，提高老年人的安全防范意识和自我保护能力。",
+        "bbox": [
+            137,
+            105,
+            880,
+            151
+        ],
+        "page_idx": 58
+    },
+    {
+        "type": "page_number",
+        "text": "—53— ",
+        "bbox": [
+            507,
+            935,
+            563,
+            946
+        ],
+        "page_idx": 58
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            322,
+            978
+        ],
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "bbox": [
+            445,
+            101,
+            573,
+            124
+        ],
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "A. 期刊类 ",
+        "text_level": 1,
+        "bbox": [
+            139,
+            167,
+            240,
+            186
+        ],
+        "page_idx": 59
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "[1] 葛颜, 董里, 袁红艳等. 基于“互联网+”社区居家养老服务研究进展[J]. 护理研究, 2024, 38(15): 2741-2745.",
+            "[2] 陈成文, 孙秀兰. 社区老年服务: 英、美、日三国的实践模式及其启示[J]. 社会主义研究, 2010(01): 116.",
+            "[3] 钟慧澜, 章晓懿. 激励相容与共同创业: 养老服务中政府与社会企业合作供给模式研究[J]. 上海行政学院学报, 2015, 16(05): 31-40.",
+            "[4] 积极发展老年助餐服务行动方案[J]. 中国民政, 2023(21): 40-41.",
+            "[5] 冯建光, 王秀兰. 社会福利事业参与主体的主观能动性如何发挥——以老年助餐项目供给主体的角色困惑为视角[J]. 人民论坛, 2014(32): 45-47.",
+            "[6] 李芳, 陈湘江, 杨月等. 南京市秦淮区助餐点空巢人群膳食营养状况调查和评价 [J]. 南京医科大学学报（自然科学版）, 2022, 42(01): 5.",
+            "[7] 万浴, 黄紫荆, 陈刚等. 社区尺度下南京鼓楼区养老设施综合评价研究[J]. 测绘科学, 2021, 46(04): 8.",
+            "[8] 童星. 发展社区居家养老服务以应对老龄化[J]. 探索与争鸣, 2015(08): 69-72.",
+            "[9] 李长远. “互联网+”在社区居家养老服务中应用的问题及对策[J]. 北京邮电大学学报 (社会科学版), 2016, 18(05): 67-73.",
+            "[10] 史玉. 南京出现首家社区老人食堂[J]. 老年世界, 2006(11): 1.",
+            "[11] 严国进. 把老年助餐工程做好[J]. 老年世界, 2015(23): 1.",
+            "[12]郑晶晶. 问卷调查法研究综述[J]. 理论观察, 2014(10): 102-103.",
+            "[13]宁宣. 南京：强主导聚资源撬动居家养老[J]. 乡镇论坛，2019(29): 36-37.",
+            "[14]魏勇. 让老年人尽享家门口的幸福食光[J]. 中国民政, 2024(04): 32.",
+            "[15]周瑛．打造城乡一体助餐服务圈助力老人乐享舌尖上的幸福[J].社会福利(实务版)，2022(12):37.",
+            "[16]吴丹丹，蔡名言．国外智能化养老模式分析报告[J].神州，2019(6):2.",
+            "[17]罗珊珊. 人民日报：提升养老助餐服务水平[J]. 中国食品工业, 2021(20): 19-19.",
+            "[18]王傅，谢思婷．精益治理：城市社区养老助餐服务中的困境破解——以G市某老年人爱心助餐项目为例[J].社会福利(理论版)，2019(7)."
+        ],
+        "bbox": [
+            136,
+            193,
+            882,
+            892
+        ],
+        "page_idx": 59
+    },
+    {
+        "type": "page_number",
+        "text": "—54— ",
+        "bbox": [
+            507,
+            935,
+            561,
+            946
+        ],
+        "page_idx": 59
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            319,
+            978
+        ],
+        "page_idx": 59
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "[19]刘颂.居家养老送餐服务研究综述[J].老龄科学研究，2016,4(9):36-46.",
+            "[20] 丁振涛. 老年数字化助餐服务优化与升级对策研究[J]. 社会福利(理论版), 2023, 4(9): 28-34.",
+            "[21]佚名. “刷脸”就能吃上可口的热乎饭[J]. 中国社会工作, 2021, 000(026): 26.",
+            "[22] 邓婷鹤, 郑晓冬, 杨园争. 老年数字化助餐服务使用特征及影响因素研究——基于北京市调查数据的分析[J]. 城市问题, 2022, 4(6): 47-56, 76.",
+            "[23] 李维涛. 老年助餐服务发展模式与进路基于昆明市案例分析[J]. 河北农业大学学报:社会科学版, 2024, 26(1): 107-116.",
+            "[24]董晓惠. 敬老院+社区养老驿站: 资源整合的养老助餐模式[J]. 中国社会工作, 2023: 10-11.",
+            "[25] 侯日莹, 丛春晓, 郁海香. “互联网+” 背景下社区智慧养老服务优化探析[J]. 吉林广播电视大学学报, 2024(03): 43-45+55.",
+            "[26] 邓婷鹤, 郑晓冬, 杨园争. 老年数字化助餐服务使用特征及影响因素研究——基于北京市调查数据的分析[J]. 城市问题, 2022, 4(6): 47-56, 76.",
+            "[27] 王栋乐, 王明军, 吴赛. “互联网+”社区居家养老服务模式的问题及推广研究[J]. 互联网周刊, 2023, 4(20): 59-61.",
+            "[28] 刘培云. 浅谈社区智慧养老服务[J]. 产业创新研究, 2021, 000(21): 46-49.",
+            "[29] 黄贤云. 为老服务进社区便民服务暖人心[J]. 社区, 2021, 000(10): 46-47.",
+            "[30] 李秀云. 开滦“老帮老”服务型社区模式探析[J]. 华章, 2014(11): 13-13.",
+            "[31] 李琰辉. 社会支持理论视角下社区食堂助老服务优化研究——以S市F社区为例[J]. 中文科技期刊数据库（文摘版）社会科学，2025(2): 025-028."
+        ],
+        "bbox": [
+            136,
+            105,
+            880,
+            646
+        ],
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "B. 专著",
+        "text_level": 1,
+        "bbox": [
+            139,
+            682,
+            218,
+            699
+        ],
+        "page_idx": 60
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "[1] 丹尼 乔金森. 参与观察法[M]. 重庆: 重庆大学出版社, 2017: 3.",
+            "[2] 大城养老编委会. 大城养老: 上海的实践样本[M]. 上海: 上海出版社, 2021: 82.",
+            "[3] 周建芳, 胡雅萍, 朱晓. 智慧养老与老年福祉[M]. 南京: 江苏人民出版社, 2021: 3.",
+            "[4] 全国社会工作者职业水平考试教材编写组. 社会工作综合能力(中级)[M]. 北京: 中国社会出版社, 2024: 119.",
+            "[5] 王思斌. 社会工作概论[M]. 北京：高等教育出版社，2014: 10."
+        ],
+        "bbox": [
+            139,
+            708,
+            880,
+            856
+        ],
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "C. 报纸文章",
+        "text_level": 1,
+        "bbox": [
+            139,
+            891,
+            253,
+            908
+        ],
+        "page_idx": 60
+    },
+    {
+        "type": "page_number",
+        "text": "—55— ",
+        "bbox": [
+            507,
+            935,
+            561,
+            946
+        ],
+        "page_idx": 60
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            319,
+            978
+        ],
+        "page_idx": 60
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "[1] 吴志刚. 扩大老年助餐服务供给“移动型”助餐车上门送餐[N]. 广西法治日报, 2024-01-16(A03). ",
+            "[2] 江苏省老年产业协会.多层次养老全覆盖“幸福养老”成现实图景[N].南京日报，2022-10-15(X09)."
+        ],
+        "bbox": [
+            136,
+            105,
+            885,
+            204
+        ],
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "D. 学位论文",
+        "text_level": 1,
+        "bbox": [
+            139,
+            237,
+            258,
+            256
+        ],
+        "page_idx": 61
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "[1] 陈云霞. 老年助餐福利服务政策研究[D]. 南京师范大学, 2018.",
+            "[2] 杨洋. 社会工作助力社区老年餐厅助餐服务项目研究——以成都市AG老年餐厅为例 [D]. 东北石油大学, 2023.",
+            "[3] 朱明华. 上海市老年助餐服务问题与对策研究[D]. 华东师范大学, 2023.",
+            "[4] 李欣然. 老年助餐服务政策执行效果与优化策略研究——以X区为例[D]. 安徽大学, 2024.",
+            "[5]吕红梅.老年人助餐服务政策实施效果研究——基于包头市Y社区的分析[D].内蒙古科技大学，2023.",
+            "[6] 王妍曼. 政策执行网络视角下的广州市社区居家养老助餐配餐政策执行差异研究[D]. 华南理工大学, 2021.",
+            "[7] 徐璐. 社会工作介入城市社区居家养老服务探讨[D]. 安徽大学, 2017.",
+            "[8] 刘雅玲. 社区日间托老服务中心的服务现状及其改善对策研究——以L社区日间托老服务中心为例[D]. 华南理工大学, 2022.",
+            "[9] 宋沛璐. 社会保障“互联网+”背景下太原市社区居家养老问题研究[D]. 山西财经大学，2022."
+        ],
+        "bbox": [
+            137,
+            262,
+            880,
+            646
+        ],
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "E. 会议论文集",
+        "text_level": 1,
+        "bbox": [
+            139,
+            681,
+            280,
+            699
+        ],
+        "page_idx": 61
+    },
+    {
+        "type": "ref_text",
+        "text": "[1] 苗菁菁，徐建刚. 基于可达性分析的社区养老服务设施空间布局优化研究——以南京市鼓楼区助餐点为例[A]. 见：中国城市规划学会．东莞市人民政府．持续发展理性规划——2017中国城市规划年会论文集(05城市规划新技术应用)[C]. 南京大学建筑与城市规划学院，2017：11.",
+        "bbox": [
+            139,
+            707,
+            880,
+            804
+        ],
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "F. 电子文献",
+        "text_level": 1,
+        "bbox": [
+            139,
+            838,
+            258,
+            856
+        ],
+        "page_idx": 61
+    },
+    {
+        "type": "ref_text",
+        "text": "[1] 中共中央国务院. 习近平: 决胜全面建成小康社会夺取新时代中国特色社会主义伟大胜利——在中国共产党第十九次全国代表大会上的报告[EB/OL]. (2017-10-27)[2024-8-",
+        "bbox": [
+            139,
+            864,
+            882,
+            909
+        ],
+        "page_idx": 61
+    },
+    {
+        "type": "page_number",
+        "text": "—56— ",
+        "bbox": [
+            507,
+            935,
+            561,
+            946
+        ],
+        "page_idx": 61
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            319,
+            978
+        ],
+        "page_idx": 61
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "27]. https://www.gov.cn/zhuanti/2017-10/27/content_5234876.htm. ",
+            "[2] 中共中央国务院. 习近平: 高举中国特色社会主义伟大旗帜为全面建设社会主义现代化国家而团结奋斗——在中国共产党第二十次全国代表大会上的报告[EB/OL]. (2022-10-25)[2024-8-27]. https://www.gov.cn/xinwen/2022-10/25/content_5721685.htm.",
+            "[3] 国务院办公厅. 2015 年政府工作报告[EB/OL]. (2015-03-05)[2023-03-21]. https://www.gov.cn/guowuyuan/2015zfgzbg.htm. ",
+            "[4] 国务院办公厅. 国务院关于积极推进“互联网+”行动的指导意见[EB/OL]. (2015-07-01)[2023-04-21]. https://www.gov.cn/gongbao/content/2015/content_2897187.htm. ",
+            "[5] 南京市人民政府. 南京市第七次全国人口普查公报[EB/OL]. (2021-05-24)[2024-12-20]. https://www.nanjing.gov.cn/zdgk/202105/t20210524_2946168.html."
+        ],
+        "bbox": [
+            139,
+            105,
+            882,
+            361
+        ],
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "G. 英文文献",
+        "text_level": 1,
+        "bbox": [
+            139,
+            394,
+            258,
+            412
+        ],
+        "page_idx": 62
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "[1] Bradshaw J. The Taxonomy of Social Need[M]. New Society, 1972: 641. ",
+            "[2] Oh E, Park H. A Study on Food Service Environments for the Elderly in Community-Focused on Community Senior Lunch Service[J]. Journal of the Korea Institute of Healthcare Architecture, 2014, 20(1): 57-66. ",
+            "[3] Sung S, Lee K E. Current practices and tailoring strategies of food service programs for vulnerable older adults in Seoul[J]. Journal of the Korean Society of Food Science and Nutrition, 2019, 48(12). ",
+            "[4] Choi Y, Lee Y, Lim Y, et al. Village Lunch Table for the Korean Elderly in Rural Areas-A Pilot Program[J]. Journal of Nutrition Education and Behavior, 2017, 49(7): S33. ",
+            "[5] Gong X, Wei C, Liu Y, et al. Design of a home-based food assistance service for the elderly[J]. Human Factors in Aging and Special Needs, 2023: 88(88). ",
+            "[6] Wunderlich S M, Bai Y, O'Malley M A, et al. Improvement of food safety for older adults participating in congregate meal sites[J]. International Journal of Food Safety, Nutrition and Public Health, 2015, 5(2): 101-109. ",
+            "[7] Lin S, Bakker M, Leung E. Robust meal delivery service for the elderly: a case study in Hong Kong[J]. Scientific Reports, 2022, 12(1): 21546. ",
+            "[8] Song R, Jing P, Zhao Z, et al. Diet life service system and intelligent product design for the elderly[A]. In: 2021 2nd International Conference on Intelligent Design (ICID) "
+        ],
+        "bbox": [
+            139,
+            420,
+            882,
+            910
+        ],
+        "page_idx": 62
+    },
+    {
+        "type": "page_number",
+        "text": "—57— ",
+        "bbox": [
+            507,
+            935,
+            561,
+            946
+        ],
+        "page_idx": 62
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            319,
+            978
+        ],
+        "page_idx": 62
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "[C]. IEEE, 2021: 445-450. ",
+            "[9] Wu C Y, Li J, Fu Q. Research on the Construction of Food Safety Supervision Assessment System[A]. In: Proceedings of the 2020 11th International Conference on E-business[C]. Management and Economics, 2020: 260-263. ",
+            "[10] Masroor S, Bulut H, Bahrudin, et al. Review on powered mobility and meal preparin g assistive devices for physically disabled persons[A]. In: Robotics and Mechatronics: Proceedings of the 6th IF To MM International Symposium on Robotics and Mechat ronics (ISRM 2019) [C]. Springer International Publishing, 2020: 16-28. ",
+            "[11]Utilization of Community Care Service and Subjective Well-being of Older People: Evidence from Weifang, China[J]. Innovation in Aging, 2023: 902-903. "
+        ],
+        "bbox": [
+            139,
+            105,
+            885,
+            361
+        ],
+        "page_idx": 63
+    },
+    {
+        "type": "page_number",
+        "text": "—58— ",
+        "bbox": [
+            507,
+            935,
+            561,
+            946
+        ],
+        "page_idx": 63
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            319,
+            978
+        ],
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "附录一 老年人助餐服务情况调查问卷",
+        "text_level": 1,
+        "bbox": [
+            248,
+            99,
+            771,
+            126
+        ],
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "《关于南京栖霞区老年人助餐服务及相关情况调查问卷》",
+        "text_level": 1,
+        "bbox": [
+            263,
+            142,
+            756,
+            160
+        ],
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "尊敬的居民朋友：",
+        "bbox": [
+            179,
+            178,
+            332,
+            195
+        ],
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "您好！为了更好地了解南京栖霞区老年人的生活状况以及对助餐服务的需求，以便为社区提供更优质的养老服务，我们特开展此次问卷调查。您的回答将对我们的研究非常有帮助，请您根据实际情况如实填写。本问卷为匿名调查，所有信息仅用于统计和研究目的，不会泄露您的个人隐私。感谢您的支持与配合！",
+        "bbox": [
+            136,
+            204,
+            882,
+            300
+        ],
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "一、个人基本信息",
+        "text_level": 1,
+        "bbox": [
+            137,
+            334,
+            305,
+            351
+        ],
+        "page_idx": 64
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 您的性别是? A.男 B.女",
+            "2. 您的年龄是？",
+            "3. 您的最高学历是? A.小学及以下 B.初中 C.高中/中专/技校 D.大专 E.本科及以上",
+            "4. 您目前的居住情况是? A.独居 B.与配偶同住 C.与子女同住 D.其他（请注明）",
+            "5. 您的主要经济来源是? A. 离/退休金或劳动收入 B. 家庭其他成员供养 C. 积蓄 D. 国家最低生活保障 E. 其他 (请注明)",
+            "6. 您的身体状况如何? A.很好 B.较好 C.一般 D.较差如有慢性病, 请注明: ) E.很差"
+        ],
+        "bbox": [
+            136,
+            361,
+            872,
+            560
+        ],
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "二、助餐服务使用情况",
+        "text_level": 1,
+        "bbox": [
+            147,
+            595,
+            356,
+            613
+        ],
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "1. 您享受社区助餐服务的原因是（可多选）？",
+        "bbox": [
+            137,
+            621,
+            552,
+            639
+        ],
+        "page_idx": 64
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A.身体不支持做饭",
+            "B.独居，无人做饭 ",
+            "C.有政府补贴",
+            "D.助餐点饭菜便宜多样 ",
+            "E.其他（请注明）"
+        ],
+        "bbox": [
+            173,
+            648,
+            379,
+            769
+        ],
+        "page_idx": 64
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "2. 您享受享受社区助餐服务的频率？每周几次？",
+            "3. 您享受社区助餐服务的方式是？"
+        ],
+        "bbox": [
+            136,
+            778,
+            571,
+            821
+        ],
+        "page_idx": 64
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A.到助餐站点直接拿餐",
+            "B.送餐上门",
+            "C.其他（请注明）"
+        ],
+        "bbox": [
+            173,
+            831,
+            379,
+            898
+        ],
+        "page_idx": 64
+    },
+    {
+        "type": "page_number",
+        "text": "—59— ",
+        "bbox": [
+            507,
+            935,
+            561,
+            946
+        ],
+        "page_idx": 64
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            321,
+            978
+        ],
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "4. 您通过什么方式得知社区助餐？",
+        "bbox": [
+            136,
+            107,
+            450,
+            123
+        ],
+        "page_idx": 65
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A.社区工作人员告知",
+            "B.居家养老服务中心告知",
+            "C.社区邻里或子女转告",
+            "D.社区或居家养老服务中心宣传栏得知"
+        ],
+        "bbox": [
+            176,
+            134,
+            524,
+            228
+        ],
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "5. 每次订餐响应时间？送餐时长？",
+        "bbox": [
+            137,
+            237,
+            452,
+            254
+        ],
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "四、对助餐服务的满意度",
+        "text_level": 1,
+        "bbox": [
+            137,
+            290,
+            366,
+            307
+        ],
+        "page_idx": 65
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 对菜品口味的满意度如何？（非常满意/满意/一般/不满意/非常不满意）",
+            "2. 对菜品丰富度的满意度如何？（非常满意/满意/一般/不满意/非常不满意）",
+            "3. 对饭菜卫生情况的满意度如何？（非常满意/满意/一般/不满意/非常不满意）",
+            "4. 对助餐服务人员态度的满意度如何？（非常满意/满意/一般/不满意/非常不满意）",
+            "5. 对助餐站点环境整洁度的满意度如何？（非常满意/满意/一般/不满意/非常不满意）"
+        ],
+        "bbox": [
+            137,
+            316,
+            878,
+            437
+        ],
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "五、对助餐服务的期望与建议",
+        "text_level": 1,
+        "bbox": [
+            137,
+            473,
+            406,
+            489
+        ],
+        "page_idx": 65
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 您认为社区助餐服务在菜品方面需要改进的地方有（可多选）：",
+            "2. 您对助餐服务的配送方面有什么期望或建议？（可多选）",
+            "3. 您对助餐服务的价格有什么看法？"
+        ],
+        "bbox": [
+            137,
+            499,
+            719,
+            568
+        ],
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "再次感谢您抽出宝贵的时间填写这份问卷！如果您对本次调查有任何疑问或建议，请随时联系我们。",
+        "bbox": [
+            136,
+            577,
+            878,
+            621
+        ],
+        "page_idx": 65
+    },
+    {
+        "type": "page_number",
+        "text": "-60 ",
+        "bbox": [
+            507,
+            935,
+            561,
+            946
+        ],
+        "page_idx": 65
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            319,
+            978
+        ],
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "附录二 W 社区 “互联网+” 老年助餐服务访谈提纲",
+        "text_level": 1,
+        "bbox": [
+            181,
+            101,
+            838,
+            126
+        ],
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "一、社区老年人",
+        "text_level": 1,
+        "bbox": [
+            174,
+            145,
+            315,
+            162
+        ],
+        "page_idx": 66
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 您是通过什么途径了解到咱们社区的老年助餐服务的？（如社区宣传、邻里介绍、线上平台等）",
+            "2. 您觉得助餐点提供的饭菜口味、质量如何？（菜品新鲜度、种类丰富度、是否符合老年人口味等）有没有什么需要改进的地方？",
+            "3. 对于助餐的配送服务，如果您有体验过，配送的时效、餐食的保温情况怎么样？",
+            "4. 您希望在助餐服务中增加哪些菜品或服务项目？（如特殊饮食需求的定制、送餐上门的时间灵活性等）",
+            "5. 对于目前助餐服务的收费标准，您认为合理吗？如果不合理，您觉得怎样的收费标准比较合适？"
+        ],
+        "bbox": [
+            137,
+            171,
+            880,
+            395
+        ],
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "二、中心食堂餐厅工作人员",
+        "text_level": 1,
+        "bbox": [
+            173,
+            432,
+            410,
+            450
+        ],
+        "page_idx": 66
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 请介绍一下咱们老年助餐点的基本情况。",
+            "2. 餐厅的日常运营时间是怎么安排的？是否能满足老年人不同时段的用餐需求？",
+            "3. 新入职的工作人员是否会接受岗前培训？培训内容主要涵盖哪些方面？（食品安全知识、老年服务礼仪、烹饪技能提升等）",
+            "4. 政府对于餐厅有哪些补贴政策？补贴是否能及时到位？补贴力度对餐厅的运营起到了多大的支撑作用？",
+            "5. 餐厅目前的经营收支情况如何？主要的成本支出项目有哪些？（食材采购、人员工资、场地租赁等）",
+            "6. 在餐厅经营过程中，遇到的最大困难是什么？（如食材采购成本上涨、客源不稳定、与社区协调不畅等）",
+            "7. 针对老年人的特殊饮食需求，在食材准备和烹饪上有哪些难点？是如何解决的？"
+        ],
+        "bbox": [
+            136,
+            458,
+            880,
+            736
+        ],
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "三、社区居家养老服务中心负责人和工作人员",
+        "text_level": 1,
+        "bbox": [
+            166,
+            772,
+            559,
+            789
+        ],
+        "page_idx": 66
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 您对社区内有需求的老年人的基本情况了解程度如何？（包括年龄分布、年龄分布、健康状况、经济收入水平、居住分布等）",
+            "2. 是否建立了老年人用餐需求档案？档案多久更新一次？如何根据档案信息优化助餐服务？"
+        ],
+        "bbox": [
+            137,
+            797,
+            880,
+            892
+        ],
+        "page_idx": 66
+    },
+    {
+        "type": "page_number",
+        "text": "-61 ",
+        "bbox": [
+            507,
+            935,
+            561,
+            946
+        ],
+        "page_idx": 66
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            319,
+            978
+        ],
+        "page_idx": 66
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "3. 在老年助餐服务中，社区居家养老服务中心扮演着怎样的角色？主要负责哪些具体工作？（如需求收集、宣传推广、与餐厅沟通协调等）",
+            "4. W社区近几年的助餐变化情况？",
+            "5. 意见与建议：从社区整体层面看，目前老年助餐服务还存在哪些不足之处？需要从哪些方面进行改进？对于未来“互联网+”老年助餐服务的发展方向，您有什么想法或建议？（如线上平台功能拓展、智能化配送管理等）"
+        ],
+        "bbox": [
+            137,
+            108,
+            878,
+            256
+        ],
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "四、社区街道相关工作人员",
+        "text_level": 1,
+        "bbox": [
+            166,
+            291,
+            403,
+            307
+        ],
+        "page_idx": 67
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 政府对于老年助餐服务出台了哪些具体政策？在本街道的落实情况如何？（补贴发放、场地支持、监管措施等）",
+            "2. 在老年助餐服务工作推进过程中，街道遇到的主要问题有哪些？（如资金短缺、政策执行困难、居民参与度不高）",
+            "3. 针对这些问题，街道计划采取哪些措施加以解决？未来有什么工作计划或目标？"
+        ],
+        "bbox": [
+            137,
+            317,
+            878,
+            438
+        ],
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "五、饿了么相关工作人员",
+        "text_level": 1,
+        "bbox": [
+            157,
+            474,
+            374,
+            491
+        ],
+        "page_idx": 67
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 是否接受过岗前培训？",
+            "2. 送餐过程中遇到的问题？",
+            "3. 意见与建议：目前老年助餐服务还存在哪些不足之处？需要从哪些方面进行改进？"
+        ],
+        "bbox": [
+            136,
+            500,
+            878,
+            594
+        ],
+        "page_idx": 67
+    },
+    {
+        "type": "page_number",
+        "text": "-62 ",
+        "bbox": [
+            507,
+            935,
+            559,
+            946
+        ],
+        "page_idx": 67
+    },
+    {
+        "type": "footer",
+        "text": "中国知网 https://www.cnki.net",
+        "bbox": [
+            31,
+            961,
+            319,
+            977
+        ],
+        "page_idx": 67
+    }
+]
